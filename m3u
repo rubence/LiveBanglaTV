@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,ATN
+http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
+#EXTINF:-1,BanglaVision
+http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
+#EXTINF:-1,RTV
+#EXTINF:-1,http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
+#EXTINF:-1,Channel 24
+http://118.179.35.11/hls/Channel24mStU9/05.m3u8
+#EXTINF:-1,Channel I
+http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
+#EXTINF:-1,Ekattor HD
+http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
+#EXTINF:-1,Ekushey TV
+http://118.179.35.11/hls/ETVFQ46s/05.m3u8
+#EXTINF:-1,Independent TV
+http://118.179.35.11/hls/ITV2434BuA/05.m3u8
+#EXTINF:-1,Jamuna TV
+http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
+#EXTINF:-1,NTV
+http://118.179.35.11/hls/nTVKeQBR/05.m3u8
+#EXTINF:-1,SA TV
+http://118.179.35.11/hls/SATVhfnbM/06.m3u8
+#EXTINF:-1,SOMOY TV
+http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
+#EXTINF:-1,BOISHAKHI
+http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
+#EXTINF:-1,DESH TV
+http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
+#EXTINF:-1,MAASRANGA
+http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
+#EXTINF:-1,Gaan Bangla
+http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
+#EXTINF:-1,9XM
+http://118.179.35.11/hls/9XM2Pg3f/02.m3u8
+#EXTINF:-1,Colors
+http://118.179.35.11/hls/Colors-1033SMG37/05.m3u8
+#EXTINF:-1,SONY
+http://118.179.35.11/hls/SONY1032v2drF/05.m3u8
