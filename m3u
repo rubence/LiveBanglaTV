@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,ATN
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
-#EXTINF:-1,BanglaVision
+#EXTINF:-1,BANGLAVISION
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,RTV
 #EXTINF:-1,http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
