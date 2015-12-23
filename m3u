@@ -43,3 +43,5 @@ http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=
 http://stream.zeefamily.tv/andtvhd/index.m3u8
 #EXTINF:-1,NATGEO INDIA
 http://173.199.120.51/hls/ngc.m3u8
+#EXTINF:-1,RT NEWS
+http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
