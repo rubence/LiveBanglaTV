@@ -49,3 +49,7 @@ http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
 #EXTINF:-1,ZEE CINEMA
 http://stream.zeefamily.tv/zeecinema/index.m3u8
+#EXTINF:-1,ZING
+http://stream.zeefamily.tv/zing/index.m3u8
+#EXTINF:-1,CNN
+http://62.210.189.231:8081/freeintertv/cnn/index.m3u8
