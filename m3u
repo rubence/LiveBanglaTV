@@ -87,3 +87,5 @@ http://144.76.3.83/star_gold_in.m3u8?bandwidth=956&token=ec2b08db77ea7c4c0a87f1f
 http://stream.zeefamily.tv/zeeworld/index.m3u8
 #EXTINF:-1,WB INDIA
 http://173.199.120.51/hls/wb.m3u8
+#EXTINF:-1,STAR MOVIES
+http://173.199.120.51/hls/starmovies.m3u8
