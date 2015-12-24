@@ -89,3 +89,5 @@ http://stream.zeefamily.tv/zeeworld/index.m3u8
 http://173.199.120.51/hls/wb.m3u8
 #EXTINF:-1,STAR MOVIES
 http://173.199.120.51/hls/starmovies.m3u8
+#EXTINF:-1,B4U MUSIC
+http://118.179.35.11/hls/b4umusic97w86/05.m3u8
