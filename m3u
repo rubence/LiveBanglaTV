@@ -85,3 +85,5 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase
 http://144.76.3.83/star_gold_in.m3u8?bandwidth=956&token=ec2b08db77ea7c4c0a87f1faf006d963&user=41166&playlistlength=25&time=1450945229456
 #EXTINF:-1,ZEE WORLD
 http://stream.zeefamily.tv/zeeworld/index.m3u8
+#EXTINF:-1,WB INDIA
+http://173.199.120.51/hls/wb.m3u8
