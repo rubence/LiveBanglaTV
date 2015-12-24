@@ -61,3 +61,19 @@ http://stream.zeefamily.tv/zeetvhdus/index.m3u8
 http://stream.zeefamily.tv/zeesmile/index.m3u8
 #EXTINF:-1,TEN SPORTS
 http://178.18.31.53:8081/liverepeater/227468/chunklist_w478443678.m3u8?nimblesessionid=1746319&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxNSA4OjQ1OjU2IEFNJmhhc2hfdmFsdWU9UUdLMzF2blh6aUcxQU1jM1ZRS0crQT09JnZhbGlkbWludXRlcz04
+ #EXTINF:-1,Sky sport F1
+rtmp://89.248.174.101/live/luxsuperssf1
+#EXTINF:-1,Sky sport 5
+rtmp://89.248.174.101/live/luxsuperss5
+#EXTINF:-1,Sky sport 4
+rtmp://89.248.174.101/live/luxsuperss4
+#EXTINF:-1,Sky sport 3
+rtmp://89.248.174.101/live/luxsuperss3
+#EXTINF:-1,Sky sport 2
+rtmp://89.248.174.101/live/luxsuperss2
+#EXTINF:-1,Sky sport 1
+rtmp://89.248.174.101/live/bcdwlyss1
+#EXTINF:-1,BT Sport 2
+rtmp://89.248.174.101/live/luxsuperbts2
+#EXTINF:-1,BT Sport 1
+rtmp://89.248.174.101/live/luxsuperbts1
