@@ -91,3 +91,5 @@ http://173.199.120.51/hls/wb.m3u8
 http://173.199.120.51/hls/starmovies.m3u8
 #EXTINF:-1,B4U MUSIC
 http://118.179.35.11/hls/b4umusic97w86/05.m3u8
+#EXTINF:-1,HBO
+http://www.iptvlinks.tk/_sl/live.m3u8?id=hbo&auth=55d718d195d4964384c8ec8717783d4318c324469ddbcc56f37b7cf716c5dd04
