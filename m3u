@@ -97,3 +97,7 @@ http://www.iptvlinks.tk/_sl/live.m3u8?id=hbo&auth=55d718d195d4964384c8ec8717783d
 http://www.iptvlinks.tk/_ds/live.m3u8?id=discovery-uk&auth=134a594851faa8ceb76eb3dd2c91c2c1993502b10c01b48ca1dcd7802fc4e19a9378ca56a9d958b2665881e061021dce
 #EXTINF:-1,USA
 rtmp://lb.miplayer.net:1935/goLive/_definst_/usa
+#EXTINF:-1,MTV UK
+http://www.iptvlinks.tk/_ds/live.m3u8?id=mtv-uk&auth=6e4fba6cf618854b947952ae928e2ebf3c02d52f0fb50cf8f933d88da19204b070720ac7b8a1cf99367ab096a704249f
+#EXTINF:-1,MTV US
+http://www.iptvlinks.tk/_ds/live.m3u8?id=mtv&auth=001363700609d8766b69ed508674dab1a5959abda49834b2d1d32292f5b855d0
