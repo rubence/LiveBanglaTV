@@ -101,3 +101,5 @@ rtmp://lb.miplayer.net:1935/goLive/_definst_/usa
 http://www.iptvlinks.tk/_ds/live.m3u8?id=mtv-uk&auth=6e4fba6cf618854b947952ae928e2ebf3c02d52f0fb50cf8f933d88da19204b070720ac7b8a1cf99367ab096a704249f
 #EXTINF:-1,MTV US
 http://www.iptvlinks.tk/_ds/live.m3u8?id=mtv&auth=001363700609d8766b69ed508674dab1a5959abda49834b2d1d32292f5b855d0
+#EXTINF:-1,BBC WORLD
+http://www.iptvlinks.tk/wt/live.m3u8?id=bbcworldnews&auth=82d869cc9fc608317aed05233cfe713e29fa1f4d0da711c260b6e0191c163c176dc64d7fcd237ba9a6902aee53ecf669
