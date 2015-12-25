@@ -103,3 +103,5 @@ http://www.iptvlinks.tk/_ds/live.m3u8?id=mtv-uk&auth=6e4fba6cf618854b947952ae928
 http://www.iptvlinks.tk/_ds/live.m3u8?id=mtv&auth=001363700609d8766b69ed508674dab1a5959abda49834b2d1d32292f5b855d0
 #EXTINF:-1,BBC WORLD
 http://www.iptvlinks.tk/wt/live.m3u8?id=bbcworldnews&auth=82d869cc9fc608317aed05233cfe713e29fa1f4d0da711c260b6e0191c163c176dc64d7fcd237ba9a6902aee53ecf669
+#EXTINF:-1,AL JAZEERA
+http://webjia.tk/fetch.php/aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
