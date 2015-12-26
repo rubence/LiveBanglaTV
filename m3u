@@ -61,6 +61,8 @@ http://stream.zeefamily.tv/zeetvhdus/index.m3u8
 http://stream.zeefamily.tv/zeesmile/index.m3u8
 #EXTINF:-1,TEN SPORTS
 http://178.18.31.53:8081/liverepeater/227468/chunklist_w478443678.m3u8?nimblesessionid=1746319&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxNSA4OjQ1OjU2IEFNJmhhc2hfdmFsdWU9UUdLMzF2blh6aUcxQU1jM1ZRS0crQT09JnZhbGlkbWludXRlcz04
+#EXTINF:-1,STAR SPORTS 4
+http://173.199.120.51/hls/starsports4.m3u8
 #EXTINF:-1,Real madrid
 http://40.113.21.146:8000/Daziptv/Streamall/154.ch
 #EXTINF:-1,Arriadia HD Full
