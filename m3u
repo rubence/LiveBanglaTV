@@ -97,20 +97,18 @@ http://173.199.120.51/hls/wb.m3u8
 http://173.199.120.51/hls/starmovies.m3u8
 #EXTINF:-1,B4U MUSIC
 http://118.179.35.11/hls/b4umusic97w86/05.m3u8
-#EXTINF:-1,HBO
-http://www.iptvlinks.tk/_sl/live.m3u8?id=hbo&auth=55d718d195d4964384c8ec8717783d43ba11e3185708f8dcf90caabc671440df
-#EXTINF:-1,DISCOVERY UK
+
+#EXTINF:0,ZEE BOLLYWOOD
+ 
+http://stream.zeefamily.tv/zeebollywood/index.m3u8
+ 
+#EXTINF:0,ZEE LAMHE
+ 
+http://stream.zeefamily.tv/zeelamhe/index.m3u8
 http://www.iptvlinks.tk/_ds/live.m3u8?id=discovery-uk&auth=134a594851faa8ceb76eb3dd2c91c2c1993502b10c01b48ca1dcd7802fc4e19a9378ca56a9d958b2665881e061021dce
 #EXTINF:-1,USA
 rtmp://lb.miplayer.net:1935/goLive/_definst_/usa
-#EXTINF:-1,MTV UK
-http://www.iptvlinks.tk/_ds/live.m3u8?id=mtv-uk&auth=6e4fba6cf618854b947952ae928e2ebf3c02d52f0fb50cf8f933d88da19204b070720ac7b8a1cf99367ab096a704249f
-#EXTINF:-1,MTV US
-http://www.iptvlinks.tk/_ds/live.m3u8?id=mtv&auth=001363700609d8766b69ed508674dab1a5959abda49834b2d1d32292f5b855d0
-#EXTINF:-1,BBC WORLD
-http://www.iptvlinks.tk/wt/live.m3u8?id=bbcworldnews&auth=82d869cc9fc608317aed05233cfe713e29fa1f4d0da711c260b6e0191c163c176dc64d7fcd237ba9a6902aee53ecf669
-#EXTINF:-1,AL JAZEERA
-http://webjia.tk/fetch.php/aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+
 #EXTINF:-1,beINSPORT01_HD
 http://iptv-elhouari.com:8000/live/star/test/110.ts
 #EXTINF:-1,beINSPORT02_HD
