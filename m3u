@@ -61,18 +61,24 @@ http://stream.zeefamily.tv/zeetvhdus/index.m3u8
 http://stream.zeefamily.tv/zeesmile/index.m3u8
 #EXTINF:-1,TEN SPORTS
 http://178.18.31.53:8081/liverepeater/227468/chunklist_w478443678.m3u8?nimblesessionid=1746319&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxNSA4OjQ1OjU2IEFNJmhhc2hfdmFsdWU9UUdLMzF2blh6aUcxQU1jM1ZRS0crQT09JnZhbGlkbWludXRlcz04
- #EXTINF:-1,Sky sport F1
-rtmp://89.248.174.101/live/luxsuperssf1
-#EXTINF:-1,Sky sport 5
-rtmp://89.248.174.101/live/luxsuperss5
-#EXTINF:-1,Sky sport 4
-rtmp://89.248.174.101/live/luxsuperss4
-#EXTINF:-1,Sky sport 3
-rtmp://89.248.174.101/live/luxsuperss3
-#EXTINF:-1,Sky sport 2
-rtmp://89.248.174.101/live/luxsuperss2
-#EXTINF:-1,Sky sport 1
-rtmp://89.248.174.101/live/bcdwlyss1
+#EXTINF:-1,Real madrid
+http://40.113.21.146:8000/Daziptv/Streamall/154.ch
+#EXTINF:-1,Arriadia HD Full
+http://40.113.21.146:8000/Daziptv/Streamall/155.ch
+#EXTINF:-1,Dubai Racing HD
+http://40.113.21.146:8000/Daziptv/Streamall/158.ch
+#EXTINF:-1,Dubai Sport 3 HD
+http://40.113.21.146:8000/Daziptv/Streamall/156.ch
+#EXTINF:-1,Sky Sports 1  HD
+http://40.113.21.146:8000/Daziptv/Streamall/168.ch
+#EXTINF:-1,Sky Sports 2  HD
+http://40.113.21.146:8000/Daziptv/Streamall/163.ch
+#EXTINF:-1,Sky Sports 3  HD
+http://40.113.21.146:8000/Daziptv/Streamall/164.ch
+#EXTINF:-1,Sports 4  HD
+http://40.113.21.146:8000/Daziptv/Streamall/165.ch
+#EXTINF:-1,Sky Sports 5  HD
+http://40.113.21.146:8000/Daziptv/Streamall/166.ch
 #EXTINF:-1,BT Sport 2
 rtmp://89.248.174.101/live/luxsuperbts2
 #EXTINF:-1,BT Sport 1
@@ -105,3 +111,28 @@ http://www.iptvlinks.tk/_ds/live.m3u8?id=mtv&auth=001363700609d8766b69ed508674da
 http://www.iptvlinks.tk/wt/live.m3u8?id=bbcworldnews&auth=82d869cc9fc608317aed05233cfe713e29fa1f4d0da711c260b6e0191c163c176dc64d7fcd237ba9a6902aee53ecf669
 #EXTINF:-1,AL JAZEERA
 http://webjia.tk/fetch.php/aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1,beINSPORT01_HD
+http://iptv-elhouari.com:8000/live/star/test/110.ts
+#EXTINF:-1,beINSPORT02_HD
+http://iptv-elhouari.com:8000/live/star/test/109.ts
+#EXTINF:-1,beINSPORT03_HD
+http://iptv-elhouari.com:8000/live/star/test/108.ts
+#EXTINF:-1,beINSPORT04_HD
+http://iptv-elhouari.com:8000/live/star/test/107.ts
+#EXTINF:-1,beINSPORT05_HD
+http://iptv-elhouari.com:8000/live/star/test/106.ts
+#EXTINF:-1,beINSPORT06_HD
+http://iptv-elhouari.com:8000/live/star/test/105.ts
+#EXTINF:-1,beINSPORT07_HD
+http://iptv-elhouari.com:8000/live/star/test/104.ts
+#EXTINF:-1,beINSPORT08_HD
+http://iptv-elhouari.com:8000/live/star/test/103.ts
+#EXTINF:-1,beINSPORT09_HD
+http://iptv-elhouari.com:8000/live/star/test/102.ts
+#EXTINF:-1,beINSPORT10_HD
+http://iptv-elhouari.com:8000/live/star/test/101.ts
+#EXTINF:-1,Bein.movies.1HD
+http://iptv-elhouari.com:8000/live/star/test/413.ts
+#EXTINF:-1,Bein.movies.2HD
+http://iptv-elhouari.com:8000/live/star/test/414.ts
+
