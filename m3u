@@ -135,4 +135,7 @@ http://iptv-elhouari.com:8000/live/star/test/101.ts
 http://iptv-elhouari.com:8000/live/star/test/413.ts
 #EXTINF:-1,Bein.movies.2HD
 http://iptv-elhouari.com:8000/live/star/test/414.ts
+#EXTINF:-1, Weather Channel
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
+
 
