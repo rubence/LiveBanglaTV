@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,ATN
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
+#EXTINF:-1,ATN MUSIC
+http://109.123.116.246:1935/c2VydmVyX3RpbWU9OS8yNi8yMDE1IDExOjQ5OjE5IEFNJmhhc2hfdmFsdWU9dmVZS3JkajdpV09lcnZwYkZKOEYrUT09JnZhbGlkbWludXRlcz0yMDE/atnmusic-720p.stream/chunklist_w348594823_tka2V5ZW5kdGltZT0xNDUxMjU1NzAwJmtleXN0YXJ0dGltZT0wJmtleWhhc2g9Y0JrMy1Sdl91TXg0NUhKYTJhc1kyN1VWRFpLTU1ReHNJc0QyUU9OdlVDOD0=.m3u8
 #EXTINF:-1,BANGLAVISION
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,CHANNEL 24
@@ -53,8 +55,7 @@ http://stream.zeefamily.tv/zeecinema/index.m3u8
 http://stream.zeefamily.tv/zing/index.m3u8
 #EXTINF:-1,CNN
 http://62.210.189.231:8081/freeintertv/cnn/index.m3u8
-#EXTINF:-1, tvg-logo="CNN US.png" group-title="Information",CNN US
-http://iptvcanales.com/xw/premium.php?cmd=3133
+
 #EXTINF:-1,ZEE BANGLA
 http://stream.zeefamily.tv/zeebangla/index.m3u8
 #EXTINF:-1,ZEE TV
@@ -65,28 +66,8 @@ http://stream.zeefamily.tv/zeesmile/index.m3u8
 http://178.18.31.53:8081/liverepeater/227468/chunklist_w478443678.m3u8?nimblesessionid=1746319&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxNSA4OjQ1OjU2IEFNJmhhc2hfdmFsdWU9UUdLMzF2blh6aUcxQU1jM1ZRS0crQT09JnZhbGlkbWludXRlcz04
 #EXTINF:-1,STAR SPORTS 4
 http://173.199.120.51/hls/starsports4.m3u8
-#EXTINF:-1,Real madrid
-http://40.113.21.146:8000/Daziptv/Streamall/154.ch
-#EXTINF:-1,Arriadia HD Full
-http://40.113.21.146:8000/Daziptv/Streamall/155.ch
-#EXTINF:-1,Dubai Racing HD
-http://40.113.21.146:8000/Daziptv/Streamall/158.ch
-#EXTINF:-1,Dubai Sport 3 HD
-http://40.113.21.146:8000/Daziptv/Streamall/156.ch
-#EXTINF:-1,Sky Sports 1  HD
-http://40.113.21.146:8000/Daziptv/Streamall/168.ch
-#EXTINF:-1,Sky Sports 2  HD
-http://40.113.21.146:8000/Daziptv/Streamall/163.ch
-#EXTINF:-1,Sky Sports 3  HD
-http://40.113.21.146:8000/Daziptv/Streamall/164.ch
-#EXTINF:-1,Sports 4  HD
-http://40.113.21.146:8000/Daziptv/Streamall/165.ch
-#EXTINF:-1,Sky Sports 5  HD
-http://40.113.21.146:8000/Daziptv/Streamall/166.ch
-#EXTINF:-1,BT Sport 2
-rtmp://89.248.174.101/live/luxsuperbts2
-#EXTINF:-1,BT Sport 1
-rtmp://89.248.174.101/live/luxsuperbts1
+
+
 #EXTINF:-1,ZEE LIVING
 http://stream.zeefamily.tv/zeeliving/index.m3u8
 #EXTINF:-1,NASA TV
@@ -105,36 +86,13 @@ http://118.179.35.11/hls/b4umusic97w86/05.m3u8
 http://stream.zeefamily.tv/zeebollywood/index.m3u8
 #EXTINF:0,ZEE LAMHE
 http://stream.zeefamily.tv/zeelamhe/index.m3u8
-http://www.iptvlinks.tk/_ds/live.m3u8?id=discovery-uk&auth=134a594851faa8ceb76eb3dd2c91c2c1993502b10c01b48ca1dcd7802fc4e19a9378ca56a9d958b2665881e061021dce
+
 #EXTINF:0,star plus
 http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
 #EXTINF:-1,USA
 rtmp://lb.miplayer.net:1935/goLive/_definst_/usa
 
-#EXTINF:-1,beINSPORT01_HD
-http://iptv-elhouari.com:8000/live/star/test/110.ts
-#EXTINF:-1,beINSPORT02_HD
-http://iptv-elhouari.com:8000/live/star/test/109.ts
-#EXTINF:-1,beINSPORT03_HD
-http://iptv-elhouari.com:8000/live/star/test/108.ts
-#EXTINF:-1,beINSPORT04_HD
-http://iptv-elhouari.com:8000/live/star/test/107.ts
-#EXTINF:-1,beINSPORT05_HD
-http://iptv-elhouari.com:8000/live/star/test/106.ts
-#EXTINF:-1,beINSPORT06_HD
-http://iptv-elhouari.com:8000/live/star/test/105.ts
-#EXTINF:-1,beINSPORT07_HD
-http://iptv-elhouari.com:8000/live/star/test/104.ts
-#EXTINF:-1,beINSPORT08_HD
-http://iptv-elhouari.com:8000/live/star/test/103.ts
-#EXTINF:-1,beINSPORT09_HD
-http://iptv-elhouari.com:8000/live/star/test/102.ts
-#EXTINF:-1,beINSPORT10_HD
-http://iptv-elhouari.com:8000/live/star/test/101.ts
-#EXTINF:-1,Bein.movies.1HD
-http://iptv-elhouari.com:8000/live/star/test/413.ts
-#EXTINF:-1,Bein.movies.2HD
-http://iptv-elhouari.com:8000/live/star/test/414.ts
+
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 #EXTINF:-1, tvg-logo="History.png" group-title="Information",History
@@ -162,4 +120,6 @@ http://iptvcanales.com/xw/premium.php?cmd=4765
 
 #EXTINF:-1, tvg-logo="Investigation Discovery.png" group-title="Information",Investigation Discovery
 http://iptvcanales.com/xw/premium.php?cmd=2357
+#EXTINF:-1, SANGEET BANGLA
+http://218.248.64.82:1935/live/sangeetbangla_webA.sdp/chunklist_w419233869.m3u8?token=8368560606&hellotvrpc=9000000002&uid=28796832&type=LiveTV&name=Sangeet_Bangla&cid=1896
 
