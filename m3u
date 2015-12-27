@@ -145,8 +145,7 @@ http://iptvcanales.com/xw/premium.php?cmd=192
 #EXTINF:-1, tvg-logo="Discovery Channel USA.png" group-title="Science",Discovery Channel USA
 http://iptvcanales.com/xw/premium.php?cmd=198
 
-#EXTINF:-1, tvg-logo="Fox Comedy.png" group-title="Cinema",Fox Comedy
-http://iptvcanales.com/xw/premium.php?cmd=461
+
 
 #EXTINF:-1, tvg-logo="TLC.png" group-title="Entertainments",TLC
 http://iptvcanales.com/xw/premium.php?cmd=503
@@ -156,21 +155,11 @@ http://iptvcanales.com/xw/premium.php?cmd=511
 #EXTINF:-1, tvg-logo="B4u Movies.png" group-title="Information",B4u Movies
 http://iptvcanales.com/xw/premium.php?cmd=6094
 
-#EXTINF:-1, tvg-logo="ABC Family.png" group-title="Entertainments",ABC Family
-http://iptvcanales.com/xw/premium.php?cmd=4855
-#EXTINF:-1, tvg-logo="Animal Planet.png" group-title="Culture",Animal Planet
-http://iptvcanales.com/xw/premium.php?cmd=4845
-#EXTINF:-1, tvg-logo="Nat Geo Wild.png" group-title="Culture",Nat Geo Wild
-http://iptvcanales.com/xw/premium.php?cmd=4830
-#EXTINF:-1, tvg-logo="HBO Family East.png" group-title="Cinema",HBO Family East
-http://iptvcanales.com/xw/premium.php?cmd=4415
+
 #EXTINF:-1, tvg-logo="HBO East.png" group-title="Cinema",HBO East
 http://iptvcanales.com/xw/premium.php?cmd=4765
-#EXTINF:-1, tvg-logo="HBO West.png" group-title="Cinema",HBO West
-http://iptvcanales.com/xw/premium.php?cmd=4767
-#EXTINF:-1, tvg-logo="Travel Channel UK.png" group-title="Culture",Travel Channel UK
-http://iptvcanales.com/xw/premium.php?cmd=4422
+
+
 #EXTINF:-1, tvg-logo="Investigation Discovery.png" group-title="Information",Investigation Discovery
 http://iptvcanales.com/xw/premium.php?cmd=2357
-#EXTINF:-1, tvg-logo="ESPN 2 US.png" group-title="Sports",ESPN 2 US
-http://iptvcanales.com/xw/premium.php?cmd=2355
+
