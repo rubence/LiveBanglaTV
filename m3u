@@ -141,26 +141,21 @@ http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_pu
 http://iptvcanales.com/xw/premium.php?cmd=176
 #EXTINF:-1, tvg-logo="MLB Network.png" group-title="Sports",MLB Network
 http://iptvcanales.com/xw/premium.php?cmd=192
-#EXTINF:-1, tvg-logo="Showtime East.png" group-title="Information",Showtime East
-http://iptvcanales.com/xw/premium.php?cmd=218
+
 #EXTINF:-1, tvg-logo="Discovery Channel USA.png" group-title="Science",Discovery Channel USA
 http://iptvcanales.com/xw/premium.php?cmd=198
-#EXTINF:-1, tvg-logo="Starz East.png" group-title="Cinema",Starz East
-http://iptvcanales.com/xw/premium.php?cmd=224
+
 #EXTINF:-1, tvg-logo="Fox Comedy.png" group-title="Cinema",Fox Comedy
 http://iptvcanales.com/xw/premium.php?cmd=461
-#EXTINF:-1, tvg-logo="FOX.png" group-title="Information",FOX
-http://iptvcanales.com/xw/premium.php?cmd=491&f=.m3u
+
 #EXTINF:-1, tvg-logo="TLC.png" group-title="Entertainments",TLC
 http://iptvcanales.com/xw/premium.php?cmd=503
 #EXTINF:-1, tvg-logo="Discovery Turbo.png" group-title="Information",Discovery Turbo
 http://iptvcanales.com/xw/premium.php?cmd=511
-#EXTINF:-1, tvg-logo="Showtime Extreme East.png" group-title="Cinema",Showtime Extreme East
-http://iptvcanales.com/xw/premium.php?cmd=973
+
 #EXTINF:-1, tvg-logo="B4u Movies.png" group-title="Information",B4u Movies
 http://iptvcanales.com/xw/premium.php?cmd=6094
-#EXTINF:-1, tvg-logo="Fox Sports 2 US.png" group-title="Sports",Fox Sports 2 US
-http://iptvcanales.com/xw/premium.php?cmd=5634
+
 #EXTINF:-1, tvg-logo="ABC Family.png" group-title="Entertainments",ABC Family
 http://iptvcanales.com/xw/premium.php?cmd=4855
 #EXTINF:-1, tvg-logo="Animal Planet.png" group-title="Culture",Animal Planet
