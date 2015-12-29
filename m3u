@@ -29,16 +29,19 @@ http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
 http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1,MAASRANGA
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
+#EXTINF:-1,RTV
+http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,GAAN BANGLA
 http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
+#EXTINF:-1, SANGEET BANGLA
+http://118.179.35.11/hls/SangeetBanglahzo97/05.m3u8
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 #EXTINF:-1,COLORS
 http://118.179.35.11/hls/Colors-1033SMG37/05.m3u8
 #EXTINF:-1,SONY
 http://118.179.35.11/hls/SONY1032v2drF/05.m3u8
-#EXTINF:-1,RTV
-http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
+
 #EXTINF:-1,MTUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=10&rebase=on&hdntl=&time=1450827734803
 #EXTINF:-1,&TV
@@ -120,6 +123,4 @@ http://iptvcanales.com/xw/premium.php?cmd=4765
 
 #EXTINF:-1, tvg-logo="Investigation Discovery.png" group-title="Information",Investigation Discovery
 http://iptvcanales.com/xw/premium.php?cmd=2357
-#EXTINF:-1, SANGEET BANGLA
-http://218.248.64.82:1935/live/sangeetbangla_webA.sdp/chunklist_w419233869.m3u8?token=8368560606&hellotvrpc=9000000002&uid=28796832&type=LiveTV&name=Sangeet_Bangla&cid=1896
 
