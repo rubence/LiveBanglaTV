@@ -80,6 +80,8 @@ http://stream.zeefamily.tv/zeesmile/index.m3u8
 http://178.18.31.53:8081/liverepeater/227468/chunklist_w478443678.m3u8?nimblesessionid=1746319&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxNSA4OjQ1OjU2IEFNJmhhc2hfdmFsdWU9UUdLMzF2blh6aUcxQU1jM1ZRS0crQT09JnZhbGlkbWludXRlcz04
 #EXTINF:-1,STAR SPORTS 4
 http://173.199.120.51/hls/starsports4.m3u8
+#EXTINF:-1,WILLOW HD
+http://live1.greenlie.org:8081/live/willow-hq/chunks.m3u8?nimblesessionid=191235&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAxNSAxMTowNzo0MyBQTSZoYXNoX3ZhbHVlPUd3U1hTcmdJZFNZNFFxTVViaDBPa1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 
 #EXTINF:-1,ZEE LIVING
