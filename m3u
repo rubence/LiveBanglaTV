@@ -2,7 +2,7 @@
 #EXTINF:-1,ATN
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 #EXTINF:-1,ATN MUSIC
-http://109.123.116.246:1935/c2VydmVyX3RpbWU9OS8yNi8yMDE1IDExOjQ5OjE5IEFNJmhhc2hfdmFsdWU9dmVZS3JkajdpV09lcnZwYkZKOEYrUT09JnZhbGlkbWludXRlcz0yMDE/atnmusic-720p.stream/chunklist_w348594823_tka2V5ZW5kdGltZT0xNDUxMjU1NzAwJmtleXN0YXJ0dGltZT0wJmtleWhhc2g9Y0JrMy1Sdl91TXg0NUhKYTJhc1kyN1VWRFpLTU1ReHNJc0QyUU9OdlVDOD0=.m3u8
+
 #EXTINF:-1,BANGLAVISION
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,CHANNEL 24
@@ -82,6 +82,8 @@ http://stream.zeefamily.tv/zeesmile/index.m3u8
 http://178.18.31.53:8081/liverepeater/227468/chunklist_w478443678.m3u8?nimblesessionid=1746319&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxNSA4OjQ1OjU2IEFNJmhhc2hfdmFsdWU9UUdLMzF2blh6aUcxQU1jM1ZRS0crQT09JnZhbGlkbWludXRlcz04
 #EXTINF:-1,STAR SPORTS 4
 http://173.199.120.51/hls/starsports4.m3u8
+#EXTINF:-1,STAR SPORTS 2
+http://173.199.120.51/hls/starsports2.m3u8
 #EXTINF:-1,WILLOW HD
 
 
