@@ -53,6 +53,8 @@ http://173.199.120.51/hls/ngc.m3u8
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1648.ts
 #EXTINF:-1,RT NEWS
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,CNBC
+http://www.iptvlinks.tk/wt/live.m3u8?id=cnbc&auth=3be0201cdbf137d88fa06cbc2a906f4172a41f12ec1f2d5a4dbe9cd330467152
 #EXTINF:-1,PT:Historia
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4257.ts
 #EXTINF:-1,PT- DISCOVERY
