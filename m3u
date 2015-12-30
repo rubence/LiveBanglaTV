@@ -83,7 +83,7 @@ http://178.18.31.53:8081/liverepeater/227468/chunklist_w478443678.m3u8?nimbleses
 #EXTINF:-1,STAR SPORTS 4
 http://173.199.120.51/hls/starsports4.m3u8
 #EXTINF:-1,WILLOW HD
-http://live1.greenlie.org:8081/live/willow-hq/chunks.m3u8?nimblesessionid=191235&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAxNSAxMTowNzo0MyBQTSZoYXNoX3ZhbHVlPUd3U1hTcmdJZFNZNFFxTVViaDBPa1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
 
 
 #EXTINF:-1,ZEE LIVING
@@ -113,29 +113,5 @@ rtmp://lb.miplayer.net:1935/goLive/_definst_/usa
 
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
-#EXTINF:-1, tvg-logo="History.png" group-title="Information",History
-http://iptvcanales.com/xw/premium.php?cmd=176
-#EXTINF:-1, tvg-logo="MLB Network.png" group-title="Sports",MLB Network
-http://iptvcanales.com/xw/premium.php?cmd=192
 
-#EXTINF:-1, tvg-logo="Discovery Channel USA.png" group-title="Science",Discovery Channel USA
-http://iptvcanales.com/xw/premium.php?cmd=198
-
-
-
-#EXTINF:-1, tvg-logo="TLC.png" group-title="Entertainments",TLC
-http://iptvcanales.com/xw/premium.php?cmd=503
-#EXTINF:-1, tvg-logo="Discovery Turbo.png" group-title="Information",Discovery Turbo
-http://iptvcanales.com/xw/premium.php?cmd=511
-
-#EXTINF:-1, tvg-logo="B4u Movies.png" group-title="Information",B4u Movies
-http://iptvcanales.com/xw/premium.php?cmd=6094
-
-
-#EXTINF:-1, tvg-logo="HBO East.png" group-title="Cinema",HBO East
-http://iptvcanales.com/xw/premium.php?cmd=4765
-
-
-#EXTINF:-1, tvg-logo="Investigation Discovery.png" group-title="Information",Investigation Discovery
-http://iptvcanales.com/xw/premium.php?cmd=2357
 
