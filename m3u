@@ -59,6 +59,8 @@ http://www.iptvlinks.tk/wt/live.m3u8?id=cnbc&auth=3be0201cdbf137d88fa06cbc2a906f
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4257.ts
 #EXTINF:-1,PT- DISCOVERY
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2716.ts
+#EXTINF:-1,DISCOVERY
+http://167.114.102.27/live/Mqc5ySwpfoY4dFSQpru8yw/1451533649/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
 #EXTINF:-1,ZEE CLASSIC
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
 #EXTINF:-1,ZEE CINEMA
@@ -71,6 +73,8 @@ http://204.107.27.137/live/3701.low.stream/playlist.m3u8?id=96103c07e8fe15e892ef
 http://62.210.189.231:8081/freeintertv/cnn/index.m3u8
 #EXTINF:-1,Al Jazeera English
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
+#EXTINF:-1,COMEDY CENTRAL
+http://167.114.102.27/live/d1PouQKbW45debK03Z4tMw/1451533818/fa894851552e99b1cc146264a8ffaf4b.m3u8
 
 #EXTINF:-1,ZEE BANGLA
 http://stream.zeefamily.tv/zeebangla/index.m3u8
