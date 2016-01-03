@@ -8,7 +8,7 @@ http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,CHANNEL 24
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,GTV
-http://bit.ly/1mWHGaL
+https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/gcr%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cpmbypass%2Cratebypass%2Csource%2Cexpire/gcr/us/upn/jMFbdw6XDI4/source/yt_live_broadcast/key/yt6/playlist_type/LIVE/fexp/9408498%2C9413137%2C9416126%2C9416984%2C9420452%2C9421510%2C9422596%2C9423662%2C9424132%2C9424429%2C9424618%2C9425643%2C9425880%2C9426176%2C9426228%2C9426405/sver/3/pmbypass/yes/ip/71.207.42.6/expire/1451885195/ratebypass/yes/signature/0DFE2EFC3CD82ED328B44FDB4B8C907516B52DD2.8593E2B080AE67DD4E6E67F2DB0CAF37CCBBC076/maudio/1/hfr/1/id/ejlgrxlbAbE.1/ipbits/0/keepalive/yes/itag/0/file/index.m3u8
 #EXTINF:-1,CHANNEL I
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,EKATTOR HD
