@@ -80,6 +80,8 @@ http://167.114.102.27/live/nYkOSDffMdYi01fsGMfUfQ/1451954931/a490ae75a3ec2acf16c
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
 #EXTINF:-1,ZEE CINEMA
 http://stream.zeefamily.tv/zeecinema/index.m3u8
+#EXTINF:-1,ZEE CINEMA UK
+http://stream.zeefamily.tv/zeecinemauk/index.m3u8?time=1451946481799
 #EXTINF:-1,ZING
 http://stream.zeefamily.tv/zing/index.m3u8
 #EXTINF:-1,SAHARA FILMY
