@@ -60,9 +60,9 @@ http://stream.zeefamily.tv/andtvhd/index.m3u8
 #EXTINF:-1,NATGEO INDIA
 http://173.199.120.51/hls/ngc.m3u8
 #EXTINF:-1,PT:Nat Geo Wild
-http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1648.ts
+
 #EXTINF:-1,NATGEO
-http://goo.gl/0E0Ud3
+
 #EXTINF:-1,RT NEWS
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,BBC WORLD NEWS
@@ -70,10 +70,10 @@ http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5e
 #EXTINF:-1,CNBC
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
 #EXTINF:-1,PT:HISTORY
-http://167.114.102.27/live/GucAZJq-8MvrLh2dhfakwg/1451954923/d4a4950b7b7267417aa0b9733f30b6fe.m3u8?time=1451945834734
+
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
-http://167.114.102.27/live/nYkOSDffMdYi01fsGMfUfQ/1451954931/a490ae75a3ec2acf16c9f592e889eb4c.m3u8?time=1451945753399
+
 
 #EXTINF:-1,ZEE CLASSIC
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
@@ -91,7 +91,7 @@ http://204.107.27.137/live/3701.low.stream/playlist.m3u8?id=96103c07e8fe15e892ef
 http://62.210.189.231:8081/freeintertv/cnn/index.m3u8
 #EXTINF:-1,Al Jazeera English
 #EXTINF:-1,COMEDY CENTRAL
-http://167.114.102.27/live/YMhIxilN3wrh9ufHydSMTQ/1451954925/fa894851552e99b1cc146264a8ffaf4b.m3u8?time=1451946384633
+
 #EXTINF:-1,ZEE BANGLA
 http://stream.zeefamily.tv/zeebangla/index.m3u8
 #EXTINF:-1,ZEE TV
@@ -114,7 +114,6 @@ http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
 #EXTINF:0,beIN SPORTS 3HD EN
 http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
 #EXTINF:0,PREMIER SPORTS 
-http://109.123.116.246/c2VydmVyX3RpbWU9OS8yNi8yMDE1IDExOjQ5OjE5IEFNJmhhc2hfdmFsdWU9dmVZS3JkajdpV09lcnZwYkZKOEYrUT09JnZhbGlkbWludXRlcz0yMDE/atnmusic-720p.stream/chunklist_w779100678_tka2V5ZW5kdGltZT0xNDUxOTQ1MzQwJmtleXN0YXJ0dGltZT0wJmtleWhhc2g9Z0JzUDFCTlJvdjY3S0dmdklSZEVxX18tWlNPQjU0RHltMm9zWThmNlZMTT0=.m3u8
 
 #EXTINF:-1,ZEE LIVING
 http://stream.zeefamily.tv/zeeliving/index.m3u8
