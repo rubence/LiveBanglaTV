@@ -62,6 +62,8 @@ http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.c
 http://goo.gl/0E0Ud3
 #EXTINF:-1,RT NEWS
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,BBC WORLD NEWS
+http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5edfc2bb/index.m3u8
 #EXTINF:-1,CNBC
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
 #EXTINF:-1,PT:Historia
