@@ -2,13 +2,13 @@
 #EXTINF:-1,ATN
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 #EXTINF:-1,ATN MUSIC
-http://bit.ly/1R6Wel3
+
 #EXTINF:-1,BANGLAVISION
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,CHANNEL 24
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,GTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/gcr%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cpmbypass%2Cratebypass%2Csource%2Cexpire/gcr/us/upn/jMFbdw6XDI4/source/yt_live_broadcast/key/yt6/playlist_type/LIVE/fexp/9408498%2C9413137%2C9416126%2C9416984%2C9420452%2C9421510%2C9422596%2C9423662%2C9424132%2C9424429%2C9424618%2C9425643%2C9425880%2C9426176%2C9426228%2C9426405/sver/3/pmbypass/yes/ip/71.207.42.6/expire/1451885195/ratebypass/yes/signature/0DFE2EFC3CD82ED328B44FDB4B8C907516B52DD2.8593E2B080AE67DD4E6E67F2DB0CAF37CCBBC076/maudio/1/hfr/1/id/ejlgrxlbAbE.1/ipbits/0/keepalive/yes/itag/0/file/index.m3u8
+
 #EXTINF:-1,CHANNEL I
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,EKATTOR HD
@@ -22,7 +22,7 @@ http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
 #EXTINF:-1,NTV
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,NTV 2
-http://bit.ly/1MN4m1W
+
 
 #EXTINF:-1,SA TV
 http://118.179.35.11/hls/SATVhfnbM/06.m3u8
@@ -35,7 +35,7 @@ http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1,MAASRANGA
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,MAASRANGA 2
-http://bit.ly/1PDwXNT
+
 #EXTINF:-1,RTV
 http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,GAAN BANGLA
@@ -71,11 +71,9 @@ http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5e
 #EXTINF:-1,CNBC
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
 #EXTINF:-1,PT:Historia
-http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4257.ts
 #EXTINF:-1,PT- DISCOVERY
-http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2716.ts
 #EXTINF:-1,DISCOVERY
-http://www.iptvlinks.tk/_ds/live.m3u8?id=discovery-uk&auth=134a594851faa8ceb76eb3dd2c91c2c1c0dc02304d7997bc8b4bba8f26d2bd0ec1611db5a3cd03d2dd55f7e647279d82
+
 #EXTINF:-1,ZEE CLASSIC
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
 #EXTINF:-1,ZEE CINEMA
@@ -87,9 +85,7 @@ http://204.107.27.137/live/3701.low.stream/playlist.m3u8?id=96103c07e8fe15e892ef
 #EXTINF:-1,CNN
 http://62.210.189.231:8081/freeintertv/cnn/index.m3u8
 #EXTINF:-1,Al Jazeera English
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 #EXTINF:-1,COMEDY CENTRAL
-http://167.114.102.27/live/l3fMo8uqILHHeI3qMBkFLw/1451878810/fa894851552e99b1cc146264a8ffaf4b.m3u8
 
 #EXTINF:-1,ZEE BANGLA
 http://stream.zeefamily.tv/zeebangla/index.m3u8
@@ -98,18 +94,14 @@ http://stream.zeefamily.tv/zeetvhdus/index.m3u8
 #EXTINF:-1,ZEE SMILE
 http://stream.zeefamily.tv/zeesmile/index.m3u8
 #EXTINF:-1,TEN SPORTS
-http://178.18.31.53:8081/liverepeater/227468/chunklist_w478443678.m3u8?nimblesessionid=1746319&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxNSA4OjQ1OjU2IEFNJmhhc2hfdmFsdWU9UUdLMzF2blh6aUcxQU1jM1ZRS0crQT09JnZhbGlkbWludXRlcz04
 #EXTINF:-1,STAR SPORTS 4
 http://173.199.120.51/hls/starsports4.m3u8
 #EXTINF:-1,STAR SPORTS 2
 http://173.199.120.51/hls/starsports2.m3u8
 #EXTINF:-1,WILLOW HD
 #EXTINF:-1,SKY SPORTS 1
-http://goo.gl/s3u90z
 #EXTINF:-1,SKY SPORTS 4
-http://goo.gl/Pws0xo
 #EXTINF:-1,FOX SPORTS 1
-http://goo.gl/S59KHb
 #EXTINF:0,beIN SPORTS 1HD EN
 http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
 #EXTINF:0,beIN SPORTS 2HD EN
@@ -122,7 +114,7 @@ http://stream.zeefamily.tv/zeeliving/index.m3u8
 #EXTINF:-1,NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,STAR GOLD
-http://144.76.3.83/star_gold_in.m3u8?bandwidth=956&token=ec2b08db77ea7c4c0a87f1faf006d963&user=41166&playlistlength=25&time=1450945229456
+
 #EXTINF:-1,ZEE WORLD
 http://stream.zeefamily.tv/zeeworld/index.m3u8
 #EXTINF:-1,WB INDIA
