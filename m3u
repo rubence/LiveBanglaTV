@@ -108,6 +108,8 @@ http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
 http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
 #EXTINF:0,beIN SPORTS 3HD EN
 http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
+#EXTINF:0,PREMIER SPORTS 
+http://109.123.116.246/c2VydmVyX3RpbWU9OS8yNi8yMDE1IDExOjQ5OjE5IEFNJmhhc2hfdmFsdWU9dmVZS3JkajdpV09lcnZwYkZKOEYrUT09JnZhbGlkbWludXRlcz0yMDE/atnmusic-720p.stream/chunklist_w779100678_tka2V5ZW5kdGltZT0xNDUxOTQ1MzQwJmtleXN0YXJ0dGltZT0wJmtleWhhc2g9Z0JzUDFCTlJvdjY3S0dmdklSZEVxX18tWlNPQjU0RHltMm9zWThmNlZMTT0=.m3u8
 
 #EXTINF:-1,ZEE LIVING
 http://stream.zeefamily.tv/zeeliving/index.m3u8
