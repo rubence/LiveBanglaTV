@@ -105,7 +105,11 @@ http://goo.gl/Pws0xo
 #EXTINF:-1,FOX SPORTS 1
 http://goo.gl/S59KHb
 
-
+http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
+#EXTINF:0,beIN SPORTS 2HD EN
+http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
+#EXTINF:0,beIN SPORTS 3HD EN
+http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
 
 #EXTINF:-1,ZEE LIVING
 http://stream.zeefamily.tv/zeeliving/index.m3u8
