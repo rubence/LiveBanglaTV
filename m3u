@@ -45,7 +45,11 @@ http://118.179.35.11/hls/SangeetBanglahzo97/05.m3u8
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 #EXTINF:-1,COLORS
+http://173.199.120.51/hls/usa_colors.m3u8
+#EXTINF:-1,LIFE OK
 http://173.199.120.51/hls/lifeok.m3u8
+#EXTINF:-1,RISHTEY
+http://62.210.189.231:8081/uk/rishtey/index.m3u8
 #EXTINF:-1,SONY
 http://118.179.35.11/hls/SONY1032v2drF/05.m3u8
 #EXTINF:-1,ZOOM
@@ -106,7 +110,7 @@ http://goo.gl/s3u90z
 http://goo.gl/Pws0xo
 #EXTINF:-1,FOX SPORTS 1
 http://goo.gl/S59KHb
-
+#EXTINF:0,beIN SPORTS 1HD EN
 http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
 #EXTINF:0,beIN SPORTS 2HD EN
 http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
@@ -135,13 +139,13 @@ http://stream.zeefamily.tv/zeelamhe/index.m3u8
 #EXTINF:0,star plus
 http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
 #EXTINF:-1,USA
-http://goo.gl/rGHi42
+
 #EXTINF:-1,ABC
-http://goo.gl/T7R17v
+
 #EXTINF:-1, TNT
-http://goo.gl/lRK7If
+
 #EXTINF:-1, AMC
-http://goo.gl/VHfxaj
+
 
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
