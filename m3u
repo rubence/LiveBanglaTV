@@ -2,7 +2,6 @@
 #EXTINF:-1,ATN
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 #EXTINF:-1,ATN MUSIC
-http://109.123.116.246:1935/c2VydmVyX3RpbWU9OS8yNi8yMDE1IDExOjQ5OjE5IEFNJmhhc2hfdmFsdWU9dmVZS3JkajdpV09lcnZwYkZKOEYrUT09JnZhbGlkbWludXRlcz0yMDE/atnmusic-720p.stream/chunklist_w779100678_tka2V5ZW5kdGltZT0xNDUxOTQ1MzQwJmtleXN0YXJ0dGltZT0wJmtleWhhc2g9Z0JzUDFCTlJvdjY3S0dmdklSZEVxX18tWlNPQjU0RHltMm9zWThmNlZMTT0=.m3u8
 #EXTINF:-1,BANGLAVISION
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,CHANNEL 24
@@ -145,7 +144,7 @@ http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&u
 #EXTINF:-1, TNT
 
 #EXTINF:-1, AMC
-http://167.114.102.27/live/sZILKfhW0Nepol7JH3dGIA/1451954928/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
+
 
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
