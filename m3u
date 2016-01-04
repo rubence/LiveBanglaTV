@@ -70,9 +70,11 @@ http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5edfc2bb/index.m3u8
 #EXTINF:-1,CNBC
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
-#EXTINF:-1,PT:Historia
+#EXTINF:-1,PT:HISTORY
+http://167.114.102.27/live/GucAZJq-8MvrLh2dhfakwg/1451954923/d4a4950b7b7267417aa0b9733f30b6fe.m3u8?time=1451945834734
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
+http://167.114.102.27/live/nYkOSDffMdYi01fsGMfUfQ/1451954931/a490ae75a3ec2acf16c9f592e889eb4c.m3u8?time=1451945753399
 
 #EXTINF:-1,ZEE CLASSIC
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
@@ -80,13 +82,15 @@ http://stream.zeefamily.tv/zeeclassic/index.m3u8
 http://stream.zeefamily.tv/zeecinema/index.m3u8
 #EXTINF:-1,ZING
 http://stream.zeefamily.tv/zing/index.m3u8
+#EXTINF:-1,SAHARA FILMY
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8?time=1451946080749
 #EXTINF:-1,SAB
 http://204.107.27.137/live/3701.low.stream/playlist.m3u8?id=96103c07e8fe15e892ef5d219b6aeb0adad1192506a84d05c78eff6202ef8a4a186c75c7ed0bf38dd57aa57a5818da7ccfc74f0a23095a614d6d2b582b507eb1491812ddff3a072540ad6b019652b2d76870fdaab29d2a55c1fb877a39ddfb3aea45d63dbf1ee4140f972d4d1c235da0e1eaf0aec94f780b62070b1bf49209977c204bbc366e67b421e69a8fb987470797481564915c033c
 #EXTINF:-1,CNN
 http://62.210.189.231:8081/freeintertv/cnn/index.m3u8
 #EXTINF:-1,Al Jazeera English
 #EXTINF:-1,COMEDY CENTRAL
-
+http://167.114.102.27/live/YMhIxilN3wrh9ufHydSMTQ/1451954925/fa894851552e99b1cc146264a8ffaf4b.m3u8?time=1451946384633
 #EXTINF:-1,ZEE BANGLA
 http://stream.zeefamily.tv/zeebangla/index.m3u8
 #EXTINF:-1,ZEE TV
