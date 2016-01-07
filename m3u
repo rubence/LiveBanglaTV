@@ -101,7 +101,8 @@ http://stream.zeefamily.tv/zeebangla/index.m3u8
 http://stream.zeefamily.tv/zeetvhdus/index.m3u8
 #EXTINF:-1,ZEE SMILE
 http://stream.zeefamily.tv/zeesmile/index.m3u8
-#EXTINF:-1,TEN SPORTS
+#EXTINF:-1,TEN CRICKET
+http://stream.zeefamily.tv/tencrick/index.m3u8
 #EXTINF:-1,STAR SPORTS 1
 http://178.18.31.66:8081/liverepeater/201767/chunklist_w1339148007.m3u8?nimblesessionid=2665816&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMTYgOToxNDowMiBQTSZoYXNoX3ZhbHVlPXNpZGdPMG5LN3ZXMmIzbnEvbm1jYVE9PSZ2YWxpZG1pbnV0ZXM9OA==
 #EXTINF:-1,STAR SPORTS 4
