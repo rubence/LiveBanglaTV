@@ -59,8 +59,8 @@ http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=
 http://stream.zeefamily.tv/andtvhd/index.m3u8
 #EXTINF:-1,NATGEO INDIA
 http://173.199.120.51/hls/ngc.m3u8
-#EXTINF:-1,PT:Nat Geo Wild
-
+#EXTINF:-1,Nat Geo Wild
+http://bit.ly/1Ohyynl
 #EXTINF:-1,NATGEO
 
 #EXTINF:-1,RT NEWS
