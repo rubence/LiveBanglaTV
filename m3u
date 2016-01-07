@@ -124,6 +124,8 @@ http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
 
 #EXTINF:-1,ZEE LIVING
 http://stream.zeefamily.tv/zeeliving/index.m3u8
+#EXTINF:-1,ZEE LIVING AND FOOD
+http://stream.zeefamily.tv/khanakhazana/index.m3u8
 #EXTINF:-1,NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,STAR GOLD
