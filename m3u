@@ -73,6 +73,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb24271
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
+#EXTINF:-1,ANIMAL PLANET
+http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1,ZEE CLASSIC
