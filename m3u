@@ -185,4 +185,9 @@ http://173.199.120.51/hls/hbo.m3u8
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 
+http://192.240.109.130:8010/server22channel2_bitrate4.m3u8
+
+http://192.240.109.130:8010/server24channel4_bitrate4.m3u8
+
+http://192.240.109.130:8010/server22channel4_bitrate3.m3u8
 
