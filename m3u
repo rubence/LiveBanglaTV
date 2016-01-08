@@ -7,19 +7,23 @@ http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,CHANNEL 24
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,GTV
-
+#EXTINF:-1,NTV
+http://118.179.35.11/hls/nTVKeQBR/05.m3u8
+#EXTINF:-1,MAASRANGA
+http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,CHANNEL I
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,EKATTOR HD
 http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
+#EXTINF:-1,RTV
+http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,EKUSHEY TV
 http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1,INDEPENDENT TV
 http://118.179.35.11/hls/ITV2434BuA/05.m3u8
 #EXTINF:-1,JAMUNA TV
 http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
-#EXTINF:-1,NTV
-http://118.179.35.11/hls/nTVKeQBR/05.m3u8
+
 #EXTINF:-1,NTV 2
 
 
@@ -31,24 +35,28 @@ http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
 http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
 #EXTINF:-1,DESH TV
 http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
-#EXTINF:-1,MAASRANGA
-http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
+
 #EXTINF:-1,MAASRANGA 2
 
-#EXTINF:-1,RTV
-http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
+
 #EXTINF:-1,GAAN BANGLA
 http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
+#EXTINF:-1,ZEE BANGLA
+http://stream.zeefamily.tv/zeebangla/index.m3u8
 #EXTINF:-1, SANGEET BANGLA
 http://118.179.35.11/hls/SangeetBanglahzo97/05.m3u8
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
-#EXTINF:-1,COLORS
+#EXTINF:-1,COLORS USA
 http://173.199.120.51/hls/usa_colors.m3u8
+#EXTINF:-1,COLORS
+http://173.199.120.51/hls/colors.m3u8
 #EXTINF:-1,LIFE OK
 http://173.199.120.51/hls/lifeok.m3u8
 #EXTINF:-1,RISHTEY
 http://62.210.189.231:8081/uk/rishtey/index.m3u8
+#EXTINF:-1,SONY HD
+http://173.199.120.51/hls/sonyhd.m3u8
 #EXTINF:-1,SONY
 http://118.179.35.11/hls/SONY1032v2drF/05.m3u8
 #EXTINF:-1,ZOOM
@@ -57,6 +65,41 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD160_W_350.sdp/
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=10&rebase=on&hdntl=&time=1450827734803
 #EXTINF:-1,&TV
 http://stream.zeefamily.tv/andtvhd/index.m3u8
+#EXTINF:-1,ZEE CLASSIC
+http://stream.zeefamily.tv/zeeclassic/index.m3u8
+#EXTINF:-1,ZEE CINEMA
+http://stream.zeefamily.tv/zeecinema/index.m3u8
+#EXTINF:-1,ZEE CINEMA UK
+http://stream.zeefamily.tv/zeecinemauk/index.m3u8?time=1451946481799
+#EXTINF:-1,ZING
+http://stream.zeefamily.tv/zing/index.m3u8
+#EXTINF:-1,SAHARA FILMY
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8?time=1451946080749
+#EXTINF:-1,SAB
+http://204.107.27.137/live/3701.low.stream/playlist.m3u8?id=96103c07e8fe15e892ef5d219b6aeb0adad1192506a84d05c78eff6202ef8a4a186c75c7ed0bf38dd57aa57a5818da7ccfc74f0a23095a614d6d2b582b507eb1491812ddff3a072540ad6b019652b2d76870fdaab29d2a55c1fb877a39ddfb3aea45d63dbf1ee4140f972d4d1c235da0e1eaf0aec94f780b62070b1bf49209977c204bbc366e67b421e69a8fb987470797481564915c033c
+#EXTINF:-1,ZEE TV
+http://stream.zeefamily.tv/zeetvhdus/index.m3u8
+#EXTINF:-1,ZEE SMILE
+http://stream.zeefamily.tv/zeesmile/index.m3u8
+#EXTINF:-1,B4U MUSIC
+http://118.179.35.11/hls/b4umusic97w86/05.m3u8
+#EXTINF:-1,B4U MOVIE
+http://173.199.120.51/hls/filmy.m3u8
+#EXTINF:-1,MOVIEs OK
+http://173.199.120.51/hls/moviesok.m3u8
+
+#EXTINF:0,ZEE BOLLYWOOD
+http://stream.zeefamily.tv/zeebollywood/index.m3u8
+#EXTINF:0,ZEE LAMHE
+http://stream.zeefamily.tv/zeelamhe/index.m3u8
+#EXTINF:-1,ZEE LIVING
+http://stream.zeefamily.tv/zeeliving/index.m3u8
+#EXTINF:-1,ZEE LIVING AND FOOD
+http://stream.zeefamily.tv/khanakhazana/index.m3u8
+#EXTINF:0,STAR PLUS
+http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
+#EXTINF:0,STAR PLUS 2
+http://173.199.120.51/hls/starplus.m3u8
 #EXTINF:-1,NATGEO INDIA
 http://173.199.120.51/hls/ngc.m3u8
 #EXTINF:-1,Nat Geo Wild
@@ -77,42 +120,30 @@ http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1,ZEE CLASSIC
-http://stream.zeefamily.tv/zeeclassic/index.m3u8
-#EXTINF:-1,ZEE CINEMA
-http://stream.zeefamily.tv/zeecinema/index.m3u8
-#EXTINF:-1,ZEE CINEMA UK
-http://stream.zeefamily.tv/zeecinemauk/index.m3u8?time=1451946481799
-#EXTINF:-1,ZING
-http://stream.zeefamily.tv/zing/index.m3u8
-#EXTINF:-1,SAHARA FILMY
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8?time=1451946080749
-#EXTINF:-1,SAB
-http://204.107.27.137/live/3701.low.stream/playlist.m3u8?id=96103c07e8fe15e892ef5d219b6aeb0adad1192506a84d05c78eff6202ef8a4a186c75c7ed0bf38dd57aa57a5818da7ccfc74f0a23095a614d6d2b582b507eb1491812ddff3a072540ad6b019652b2d76870fdaab29d2a55c1fb877a39ddfb3aea45d63dbf1ee4140f972d4d1c235da0e1eaf0aec94f780b62070b1bf49209977c204bbc366e67b421e69a8fb987470797481564915c033c
+
 #EXTINF:-1,CNN
 http://62.210.189.231:8081/freeintertv/cnn/index.m3u8
 #EXTINF:-1,Al Jazeera English
 http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8
 #EXTINF:-1,COMEDY CENTRAL
 
-#EXTINF:-1,ZEE BANGLA
-http://stream.zeefamily.tv/zeebangla/index.m3u8
-#EXTINF:-1,ZEE TV
-http://stream.zeefamily.tv/zeetvhdus/index.m3u8
-#EXTINF:-1,ZEE SMILE
-http://stream.zeefamily.tv/zeesmile/index.m3u8
+#EXTINF:-1,SONY SIX
+http://173.199.120.51/hls/neosport.m3u8
+#EXTINF:-1,TEN SPORTS 
+http://173.199.120.51/hls/tensports.m3u8
 #EXTINF:-1,TEN CRICKET
 http://stream.zeefamily.tv/tencrick/index.m3u8
+#EXTINF:-1,TEN ACTION
+http://173.199.120.51/hls/tenaction.m3u8
 #EXTINF:-1,STAR SPORTS 1
-http://178.18.31.66:8081/liverepeater/201767/chunklist_w1339148007.m3u8?nimblesessionid=2665816&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMTYgOToxNDowMiBQTSZoYXNoX3ZhbHVlPXNpZGdPMG5LN3ZXMmIzbnEvbm1jYVE9PSZ2YWxpZG1pbnV0ZXM9OA==
+http://173.199.120.51/hls/starsports1.m3u8
 #EXTINF:-1,STAR SPORTS 4
 http://173.199.120.51/hls/starsports4.m3u8
 #EXTINF:-1,STAR SPORTS 2
 http://173.199.120.51/hls/starsports2.m3u8
 #EXTINF:-1,WILLOW HD
 http://pies.ddns.net:8000/live/NCCnamamit1115/GFaXN1hqx7/449.ts
-#EXTINF:-1,SKY SPORTS 1
-http://173.199.120.51/hls/tensports.m3u8
+
 #EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:0,beIN SPORTS 1HD EN
@@ -137,15 +168,8 @@ http://stream.zeefamily.tv/zeeworld/index.m3u8
 http://173.199.120.51/hls/wb.m3u8
 #EXTINF:-1,STAR MOVIES
 http://173.199.120.51/hls/starmovies.m3u8
-#EXTINF:-1,B4U MUSIC
-http://118.179.35.11/hls/b4umusic97w86/05.m3u8
-#EXTINF:0,ZEE BOLLYWOOD
-http://stream.zeefamily.tv/zeebollywood/index.m3u8
-#EXTINF:0,ZEE LAMHE
-http://stream.zeefamily.tv/zeelamhe/index.m3u8
-
-#EXTINF:0,star plus
-http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
+#EXTINF:-1,HBO INDIA
+http://173.199.120.51/hls/hbo.m3u8
 #EXTINF:-1,USA
 
 #EXTINF:-1,ABC
