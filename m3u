@@ -61,7 +61,6 @@ http://173.199.120.51/hls/sonyhd.m3u8
 #EXTINF:-1,SONY
 http://118.179.35.11/hls/SONY1032v2drF/05.m3u8
 #EXTINF:-1,ZOOM
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD160_W_350.sdp/chunklist.m3u8
 #EXTINF:-1,MTUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=10&rebase=on&hdntl=&time=1450827734803
 #EXTINF:-1,&TV
@@ -77,7 +76,6 @@ http://stream.zeefamily.tv/zing/index.m3u8
 #EXTINF:-1,SAHARA FILMY
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8?time=1451946080749
 #EXTINF:-1,SAB
-http://204.107.27.137/live/3701.low.stream/playlist.m3u8?id=96103c07e8fe15e892ef5d219b6aeb0adad1192506a84d05c78eff6202ef8a4a186c75c7ed0bf38dd57aa57a5818da7ccfc74f0a23095a614d6d2b582b507eb1491812ddff3a072540ad6b019652b2d76870fdaab29d2a55c1fb877a39ddfb3aea45d63dbf1ee4140f972d4d1c235da0e1eaf0aec94f780b62070b1bf49209977c204bbc366e67b421e69a8fb987470797481564915c033c
 #EXTINF:-1,ZEE TV
 http://stream.zeefamily.tv/zeetvhdus/index.m3u8
 #EXTINF:-1,ZEE SMILE
@@ -148,9 +146,8 @@ http://173.199.120.51/hls/starsports2.m3u8
 #EXTINF:-1,WILLOW HD
 http://pies.ddns.net:8000/live/NCCnamamit1115/GFaXN1hqx7/449.ts
 #EXTINF:-1,WILLOW HD 2
-http://163.172.5.127:8081/liverepeater/196435/chunklist_w2015029217.m3u8?nimblesessionid=48450&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDE2IDY6MzY6NDQgQU0maGFzaF92YWx1ZT0raWRtYkhkM3h6a0pSb2U5cGNwM3ZBPT0mdmFsaWRtaW51dGVzPTg=
 #EXTINF:-1,FOX SPORTS 1
-http://www.iptvlinks.tk/_ds/live.m3u8?id=fox-sports-1&auth=0886ea2f419d9a523835b14022a01af52265c7bf1131fdd799a1c5e29a1aedb5382127154933bef97eed1a2184a814bb
+
 
 #EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,FOX SPORTS 1
