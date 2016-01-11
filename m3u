@@ -178,8 +178,8 @@ http://173.199.120.51/hls/wb.m3u8
 http://173.199.120.51/hls/starmovies.m3u8
 #EXTINF:-1,HBO INDIA
 http://173.199.120.51/hls/hbo.m3u8
-#EXTINF:-1,USA
-
+#EXTINF:-1,HBO EAST
+http://streamup.global.ssl.fastly.net/app/stargate-sg1/chunklist.m3u8
 #EXTINF:-1,ABC
 
 #EXTINF:-1, TNT
