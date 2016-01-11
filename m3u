@@ -42,6 +42,8 @@ http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 
 #EXTINF:-1,GAAN BANGLA
 http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
+#EXTINF:-1,TBN 24
+http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,ZEE BANGLA
 http://stream.zeefamily.tv/zeebangla/index.m3u8
 #EXTINF:-1, SANGEET BANGLA
@@ -188,6 +190,6 @@ http://173.199.120.51/hls/hbo.m3u8
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 
-http://108.61.156.252/hls/mohonatv.m3u8
+
 
 
