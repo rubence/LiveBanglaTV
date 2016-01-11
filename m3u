@@ -1,35 +1,37 @@
 #EXTM3U
 #EXTINF:-1,ATN
-bit.ly/1ZXiS0K
+http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 #EXTINF:-1,ATN MUSIC
 #EXTINF:-1,BANGLAVISION
-bit.ly/1OLWm7b
+http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,CHANNEL 24
-bit.ly/1On9BaS
+http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,GTV
 #EXTINF:-1,NTV
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,MAASRANGA
-bit.ly/1Ry8T0L
+http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,CHANNEL I
-bit.ly/1ZoilYC
+http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,EKATTOR HD
-bit.ly/1Oepnqx
+http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 #EXTINF:-1,RTV
-bit.ly/1JGkqrC
+http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,EKUSHEY TV
-bit.ly/1IZrfoo
+http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1,INDEPENDENT TV
-bit.ly/1mRT6gj
+http://118.179.35.11/hls/ITV2434BuA/05.m3u8
 #EXTINF:-1,JAMUNA TV
-bit.ly/1JGkGak
+http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
+
 #EXTINF:-1,NTV 2
-bit.ly/1P4Q6mH
+http://118.179.35.11/hls/nTVKeQBR/04.m3u8
+
 
 #EXTINF:-1,SA TV
-bit.ly/1JGkSWW
+http://118.179.35.11/hls/SATVhfnbM/06.m3u8
 #EXTINF:-1,SOMOY TV
-bit.ly/1N3EZJB
+http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
 #EXTINF:-1,BOISHAKHI
 http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
 #EXTINF:-1,DESH TV
