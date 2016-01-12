@@ -196,7 +196,7 @@ http://streamup.global.ssl.fastly.net/app/stargate-sg1/chunklist.m3u8
 #EXTINF:-1, TNT
 
 #EXTINF:-1, AMC
-http://167.114.102.27/live/E7eNFSWwLtkdm4iALeJGzg/1452577800/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8?time=1452567895388
+
 
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
