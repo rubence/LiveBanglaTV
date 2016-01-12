@@ -74,6 +74,8 @@ http://stream.zeefamily.tv/zeeclassic/index.m3u8
 http://stream.zeefamily.tv/zeecinema/index.m3u8
 #EXTINF:-1,ZEE CINEMA UK
 http://stream.zeefamily.tv/zeecinemauk/index.m3u8?time=1451946481799
+#EXTINF:-1,SET MAX UK
+http://80.243.189.26:8081/pakindiatv/satmax/index.m3u8?time=1452566216205
 #EXTINF:-1,ZING
 http://stream.zeefamily.tv/zing/index.m3u8
 #EXTINF:-1,SAHARA FILMY
