@@ -47,7 +47,7 @@ http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,ZEE BANGLA
 http://stream.zeefamily.tv/zeebangla/index.m3u8
 #EXTINF:-1, SANGEET BANGLA
-http://118.179.35.11/hls/SangeetBanglahzo97/05.m3u8
+http://218.248.64.82:1935/live/sangeetbangla_webA.sdp/chunklist_w1124495874.m3u8
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 #EXTINF:-1,COLORS USA
