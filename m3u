@@ -68,6 +68,8 @@ http://173.199.120.51/hls/zoom.m3u8
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=10&rebase=on&hdntl=&time=1450827734803
 #EXTINF:-1,&TV
 http://stream.zeefamily.tv/andtvhd/index.m3u8
+#EXTINF:-1, STAR GOLD
+http://80.243.189.26:8081/pakindiatv/stargold/index.m3u8
 #EXTINF:-1,ZEE CLASSIC
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
 #EXTINF:-1,ZEE CINEMA
