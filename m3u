@@ -57,7 +57,7 @@ http://173.199.120.51/hls/colors.m3u8
 #EXTINF:-1,LIFE OK
 http://173.199.120.51/hls/lifeok.m3u8
 #EXTINF:-1,RISHTEY
-http://62.210.189.231:8081/uk/rishtey/index.m3u8
+http://109.236.92.207/mylive/test7/index.m3u8
 #EXTINF:-1,SONY HD
 http://173.199.120.51/hls/sonyhd.m3u8
 #EXTINF:-1,SONY
