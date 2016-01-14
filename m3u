@@ -213,5 +213,7 @@ http://streamup.global.ssl.fastly.net/app/stargate-sg1/chunklist.m3u8
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 
+http://178.18.30.111:8081/liverepeater/196435/chunklist_w1055891043.m3u8?nimblesessionid=6610861&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE2IDg6NTU6MTIgUE0maGFzaF92YWx1ZT03N0NpSFFPOFVkVjJiR1hscm44ZDl3PT0mdmFsaWRtaW51dGVzPTg=
+
 
 
