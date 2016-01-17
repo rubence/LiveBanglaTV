@@ -146,7 +146,7 @@ http://stream.zeefamily.tv/tencrick/index.m3u8
 #EXTINF:-1,TEN ACTION
 http://173.199.120.51/hls/tenaction.m3u8
 #EXTINF:-1,STAR SPORTS HD1
-http://178.18.31.54:8081/liverepeater/201767/chunklist_w517438896.m3u8?nimblesessionid=2724991&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDE2IDI6NTA6MzQgQU0maGFzaF92YWx1ZT10L0lvTVh2ZlhIcEpnYnppSjZQRHdnPT0mdmFsaWRtaW51dGVzPTg=
+http://167.114.41.215:8080/stsp1/stsp1/index.m3u8
 #EXTINF:-1,STAR SPORTS 1
 http://173.199.120.51/hls/starcricket.m3u8
 #EXTINF:-1,STAR SPORTS 2
@@ -154,9 +154,11 @@ http://173.199.120.51/hls/starsports2.m3u8
 #EXTINF:-1,STAR SPORTS HD2
 http://178.18.31.64:8081/liverepeater/229579/chunklist_w1769652156.m3u8?nimblesessionid=3243225&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDE2IDQ6MDk6NDkgQU0maGFzaF92YWx1ZT0vYzh4WGNVZUQ3SE8rQi9TYko2Z21BPT0mdmFsaWRtaW51dGVzPTg=
 #EXTINF:-1,STAR SPORTS 3
-http://167.114.41.215:8080/stsp3/stsp3/index.m3u8?time=1452566873138
+http://167.114.41.215:8080/stsp3/stsp3/index.m3u8
 #EXTINF:-1,STAR SPORTS 4
 http://173.199.120.51/hls/starsports4.m3u8
+#EXTINF:-1,STAR SPORTS 4HQ
+http://167.114.41.215:8080/stsp4/stsp4/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 http://173.199.120.51/hls/starsports2.m3u8
 #EXTINF:-1,WILLOW HD
