@@ -48,7 +48,7 @@ http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,ZEE BANGLA
 http://stream.zeefamily.tv/zeebangla/index.m3u8
 #EXTINF:-1, SANGEET BANGLA
-http://218.248.64.82:1935/live/sangeetbangla_webA.sdp/chunklist_w1124495874.m3u8
+
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 #EXTINF:-1,COLORS USA
@@ -116,9 +116,9 @@ http://bit.ly/1Ohyynl
 #EXTINF:-1,RT NEWS
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,BBC WORLD NEWS
-http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5edfc2bb/index.m3u8
+
 #EXTINF:-1,CNBC
-http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+
 #EXTINF:-1,HISTORY
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1,PT- DISCOVERY
@@ -134,7 +134,7 @@ http://173.199.120.51/hls/animalplanet.m3u8
 #EXTINF:-1,CNN
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,Al Jazeera English
-http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8
+
 #EXTINF:-1,COMEDY CENTRAL
 
 #EXTINF:-1,SONY SIX
@@ -152,7 +152,7 @@ http://173.199.120.51/hls/starcricket.m3u8
 #EXTINF:-1,STAR SPORTS 2
 http://173.199.120.51/hls/starsports2.m3u8
 #EXTINF:-1,STAR SPORTS HD2
-http://178.18.31.64:8081/liverepeater/229579/chunklist_w1769652156.m3u8?nimblesessionid=3243225&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDE2IDQ6MDk6NDkgQU0maGFzaF92YWx1ZT0vYzh4WGNVZUQ3SE8rQi9TYko2Z21BPT0mdmFsaWRtaW51dGVzPTg=
+
 #EXTINF:-1,STAR SPORTS 3
 http://167.114.41.215:8080/stsp3/stsp3/index.m3u8
 #EXTINF:-1,STAR SPORTS 4
@@ -162,25 +162,25 @@ http://167.114.41.215:8080/stsp4/stsp4/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 http://173.199.120.51/hls/starsports2.m3u8
 #EXTINF:-1,WILLOW HD
-http://pies.ddns.net:8000/live/NCCnamamit1115/GFaXN1hqx7/449.ts
+
 #EXTINF:-1,WILLOW HD 2
-http://178.18.30.111:8081/liverepeater/196435/chunklist_w1055891043.m3u8?nimblesessionid=6610861&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE2IDg6NTU6MTIgUE0maGFzaF92YWx1ZT03N0NpSFFPOFVkVjJiR1hscm44ZDl3PT0mdmFsaWRtaW51dGVzPTg=
+
 
 #EXTINF:-1,FOX SPORTS 1
 http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/4028k/prog.m3u8
 #EXTINF:-1,FOX SPORTS 2
 http://ftve7300-i.akamaihd.net/hls/live/216996/fs2/4028k/prog.m3u8
 #EXTINF:-1,BT SPORTS 1
-http://02e4.vp9.tv/chn/btsu1/v.m3u8
+
 #EXTINF:-1,BT SPORTS 2
-http://02e4.vp9.tv/chn/btsu2/v.m3u8
+
 #EXTINF:-1,SKY SPORTS 1
 #EXTINF:-1,SKY SPORTS 2
 #EXTINF:-1,SKY SPORTS 3
 #EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,SKY SPORTS 5
 #EXTINF:-1,Sky Sports 1 HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/536.ts
+
 #EXTINF:-1,Sky Sports 2 HD
 http://top-iptv.zapto.org:8000/live/Aria/Aria/535.ts
 #EXTINF:-1,Sky Sports 3 HD
@@ -194,11 +194,11 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/532.ts
 #EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:0,beIN SPORTS 1HD EN
-http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
+
 #EXTINF:0,beIN SPORTS 2HD EN
-http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
+
 #EXTINF:0,beIN SPORTS 3HD EN
-http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
+
 #EXTINF:0,PREMIER SPORTS 
 
 #EXTINF:-1,ZEE LIVING
@@ -224,7 +224,7 @@ http://streamup.global.ssl.fastly.net/app/stargate-sg1/chunklist.m3u8
 #EXTINF:-1, TNT
 
 #EXTINF:-1, AMC
-http://167.114.102.27/live/tQJzFyiHc5uCBuDQ639oQQ/1453034677/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8?time=1453024604244
+
 
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
