@@ -189,7 +189,36 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/534.ts
 http://top-iptv.zapto.org:8000/live/Aria/Aria/533.ts
 #EXTINF:-1,Sky Sports 5 HD
 http://top-iptv.zapto.org:8000/live/Aria/Aria/532.ts
-
+#EXTINF:-1,US:CBS 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1805.m3u8 
+#EXTINF:-1,US:ABC 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1804.m3u8 
+#EXTINF:-1,US:TBS HD 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1816.m3u8
+#EXTINF:-1,US:Space 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1808.m3u8 
+#EXTINF:-1,US:NBC 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1803.m3u8
+#EXTINF:-1,US:NBA 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1815.m3u8 
+#EXTINF:-1,US:HBO Zone 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1813.m3u8 
+#EXTINF:-1,US:HBO Signature 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1814.m3u8 
+#EXTINF:-1,USA: NBCSN 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1070.m3u8 
+#EXTINF:-1,USA: TSN 2 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1066.m3u8 
+#EXTINF:-1,USA: FOX SPORT 2 HD 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1071.m3u8 
+#EXTINF:-1,USA: FOX SPORT 1 HD 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1072.m3u8 
+#EXTINF:-1,USA: ESPN 2 HD 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1068.m3u8 
+#EXTINF:-1,USA: BEIN SPORT USA 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1062.m3u8 
+#EXTINF:-1,USA: ESPN 
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1069.m3u8 
 
 #EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,FOX SPORTS 1
