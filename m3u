@@ -110,19 +110,19 @@ http://stream.zeefamily.tv/zeebangla/index.m3u8
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 #EXTINF:-1,COLORS USA
-http://173.199.120.51/hls/usa_colors.m3u8
+
 #EXTINF:-1,COLORS
-http://173.199.120.51/hls/colors.m3u8
+
 #EXTINF:-1,LIFE OK
-http://173.199.120.51/hls/lifeok.m3u8
+
 #EXTINF:-1,RISHTEY
 http://109.236.92.207/mylive/test7/index.m3u8
 #EXTINF:-1,SONY HD
-http://173.199.120.51/hls/sonyhd.m3u8
+
 #EXTINF:-1,SONY
 http://118.179.35.11/hls/SONY1032v2drF/05.m3u8
 #EXTINF:-1,ZOOM
-http://173.199.120.51/hls/zoom.m3u8
+
 #EXTINF:-1,MTUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=10&rebase=on&hdntl=&time=1450827734803
 #EXTINF:-1,&TV
@@ -149,9 +149,9 @@ http://stream.zeefamily.tv/zeesmile/index.m3u8
 #EXTINF:-1,B4U MUSIC
 http://118.179.35.11/hls/b4umusic97w86/05.m3u8
 #EXTINF:-1,B4U MOVIE
-http://173.199.120.51/hls/filmy.m3u8
+
 #EXTINF:-1,MOVIEs OK
-http://173.199.120.51/hls/moviesok.m3u8
+
 
 #EXTINF:0,ZEE BOLLYWOOD
 http://stream.zeefamily.tv/zeebollywood/index.m3u8
@@ -164,9 +164,9 @@ http://stream.zeefamily.tv/khanakhazana/index.m3u8
 #EXTINF:0,STAR PLUS
 http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
 #EXTINF:0,STAR PLUS 2
-http://173.199.120.51/hls/starplus.m3u8
+
 #EXTINF:-1,NATGEO INDIA
-http://173.199.120.51/hls/ngc.m3u8
+
 #EXTINF:-1,Nat Geo Wild
 http://bit.ly/1Ohyynl
 #EXTINF:-1,NATGEO
@@ -178,14 +178,14 @@ http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,CNBC
 
 #EXTINF:-1,HISTORY
-http://167.114.102.27/live/qAo2Tm3WEF8lZZg9NxKeLw/1453149566/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
+
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
-http://173.199.120.51/hls/discoverychannel.m3u8
+
 #EXTINF:-1,ANIMAL PLANET
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET INDIA
-http://173.199.120.51/hls/animalplanet.m3u8
+
 
 
 
@@ -204,21 +204,21 @@ http://stream.zeefamily.tv/tencrick/index.m3u8
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
-http://167.114.41.215:8080/stsp1/stsp1/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 1
-http://173.199.120.51/hls/starcricket.m3u8
+
 #EXTINF:-1,STAR SPORTS 2
-http://173.199.120.51/hls/starsports2.m3u8
+
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1,STAR SPORTS 3
 http://167.114.41.215:8080/stsp3/stsp3/index.m3u8
 #EXTINF:-1,STAR SPORTS 4
-http://173.199.120.51/hls/starsports4.m3u8
+
 #EXTINF:-1,STAR SPORTS 4HQ
-http://167.114.41.215:8080/stsp4/stsp4/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 2
-http://173.199.120.51/hls/starsports2.m3u8
+
 #EXTINF:-1,WILLOW HD
 http://167.114.41.215:8080/willow/willow/index.m3u8
 #EXTINF:-1,WILLOW HD 2
@@ -247,36 +247,11 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/534.ts
 http://top-iptv.zapto.org:8000/live/Aria/Aria/533.ts
 #EXTINF:-1,Sky Sports 5 HD
 http://top-iptv.zapto.org:8000/live/Aria/Aria/532.ts
-#EXTINF:-1,US:CBS 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1805.m3u8 
-#EXTINF:-1,US:ABC 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1804.m3u8 
-#EXTINF:-1,US:TBS HD 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1816.m3u8
-#EXTINF:-1,US:Space 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1808.m3u8 
-#EXTINF:-1,US:NBC 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1803.m3u8
-#EXTINF:-1,US:NBA 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1815.m3u8 
-#EXTINF:-1,US:HBO Zone 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1813.m3u8 
-#EXTINF:-1,US:HBO Signature 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1814.m3u8 
-#EXTINF:-1,USA: NBCSN 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1070.m3u8 
-#EXTINF:-1,USA: TSN 2 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1066.m3u8 
-#EXTINF:-1,USA: FOX SPORT 2 HD 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1071.m3u8 
-#EXTINF:-1,USA: FOX SPORT 1 HD 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1072.m3u8 
 #EXTINF:-1,USA: ESPN 2 HD 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1068.m3u8 
+
 #EXTINF:-1,USA: BEIN SPORT USA 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1062.m3u8 
+
 #EXTINF:-1,USA: ESPN 
-http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1069.m3u8 
 
 #EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,FOX SPORTS 1
@@ -299,13 +274,13 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase
 #EXTINF:-1,ZEE WORLD
 http://stream.zeefamily.tv/zeeworld/index.m3u8
 #EXTINF:-1,WB INDIA
-http://173.199.120.51/hls/wb.m3u8
+
 #EXTINF:-1,STAR MOVIES
-http://173.199.120.51/hls/starmovies.m3u8
+
 #EXTINF:-1,HBO INDIA
-http://173.199.120.51/hls/hbo.m3u8
+
 #EXTINF:-1,HBO EAST
-http://streamup.global.ssl.fastly.net/app/stargate-sg1/chunklist.m3u8
+
 #EXTINF:-1,ABC
 
 #EXTINF:-1, TNT
