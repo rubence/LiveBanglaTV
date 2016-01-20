@@ -163,6 +163,8 @@ http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,Al Jazeera English
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,BBC NEWS
+http://tvhosa-pez0104.oft.ondemand.prd.sctv.ch/hls/MJHAAFAAAOKOPJGF.m3u8/Level(4)
 #EXTINF:-1,COMEDY CENTRAL
 
 #EXTINF:-1,SONY SIX
