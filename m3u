@@ -110,6 +110,7 @@ http://stream.zeefamily.tv/zeebangla/index.m3u8
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 #EXTINF:-1,COLORS USA
+http://109.236.92.207/mylive/test6/index.m3u8
 
 #EXTINF:-1,COLORS
 
@@ -118,7 +119,7 @@ http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.
 #EXTINF:-1,RISHTEY
 http://109.236.92.207/mylive/test7/index.m3u8
 #EXTINF:-1,SONY HD
-
+http://109.236.92.207/mylive/test4/index.m3u8
 #EXTINF:-1,SONY
 http://118.179.35.11/hls/SONY1032v2drF/05.m3u8
 #EXTINF:-1,ZOOM
@@ -142,6 +143,7 @@ http://stream.zeefamily.tv/zing/index.m3u8
 #EXTINF:-1,SAHARA FILMY
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8?time=1451946080749
 #EXTINF:-1,SAB
+http://43.252.111.46:8080/nnn/SabTVv1/index.m3u8
 #EXTINF:-1,ZEE TV
 http://stream.zeefamily.tv/zeetvhdus/index.m3u8
 #EXTINF:-1,ZEE SMILE
@@ -149,7 +151,7 @@ http://stream.zeefamily.tv/zeesmile/index.m3u8
 #EXTINF:-1,B4U MUSIC
 http://118.179.35.11/hls/b4umusic97w86/05.m3u8
 #EXTINF:-1,B4U MOVIE
-
+http://109.236.92.207/mylive/test9/index.m3u
 #EXTINF:-1,MOVIEs OK
 
 
@@ -164,7 +166,9 @@ http://stream.zeefamily.tv/khanakhazana/index.m3u8
 #EXTINF:0,STAR PLUS
 http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
 #EXTINF:0,STAR PLUS 2
-
+http://109.236.92.207/mylive/test5/index.m3u8?time=1453294696514
+#EXTINF:0,STAR PLUS UK
+http://80.243.189.26:8081/pakindaitv/starplus/index.m3u8
 #EXTINF:-1,NATGEO INDIA
 
 #EXTINF:-1,Nat Geo Wild
@@ -204,7 +208,7 @@ http://stream.zeefamily.tv/tencrick/index.m3u8
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
-
+http://109.236.92.207/mylive/test2/index.m3u8
 #EXTINF:-1,STAR SPORTS 1
 
 #EXTINF:-1,STAR SPORTS 2
@@ -213,6 +217,8 @@ http://stream.zeefamily.tv/tencrick/index.m3u8
 
 #EXTINF:-1,STAR SPORTS 3
 http://167.114.41.215:8080/stsp3/stsp3/index.m3u8
+#EXTINF:-1,STAR SPORTS 3 hd
+http://109.236.92.207/mylive/test3/index.m3u8
 #EXTINF:-1,STAR SPORTS 4
 
 #EXTINF:-1,STAR SPORTS 4HQ
