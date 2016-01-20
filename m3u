@@ -196,13 +196,13 @@ http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,COMEDY CENTRAL
 
 #EXTINF:-1,SONY SIX
-http://173.199.120.51/hls/neosport.m3u8
+
 #EXTINF:-1,TEN SPORTS 
-http://173.199.120.51/hls/tensports.m3u8
+
 #EXTINF:-1,TEN CRICKET
 http://stream.zeefamily.tv/tencrick/index.m3u8
 #EXTINF:-1,TEN ACTION
-http://173.199.120.51/hls/tenaction.m3u8
+
 #EXTINF:-1,STAR SPORTS HD1
 http://167.114.41.215:8080/stsp1/stsp1/index.m3u8
 #EXTINF:-1,STAR SPORTS 1
@@ -220,7 +220,7 @@ http://167.114.41.215:8080/stsp4/stsp4/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 http://173.199.120.51/hls/starsports2.m3u8
 #EXTINF:-1,WILLOW HD
-http://163.172.5.127:8081/liverepeater/196435/chunklist_w601759597.m3u8?nimblesessionid=118549&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDE2IDg6MzA6MTQgUE0maGFzaF92YWx1ZT1iN2ZGekdORFVKSDhCb0VudERQZVJ3PT0mdmFsaWRtaW51dGVzPTg=
+http://167.114.41.215:8080/willow/willow/index.m3u8
 #EXTINF:-1,WILLOW HD 2
 
 
