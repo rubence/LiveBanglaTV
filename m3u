@@ -139,7 +139,7 @@ http://80.243.189.26:8081/pakindaitv/starplus/index.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://bit.ly/1Ohyynl
 #EXTINF:-1,NATGEO
-
+http://109.236.91.173:1935/live/natgeo9.stream/playlist.m3u8?wowzasessionid=2146846596&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDExOjExOjM2IFBNJmhhc2hfdmFsdWU9WHNmWXFQU3hmakd6Q3ZUcnJkaUhWUT09JnZhbGlkbWludXRlcz0yMA%3D%3D
 #EXTINF:-1,RT NEWS
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,BBC WORLD NEWS
