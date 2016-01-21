@@ -147,7 +147,7 @@ http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,CNBC
 
 #EXTINF:-1,HISTORY
-
+http://109.236.91.173:1935/live/history9.stream/playlist.m3u8?wowzasessionid=826052572&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDExOjQxOjM2IFBNJmhhc2hfdmFsdWU9aUkzdU1Ec213dEpTL3IxcXRLSDcvdz09JnZhbGlkbWludXRlcz0yMA%3D%3D
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
 
