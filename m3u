@@ -154,9 +154,8 @@ http://109.236.91.173:1935/live/history9.stream/playlist.m3u8?wowzasessionid=826
 #EXTINF:-1,ANIMAL PLANET
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,NBC NY
-http://109.236.91.173:1935/live/nbc77/playlist.m3u8?wowzasessionid=1224851090&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDExOjQxOjM2IFBNJmhhc2hfdmFsdWU9aUkzdU1Ec213dEpTL3IxcXRLSDcvdz09JnZhbGlkbWludXRlcz0yMA%3D%3D
+
 #EXTINF:-1,SPIKE
-http://109.236.91.173:1935/live/spike9.stream/playlist.m3u8?wowzasessionid=1359144062&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDE2IDEyOjQxOjM2IEFNJmhhc2hfdmFsdWU9VWFFREdaMnU5bkNpY0F5YU04QzZRdz09JnZhbGlkbWludXRlcz0yMA%3D%3D
 
 #EXTINF:-1,CNN
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
@@ -224,7 +223,7 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/532.ts
 #EXTINF:-1,USA: ESPN 2 HD 
 
 #EXTINF:-1,USA: BEIN SPORT USA 
-
+http://163.172.14.11:12000/live/RzfEucfe1v/UhtrJh601v/1154.ts
 #EXTINF:-1,USA: ESPN 
 
 #EXTINF:-1,SKY SPORTS 4
