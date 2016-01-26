@@ -160,6 +160,7 @@ http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3
 #EXTINF:-1,CNN
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,Al Jazeera English
+http://live1.cdn.web.tv/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8?ttl=1453854658&sign=hvCeToljuerYD_i3iikfPQ
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,BBC NEWS
