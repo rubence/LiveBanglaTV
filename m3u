@@ -163,6 +163,8 @@ http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 http://live1.cdn.web.tv/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8?ttl=1453854658&sign=hvCeToljuerYD_i3iikfPQ
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,WGN NEWS
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,BBC NEWS
 http://tvhosa-pez0104.oft.ondemand.prd.sctv.ch/hls/MJHAAFAAAOKOPJGF.m3u8/Level(4)
 #EXTINF:-1,COMEDY CENTRAL
@@ -236,7 +238,7 @@ http://163.172.14.11:12000/live/RzfEucfe1v/UhtrJh601v/1154.ts
 #EXTINF:0,beIN SPORTS 3HD EN
 
 #EXTINF:0,PREMIER SPORTS 
-
+http://188.138.17.38/hls/5CdJg4HzKxrtnaYYwpyKgg/1453853081/premiersport.m3u8
 #EXTINF:-1,ZEE LIVING
 http://stream.zeefamily.tv/zeeliving/index.m3u8
 #EXTINF:-1,ZEE LIVING AND FOOD
