@@ -94,7 +94,7 @@ http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=
 #EXTINF:-1,&TV
 http://stream.zeefamily.tv/andtvhd/index.m3u8
 #EXTINF:-1, STAR GOLD
-http://80.243.189.26:8081/pakindiatv/stargold/index.m3u8
+http://80.243.189.26:8181/pakindiatv/stargold/index.m3u8
 #EXTINF:-1,ZEE CLASSIC
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
 #EXTINF:-1,ZEE CINEMA
@@ -102,7 +102,7 @@ http://stream.zeefamily.tv/zeecinema/index.m3u8
 #EXTINF:-1,ZEE CINEMA UK
 http://stream.zeefamily.tv/zeecinemauk/index.m3u8?time=1451946481799
 #EXTINF:-1,SET MAX UK
-http://80.243.189.26:8081/pakindiatv/satmax/index.m3u8?time=1452566216205
+http://80.243.189.26:8181/pakindiatv/satmax/index.m3u8
 #EXTINF:-1,ZING
 http://stream.zeefamily.tv/zing/index.m3u8
 #EXTINF:-1,SAHARA FILMY
