@@ -210,24 +210,27 @@ http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #EXTINF:-1,BT SPORTS 2
 http://02e4.vp9.tv/chn/btsu2/v.m3u8
 #EXTINF:-1,SKY SPORTS 1
+http://80.243.189.26:8181/sportshd/sky1/index.m3u8
 #EXTINF:-1,SKY SPORTS 2
 #EXTINF:-1,SKY SPORTS 3
 #EXTINF:-1,SKY SPORTS 4
+http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
 #EXTINF:-1,SKY SPORTS 5
+http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
 #EXTINF:-1,Sky Sports 1 HD
 
 #EXTINF:-1,Sky Sports 2 HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/535.ts
+
 #EXTINF:-1,Sky Sports 3 HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/534.ts
+
 #EXTINF:-1,Sky Sports 4 HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/533.ts
+
 #EXTINF:-1,Sky Sports 5 HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/532.ts
+
 #EXTINF:-1,USA: ESPN 2 HD 
 
 #EXTINF:-1,USA: BEIN SPORT USA 
-http://163.172.14.11:12000/live/RzfEucfe1v/UhtrJh601v/1154.ts
+
 #EXTINF:-1,USA: ESPN 
 
 #EXTINF:-1,SKY SPORTS 4
@@ -239,7 +242,7 @@ http://163.172.14.11:12000/live/RzfEucfe1v/UhtrJh601v/1154.ts
 #EXTINF:0,beIN SPORTS 3HD EN
 
 #EXTINF:0,PREMIER SPORTS 
-http://188.138.17.38/hls/5CdJg4HzKxrtnaYYwpyKgg/1453853081/premiersport.m3u8
+
 #EXTINF:-1,ZEE LIVING
 http://stream.zeefamily.tv/zeeliving/index.m3u8
 #EXTINF:-1,ZEE LIVING AND FOOD
