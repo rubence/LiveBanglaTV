@@ -199,7 +199,7 @@ http://109.236.92.207/mylive/test3/index.m3u8
 #EXTINF:-1,WILLOW HD
 http://167.114.41.215:8080/willow/willow/index.m3u8
 #EXTINF:-1,WILLOW HD 2
-
+http://live1.greenlie.org:8081/live/willow-hq/chunks.m3u8?nimblesessionid=399828&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNS8yMDE2IDk6MTQ6MjggUE0maGFzaF92YWx1ZT03Y3hmOXNIOXRHL3ZDVTRZVnZIei9BPT0mdmFsaWRtaW51dGVzPTIw&time=1453860410056
 
 #EXTINF:-1,FOX SPORTS 1
 http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/4028k/prog.m3u8
