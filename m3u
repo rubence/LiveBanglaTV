@@ -213,7 +213,7 @@ http://02e4.vp9.tv/chn/btsu2/v.m3u8
 #EXTINF:-1,SKY SPORTS 1
 http://80.243.189.26:8181/sportshd/sky1/index.m3u8
 #EXTINF:-1,SKY SPORTS 2
-http://178.18.31.51:8081/liverepeater/230767/chunklist_w1636159006.m3u8?nimblesessionid=1002630&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDE2IDU6MjA6MzkgQU0maGFzaF92YWx1ZT1GSWxmOHFzNFBLL1JsWWZaR0ZIZ0NRPT0mdmFsaWRtaW51dGVzPTg=
+http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
 #EXTINF:-1,SKY SPORTS 3
 http://s02.kafic.info:80/live?channelId=140&uid=378&deviceUser=310alen131990&devicePass=alen131990
 #EXTINF:-1,SKY SPORTS 4
