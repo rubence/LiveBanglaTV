@@ -79,7 +79,7 @@ http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.
 http://109.236.92.207/mylive/test6/index.m3u8
 
 #EXTINF:-1,COLORS
-
+http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_864_av-p.m3u8
 #EXTINF:-1,LIFE OK
 
 #EXTINF:-1,RISHTEY
@@ -101,7 +101,7 @@ http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=
 #EXTINF:-1,ZEE CINEMA
 
 #EXTINF:-1,ZEE CINEMA UK
-
+http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864_av-p.m3u8
 #EXTINF:-1,SET MAX UK
 
 #EXTINF:-1,ZING
@@ -111,7 +111,7 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/c
 #EXTINF:-1,SAB
 
 #EXTINF:-1,ZEE TV
-
+http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_864_av-p.m3u8
 #EXTINF:-1,ZEE SMILE
 
 #EXTINF:-1,B4U MUSIC
