@@ -70,7 +70,7 @@ http://118.179.35.11/hls/GRAMBANGLA/04.m3u8
 #EXTINF:-1,TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,ZEE BANGLA
-http://stream.zeefamily.tv/zeebangla/index.m3u8
+
 #EXTINF:-1, SANGEET BANGLA
 
 #EXTINF:-1,9XM
@@ -87,35 +87,35 @@ http://109.236.92.207/mylive/test7/index.m3u8
 #EXTINF:-1,SONY HD
 http://109.236.92.207/mylive/test4/index.m3u8
 #EXTINF:-1,SONY
-http://118.179.35.11/hls/SONY1032v2drF/05.m3u8
+
 #EXTINF:-1,ZOOM
 
 #EXTINF:-1,MTUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=10&rebase=on&hdntl=&time=1450827734803
 #EXTINF:-1,&TV
-http://stream.zeefamily.tv/andtvhd/index.m3u8
+
 #EXTINF:-1, STAR GOLD
-http://80.243.189.26:8181/pakindiatv/stargold/index.m3u8
+
 #EXTINF:-1,ZEE CLASSIC
-http://stream.zeefamily.tv/zeeclassic/index.m3u8
+
 #EXTINF:-1,ZEE CINEMA
-http://stream.zeefamily.tv/zeecinema/index.m3u8
+
 #EXTINF:-1,ZEE CINEMA UK
-http://stream.zeefamily.tv/zeecinemauk/index.m3u8?time=1451946481799
+
 #EXTINF:-1,SET MAX UK
-http://80.243.189.26:8181/pakindiatv/satmax/index.m3u8
+
 #EXTINF:-1,ZING
-http://stream.zeefamily.tv/zing/index.m3u8
+
 #EXTINF:-1,SAHARA FILMY
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8?time=1451946080749
 #EXTINF:-1,SAB
-http://43.252.111.46:8080/nnn/SabTVv1/index.m3u8
+
 #EXTINF:-1,ZEE TV
-http://stream.zeefamily.tv/zeetvhdus/index.m3u8
+
 #EXTINF:-1,ZEE SMILE
-http://stream.zeefamily.tv/zeesmile/index.m3u8
+
 #EXTINF:-1,B4U MUSIC
-http://118.179.35.11/hls/b4umusic97w86/05.m3u8
+
 #EXTINF:-1,B4U MOVIE
 http://109.236.92.207/mylive/test9/index.m3u8
 
@@ -123,54 +123,54 @@ http://109.236.92.207/mylive/test9/index.m3u8
 
 
 #EXTINF:0,ZEE BOLLYWOOD
-http://stream.zeefamily.tv/zeebollywood/index.m3u8
+
 #EXTINF:0,ZEE LAMHE
-http://stream.zeefamily.tv/zeelamhe/index.m3u8
+
 #EXTINF:-1,ZEE LIVING
-http://stream.zeefamily.tv/zeeliving/index.m3u8
+
 #EXTINF:-1,ZEE LIVING AND FOOD
-http://stream.zeefamily.tv/khanakhazana/index.m3u8
+
 #EXTINF:0,STAR PLUS
 http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
 #EXTINF:0,STAR PLUS 2
 http://109.236.92.207/mylive/test5/index.m3u8?time=1453294696514
 #EXTINF:0,STAR PLUS UK
-http://80.243.189.26:8081/pakindaitv/starplus/index.m3u8
+
 #EXTINF:-1,NATGEO INDIA
 
 #EXTINF:-1,Nat Geo Wild
 http://bit.ly/1Ohyynl
 #EXTINF:-1,NATGEO
-http://s01.kafic.info:80/live?channelId=93&uid=378&deviceUser=310alen131990&devicePass=alen131990
+
 #EXTINF:-1,RT NEWS
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,BBC WORLD NEWS
 http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r971567sd2000000/4dc056d69c5791101b1c85419bce537a665e6eb2/track_2_1200/playlist.m3u8
 #EXTINF:-1,CNBC
-http://live2.cdn.web.tv/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8?ttl=1453854200&sign=xuVkojjEdT6fJzj7OTAquQ
+
 #EXTINF:-1,HISTORY
-http://s01.kafic.info:80/live?channelId=95&uid=378&deviceUser=310alen131990&devicePass=alen131990
+
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
-http://s01.kafic.info:80/live?channelId=94&uid=378&deviceUser=310alen131990&devicePass=alen131990
+
 #EXTINF:-1,ANIMAL PLANET
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET UK
-http://s01.kafic.info:80/live?channelId=97&uid=378&deviceUser=310alen131990&devicePass=alen131990
+
 #EXTINF:-1,TLC
-http://s01.kafic.info:80/live?channelId=100&uid=378&deviceUser=310alen131990&devicePass=alen131990
+
 #EXTINF:-1,SPIKE
 
 #EXTINF:-1,CNN
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,Al Jazeera English
-http://live1.cdn.web.tv/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8?ttl=1453854658&sign=hvCeToljuerYD_i3iikfPQ
+
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,WGN NEWS
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,BBC NEWS
-http://tvhosa-pez0104.oft.ondemand.prd.sctv.ch/hls/MJHAAFAAAOKOPJGF.m3u8/Level(4)
+
 #EXTINF:-1,COMEDY CENTRAL
 
 #EXTINF:-1,SONY SIX
@@ -178,7 +178,7 @@ http://tvhosa-pez0104.oft.ondemand.prd.sctv.ch/hls/MJHAAFAAAOKOPJGF.m3u8/Level(4
 #EXTINF:-1,TEN SPORTS 
 
 #EXTINF:-1,TEN CRICKET
-http://stream.zeefamily.tv/tencrick/index.m3u8
+
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
@@ -190,7 +190,7 @@ http://109.236.92.207/mylive/test2/index.m3u8
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1,STAR SPORTS 3
-http://167.114.41.215:8080/stsp3/stsp3/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 3 hd
 http://109.236.92.207/mylive/test3/index.m3u8
 #EXTINF:-1,STAR SPORTS 4
@@ -202,7 +202,7 @@ http://109.236.92.207/mylive/test3/index.m3u8
 #EXTINF:-1,WILLOW HD
 http://167.114.41.215:8080/willow/willow/index.m3u8
 #EXTINF:-1,WILLOW HD 2
-http://live1.greenlie.org:8081/live/willow-hq/chunks.m3u8
+
 #EXTINF:-1,FOX SPORTS 1
 http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/4028k/prog.m3u8
 #EXTINF:-1,FOX SPORTS 2
@@ -212,11 +212,11 @@ http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #EXTINF:-1,BT SPORTS 2
 http://02e4.vp9.tv/chn/btsu2/v.m3u8
 #EXTINF:-1,SKY SPORTS 1
-http://80.243.189.26:8181/sportshd/sky1/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 2
 http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
 #EXTINF:-1,SKY SPORTS 3
-http://s02.kafic.info:80/live?channelId=140&uid=378&deviceUser=310alen131990&devicePass=alen131990
+
 #EXTINF:-1,SKY SPORTS 4
 http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
 #EXTINF:-1,SKY SPORTS 5
@@ -224,7 +224,6 @@ http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
 #EXTINF:-1,Sky Sports 1 HD
 
 #EXTINF:-1,Sky Sports 2 HD
-http://178.18.30.111:8081/liverepeater/230811/chunklist_w776778468.m3u8?nimblesessionid=7076086&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDE2IDY6MjM6MDkgUE0maGFzaF92YWx1ZT00NC9wVjZCVXpxZWVvWHhVRHRlOEpnPT0mdmFsaWRtaW51dGVzPTg=
 #EXTINF:-1,Sky Sports 3 HD
 
 #EXTINF:-1,Sky Sports 4 HD
@@ -248,15 +247,15 @@ http://178.18.30.111:8081/liverepeater/230811/chunklist_w776778468.m3u8?nimblese
 #EXTINF:0,PREMIER SPORTS 
 
 #EXTINF:-1,ZEE LIVING
-http://stream.zeefamily.tv/zeeliving/index.m3u8
+
 #EXTINF:-1,ZEE LIVING AND FOOD
-http://stream.zeefamily.tv/khanakhazana/index.m3u8
+
 #EXTINF:-1,NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,STAR GOLD
 
 #EXTINF:-1,ZEE WORLD
-http://stream.zeefamily.tv/zeeworld/index.m3u8
+
 #EXTINF:-1,WB INDIA
 
 #EXTINF:-1,STAR MOVIES
@@ -264,7 +263,7 @@ http://stream.zeefamily.tv/zeeworld/index.m3u8
 #EXTINF:-1,HBO INDIA
 
 #EXTINF:-1,HBO EAST
-http://s01.kafic.info:80/live?channelId=79&uid=378&deviceUser=310alen131990&devicePass=alen131990
+
 #EXTINF:-1,ABC
 
 #EXTINF:-1, TNT
@@ -274,24 +273,5 @@ http://s01.kafic.info:80/live?channelId=79&uid=378&deviceUser=310alen131990&devi
 
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports 1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845" group-title="Sport",Bein Sports 1 - Bein Sports 1
-http://s02.kafic.info:80/live?channelId=142&uid=378&deviceUser=310alen131990&devicePass=alen131990
-#EXTINF:-1 tvg-id="143" tvg-name="Bein Sports 2" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sport",Bein Sports 2 - Bein Sports 2
-http://s02.kafic.info:80/live?channelId=143&uid=378&deviceUser=310alen131990&devicePass=alen131990
-#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GSFMIO7OZBQ49XKuecNIWHWf6ZB2VqZ2Gycu1iqLiXmTorLv" group-title="Sport",Bein Sports 3 - Bein Sports 3
-http://s02.kafic.info:80/live?channelId=144&uid=378&deviceUser=310alen131990&devicePass=alen131990
-#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 4" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sport",Bein Sports 4 - Bein Sports 4
-http://s02.kafic.info:80/live?channelId=145&uid=378&deviceUser=310alen131990&devicePass=alen131990
-#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 5" tvg-logo="http://img1.wikia.nocookie.net/__cb20140414170307/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="Sport",Bein Sports 5 - Bein Sports 5
-http://s02.kafic.info:80/live?channelId=147&uid=378&deviceUser=310alen131990&devicePass=alen131990
-#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 6" tvg-logo="http://www.new-tubes.net/file/2015/01/bein-sport-hd6.jpg" group-title="Sport",Bein Sports 6 - Bein Sports 6
-http://s02.kafic.info:80/live?channelId=146&uid=378&deviceUser=310alen131990&devicePass=alen131990
-#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 7" tvg-logo="http://tgo-tv.com/images/tv/beIN7.jpg" group-title="Sport",Bein Sports 7 - Bein Sports 7
-http://s02.kafic.info:80/live?channelId=148&uid=378&deviceUser=310alen131990&devicePass=alen131990
-#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 8" tvg-logo="http://www.teledusat.com/uploads/articles/10e6fe68.jpg" group-title="Sport",Bein Sports 8 - Bein Sports 8
-http://s02.kafic.info:80/live?channelId=149&uid=378&deviceUser=310alen131990&devicePass=alen131990
-#EXTINF:-1 tvg-id="150" tvg-name="Bein Sports 9" tvg-logo="http://www.teledusat.com/uploads/articles/272f78eb.jpg" group-title="Sport",Bein Sports 9 - Bein Sports 9
-http://s02.kafic.info:80/live?channelId=150&uid=378&deviceUser=310alen131990&devicePass=alen131990
-
 
 
