@@ -94,8 +94,12 @@ http://109.236.92.207/mylive/test4/index.m3u8
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=10&rebase=on&hdntl=&time=1450827734803
 #EXTINF:-1,&TV
 
+#EXTINF:-1,MBC BOLLYWOOD
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, STAR GOLD
 
+#EXTINF:-1, ENJOY NOW
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/996632au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,ZEE CLASSIC
 
 #EXTINF:-1,ZEE CINEMA
