@@ -164,11 +164,17 @@ http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3
 #EXTINF:-1,TLC
 
 #EXTINF:-1,SPIKE
-
+#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] CBSN NEWS [/COLOR]
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+ 
+#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/12440345/streams/live/playlist.m3u8
 #EXTINF:-1,CNN
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,CNN 2
 http://top-iptv.zapto.org:8000/live/Aria/Aria/637.m3u8
+#EXTINF:-1,CNN INTERNATIONAL
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
 #EXTINF:-1,Al Jazeera English
 
 #EXTINF:-1,ABC NEWS
