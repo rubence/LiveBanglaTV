@@ -281,9 +281,21 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase
 #EXTINF:-1, TNT
 
 #EXTINF:-1, AMC
-
+http://sicostopo.com/feroburgos/sintonizar.m3u8?cmd=5629
 
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 
+#EXTINF:-1 tvg-logo="34.png" group-title="entertainments",Comedy Central East
+http://sicostopo.com/feroburgos/sintonizar.m3u8?cmd=2575
+#EXTINF:-1 tvg-logo="2507.png" group-title="information",HGTV East
+http://sicostopo.com/feroburgos/sintonizar.m3u8?cmd=7501
+#EXTINF:-1 tvg-logo="1471.png" group-title="culture",Discovery History
+http://sicostopo.com/feroburgos/sintonizar.m3u8?cmd=3397
+#EXTINF:-1 tvg-logo="32.png" group-title="culture",History
+http://sicostopo.com/feroburgos/sintonizar.m3u8?cmd=176
+#EXTINF:-1 tvg-logo="885.png" group-title="culture",H2 USA
+http://sicostopo.com/feroburgos/sintonizar.m3u8?cmd=1497
+#EXTINF:-1 tvg-logo="104.png" group-title="culture",TLC
+http://sicostopo.com/feroburgos/sintonizar.m3u8?cmd=503
 
