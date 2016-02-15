@@ -70,7 +70,7 @@ http://118.179.35.11/hls/GRAMBANGLA/04.m3u8
 #EXTINF:-1,TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,ZEE BANGLA
-
+http://zeefamily-i.akamaihd.net/hls/live/227854/zeebangla/chunklist.m3u8
 #EXTINF:-1, SANGEET BANGLA
 
 #EXTINF:-1,9XM
@@ -103,13 +103,13 @@ http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/996632au.m3u8?3c0e986a45
 #EXTINF:-1,ZEE CLASSIC
 
 #EXTINF:-1,ZEE CINEMA
-
+http://zeefamily-i.akamaihd.net/hls/live/227854/zeecinema/chunklist.m3u8
 #EXTINF:-1,ZEE CINEMA UK
 http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864_av-p.m3u8
 #EXTINF:-1,SET MAX UK
 
 #EXTINF:-1,ZING
-
+http://zeefamily-i.akamaihd.net/hls/live/227854/zing/chunklist.m3u8
 #EXTINF:-1,SAHARA FILMY
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8?time=1451946080749
 #EXTINF:-1,SAB
@@ -117,7 +117,7 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/c
 #EXTINF:-1,ZEE TV
 http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_864_av-p.m3u8
 #EXTINF:-1,ZEE SMILE
-
+http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8
 #EXTINF:-1,B4U MUSIC
 
 #EXTINF:-1,B4U MOVIE
@@ -127,9 +127,9 @@ http://109.236.92.207/mylive/test9/index.m3u8
 
 
 #EXTINF:0,ZEE BOLLYWOOD
-
+http://zeefamily-i.akamaihd.net/hls/live/227854/zeebollywood/chunklist.m3u8
 #EXTINF:0,ZEE LAMHE
-
+http://zeefamily-i.akamaihd.net/hls/live/227854/zeelamhe/chunklist.m3u8
 #EXTINF:-1,ZEE LIVING
 
 #EXTINF:-1,ZEE LIVING AND FOOD
