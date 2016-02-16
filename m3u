@@ -93,7 +93,7 @@ http://109.236.92.207/mylive/test4/index.m3u8
 #EXTINF:-1,MTUNES
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=10&rebase=on&hdntl=&time=1450827734803
 #EXTINF:-1,&TV
-
+http://zeefamily2-i.akamaihd.net/hls/live/231616/andtvhd/chunklist.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, STAR GOLD
@@ -101,11 +101,11 @@ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, ENJOY NOW
 http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/996632au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,ZEE CLASSIC
-
+http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassicts/chunklist.m3u8
 #EXTINF:-1,ZEE CINEMA
 http://zeefamily-i.akamaihd.net/hls/live/227854/zeecinema/chunklist.m3u8
 #EXTINF:-1,ZEE CINEMA UK
-http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864_av-p.m3u8
+http://zeefamily2-i.akamaihd.net/hls/live/231616/zeecinemauk/chunklist.m3u8
 #EXTINF:-1,SET MAX UK
 
 #EXTINF:-1,ZING
@@ -190,7 +190,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1,TEN SPORTS 
 
 #EXTINF:-1,TEN CRICKET
-
+http://zeefamily2-i.akamaihd.net/hls/live/231616/tencrick/chunklist.m3u8
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
