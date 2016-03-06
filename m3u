@@ -228,17 +228,17 @@ http://ftve7300-i.akamaihd.net/hls/live/216996/fs2/4028k/prog.m3u8
 #EXTINF:-1,BT SPORTS 1
 http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #EXTINF:-1,BT SPORTS 2
-http://02e4.vp9.tv/chn/btsu2/v.m3u8
+http://149.202.207.8:8080/Btsprt2/Btsprt2/index.m3u8
 #EXTINF:-1,SKY SPORTS 1
-
+http://149.202.207.8:8080/SkkY1/SkkY1/index.m3u8
 #EXTINF:-1,SKY SPORTS 2
-http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
+http://149.202.207.8:8080/SkkY2/SkkY2/index.m3u8
 #EXTINF:-1,SKY SPORTS 3
-
+http://149.202.207.8:8080/SkkY3/SkkY3/index.m3u8
 #EXTINF:-1,SKY SPORTS 4
-http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
+http://149.202.207.8:8080/SkkY4/SkkY4/index.m3u8
 #EXTINF:-1,SKY SPORTS 5
-http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
+http://149.202.207.8:8080/SkkY5/SkkY5/index.m3u8
 #EXTINF:-1,Sky Sports 1 HD
 
 #EXTINF:-1,Sky Sports 2 HD
