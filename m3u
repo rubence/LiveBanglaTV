@@ -155,14 +155,14 @@ http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r971567sd2
 #EXTINF:-1,CNBC
 http://top-iptv.zapto.org:8000/live/Aria/Aria/638.m3u8
 #EXTINF:-1,HISTORY
-
+http://163.172.14.11:12000/live/guadwmZNTxnqb46x/wem36YY6Vav8yggs/1357.ts
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
 
 #EXTINF:-1,ANIMAL PLANET
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET UK
-
+http://163.172.14.11:12000/live/guadwmZNTxnqb46x/wem36YY6Vav8yggs/1154.ts
 #EXTINF:-1,TLC
 
 #EXTINF:-1,SPIKE
@@ -230,15 +230,15 @@ http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #EXTINF:-1,BT SPORTS 2
 http://149.202.207.8:8080/Btsprt2/Btsprt2/index.m3u8
 #EXTINF:-1,SKY SPORTS 1
-http://149.202.207.8:8080/SkkY1/SkkY1/index.m3u8
+http://163.172.14.11:12000/live/guadwmZNTxnqb46x/wem36YY6Vav8yggs/1129.ts
 #EXTINF:-1,SKY SPORTS 2
-http://149.202.207.8:8080/SkkY2/SkkY2/index.m3u8
+http://163.172.14.11:12000/live/guadwmZNTxnqb46x/wem36YY6Vav8yggs/1127.ts
 #EXTINF:-1,SKY SPORTS 3
-http://149.202.207.8:8080/SkkY3/SkkY3/index.m3u8
+http://163.172.14.11:12000/live/guadwmZNTxnqb46x/wem36YY6Vav8yggs/1126.ts
 #EXTINF:-1,SKY SPORTS 4
-http://149.202.207.8:8080/SkkY4/SkkY4/index.m3u8
+http://163.172.14.11:12000/live/guadwmZNTxnqb46x/wem36YY6Vav8yggs/1125.ts
 #EXTINF:-1,SKY SPORTS 5
-http://149.202.207.8:8080/SkkY5/SkkY5/index.m3u8
+http://163.172.14.11:12000/live/guadwmZNTxnqb46x/wem36YY6Vav8yggs/1124.ts
 #EXTINF:-1,Sky Sports 1 HD
 
 #EXTINF:-1,Sky Sports 2 HD
@@ -281,7 +281,7 @@ http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
 #EXTINF:-1,HBO INDIA
 
 #EXTINF:-1,HBO EAST
-
+http://163.172.14.11:12000/live/guadwmZNTxnqb46x/wem36YY6Vav8yggs/1355.ts
 #EXTINF:-1,ABC
 
 #EXTINF:-1, TNT
