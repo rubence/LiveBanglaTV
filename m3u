@@ -97,9 +97,7 @@ http://zeefamily2-i.akamaihd.net/hls/live/231616/andtvhd/chunklist.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, STAR GOLD
-http://136.243.12.170/star_gold_in.m3u8?bandwidth=956&token=ec2b08db77ea7c4c0a87f1faf006d963&user=41166&shift=0&playlistlength=25
 #EXTINF:-1, ENJOY NOW
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/996632au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,ZEE CLASSIC
 http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassicts/chunklist.m3u8
 #EXTINF:-1,ZEE CINEMA
@@ -114,6 +112,8 @@ http://zeefamily-i.akamaihd.net/hls/live/227854/zing/chunklist.m3u8
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8?time=1451946080749
 #EXTINF:-1,SAB
 
+#EXTINF:-1,ZEE TV US
+http://zeefamily-i.akamaihd.net/hls/live/227854/zeetvhdus/chunklist.m3u8
 #EXTINF:-1,ZEE TV
 http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_864_av-p.m3u8
 #EXTINF:-1,ZEE SMILE
@@ -145,24 +145,17 @@ http://iptvdragon.dyndns.tv:8000/live/younis/younis/2541.m3u8
 #EXTINF:-1,NATGEO INDIA
 
 #EXTINF:-1,Nat Geo Wild
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/821.m3u8
 #EXTINF:-1,NATGEO
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/820.m3u8
 #EXTINF:-1,RT NEWS
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,BBC WORLD NEWS
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/811.m3u8
 #EXTINF:-1,CNBC
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/813.m3u8
 #EXTINF:-1,HISTORY
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/818.m3u8
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/815.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET UK
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/819.m3u8
 #EXTINF:-1,TLC
 
 #EXTINF:-1,SPIKE
@@ -170,7 +163,6 @@ http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/819.m3u8
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
  
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/12440345/streams/live/playlist.m3u8
 #EXTINF: 0, FOX NEWS
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3476.m3u8
 #EXTINF:-1,Fox News
@@ -178,11 +170,9 @@ http://iptvbox.noip.us:9998/live/atik/atik/727.m3u8
 #EXTINF:-1,CNN
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,CNN 2
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/814.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
 #EXTINF:-1,Al Jazeera English
-http://live1.cdn.web.tv/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8?ttl=1455251483&sign=_NjhMY08fWKu59H7ndmPrg
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,WGN NEWS
@@ -190,7 +180,6 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1,BBC NEWS
 
 #EXTINF:-1,COMEDY CENTRAL
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/802.m3u8
 #EXTINF:-1,SONY SIX
 
 #EXTINF:-1,TEN SPORTS 
@@ -200,17 +189,15 @@ http://zeefamily2-i.akamaihd.net/hls/live/231616/tencrick/chunklist.m3u8
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
-http://109.236.92.207/mylive/test2/index.m3u8
 #EXTINF:-1,STAR SPORTS 1
 
 #EXTINF:-1,STAR SPORTS 2
-http://89.40.71.243:8081/liverepeater/55d06e170775b/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDE2IDk6MDM6MDIgUE0maGFzaF92YWx1ZT1WdmtHamNPK1F2d21zQjNpMUdHVit3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1,STAR SPORTS 3
 
 #EXTINF:-1,STAR SPORTS 3 hd
-http://109.236.92.207/mylive/test3/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 4
 
 #EXTINF:-1,STAR SPORTS 4HQ
@@ -218,7 +205,7 @@ http://109.236.92.207/mylive/test3/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://167.114.41.215:8080/willow/willow/index.m3u8
+
 #EXTINF:-1,WILLOW HD 2
 
 #EXTINF:-1,FOX SPORTS 1
@@ -230,15 +217,15 @@ http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #EXTINF:-1,BT SPORTS 2
 http://149.202.207.8:8080/Btsprt2/Btsprt2/index.m3u8
 #EXTINF:-1,SKY SPORTS 1
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/774.m3u8
+
 #EXTINF:-1,SKY SPORTS 2
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/775.m3u8
+
 #EXTINF:-1,SKY SPORTS 3
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/776.m3u8
+
 #EXTINF:-1,SKY SPORTS 4
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/777.m3u8
+
 #EXTINF:-1,SKY SPORTS 5
-http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/773.m3u8
+
 #EXTINF:-1,Sky Sports 1 HD
 
 #EXTINF:-1,Sky Sports 2 HD
@@ -281,7 +268,7 @@ http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
 #EXTINF:-1,HBO INDIA
 
 #EXTINF:-1,HBO EAST
-http://163.172.14.11:12000/live/guadwmZNTxnqb46x/wem36YY6Vav8yggs/1355.ts
+
 #EXTINF:-1,ABC
 
 #EXTINF:-1, TNT
