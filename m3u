@@ -156,9 +156,9 @@ http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,DISCOVERY
 http://80.80.160.168/live/8/live.m3u8 
 #EXTINF:-1,ANIMAL PLANET
-http://80.80.160.168/live/1/live.m3u8
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET UK
+http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1,TLC
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1,SPIKE
