@@ -229,14 +229,15 @@ http://149.202.207.8:8080/Btsprt2/Btsprt2/index.m3u8
 #EXTINF:-1,SKY SPORTS 5
 
 #EXTINF:-1,Sky Sports 1 HD
-
+http://144.76.3.83/sky_sports1gb.m3u8?token=fd08446a425d2c492505cc973e0ba074&user=41166&bands=956
 #EXTINF:-1,Sky Sports 2 HD
+http://144.76.3.83/sky_sports2gb.m3u8?token=27549478605c2e9d28debee3fb65bb39&user=41166&bands=956
 #EXTINF:-1,Sky Sports 3 HD
-
+http://144.76.3.83/sky_sports3gb.m3u8?token=f663571502c473b739fa94db15303a11&user=41166&bands=956
 #EXTINF:-1,Sky Sports 4 HD
-
+http://144.76.3.83/sky_sports4gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
 #EXTINF:-1,Sky Sports 5 HD
-
+http://144.76.3.83/sky_sports5gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
 #EXTINF:-1,USA: ESPN 2 HD 
 
 #EXTINF:-1,USA: BEIN SPORT USA 
