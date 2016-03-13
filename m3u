@@ -154,16 +154,19 @@ http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,HISTORY
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
+http://80.80.160.168/live/8/live.m3u8 
 #EXTINF:-1,ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET UK
 #EXTINF:-1,TLC
-
+http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1,SPIKE
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] CBSN NEWS [/COLOR]
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
  
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/21957727/streams/live/playlist.m3u8
 #EXTINF: 0, FOX NEWS
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3476.m3u8
 #EXTINF:-1,Fox News
@@ -238,6 +241,12 @@ http://144.76.3.83/sky_sports3gb.m3u8?token=f663571502c473b739fa94db15303a11&use
 http://144.76.3.83/sky_sports4gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
 #EXTINF:-1,Sky Sports 5 HD
 http://144.76.3.83/sky_sports5gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
+#EXTINF:-1,HBO HD
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=HBOHD
+#EXTINF:-1,HBO ComedyHD
+http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=HBOComedyHD
+
+
 #EXTINF:-1,USA: ESPN 2 HD 
 
 #EXTINF:-1,USA: BEIN SPORT USA 
