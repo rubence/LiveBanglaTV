@@ -98,6 +98,7 @@ http://zeefamily2-i.akamaihd.net/hls/live/231616/andtvhd/chunklist.m3u8
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, STAR GOLD
 #EXTINF:-1, ENJOY NOW
+http://wpc.fc2a.edgecastcdn.net/80FC2A/ams2/app/996632.stream/chunklist.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,ZEE CLASSIC
 http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassicts/chunklist.m3u8
 #EXTINF:-1,ZEE CINEMA
@@ -170,6 +171,7 @@ http://iptvbox.noip.us:9998/live/atik/atik/727.m3u8
 #EXTINF:-1,CNN
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,CNN 2
+http://edge1.everyon.tv/etv1sb/pld16/chunklist_w1111345089.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
 #EXTINF:-1,Al Jazeera English
@@ -260,7 +262,7 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase
 #EXTINF:-1,STAR GOLD
 
 #EXTINF:-1,ZEE WORLD
-
+http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeworld/chunklist.m3u8
 #EXTINF:-1,WB INDIA
 
 #EXTINF:-1,STAR MOVIES
