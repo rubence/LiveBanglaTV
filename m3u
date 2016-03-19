@@ -85,7 +85,7 @@ http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_864_av-p.m3u8
 #EXTINF:-1,RISHTEY
 
 #EXTINF:-1,SONY HD
-
+http://95.211.155.143/kst01/kst02/index.m3u8
 #EXTINF:-1,SONY
 
 #EXTINF:-1,ZOOM
@@ -129,7 +129,7 @@ http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8
 
 
 #EXTINF:0,ZEE BOLLYWOOD
-http://zeefamily-i.akamaihd.net/hls/live/227854/zeebollywood/chunklist.m3u8
+http://stream.zliving.online:1935/live/zeebollywood/chunklist_w1339639523.m3u8
 #EXTINF:0,ZEE LAMHE
 http://zeefamily-i.akamaihd.net/hls/live/227854/zeelamhe/chunklist.m3u8
 #EXTINF:-1,ZEE LIVING
@@ -169,13 +169,15 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/21957727/streams/live/playlist.m3u8
 #EXTINF: 0, FOX NEWS
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3476.m3u8
+
 #EXTINF:-1,Fox News
 http://iptvbox.noip.us:9998/live/atik/atik/727.m3u8
 #EXTINF:-1,CNN
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,CNN 2
 http://edge1.everyon.tv/etv1sb/pld16/chunklist_w1111345089.m3u8
+#EXTINF:-1,CNN 3
+http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1300468616.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
 #EXTINF:-1,Al Jazeera English
@@ -191,7 +193,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1,TEN SPORTS 
 http://iptvdragon.dyndns.tv:8000/live/younis/younis/2547.m3u8
 #EXTINF:-1,TEN CRICKET
-http://zeefamily2-i.akamaihd.net/hls/live/231616/tencrick/chunklist.m3u8
+
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
@@ -219,9 +221,9 @@ http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/4028k/prog.m3u8
 #EXTINF:-1,FOX SPORTS 2
 http://ftve7300-i.akamaihd.net/hls/live/216996/fs2/4028k/prog.m3u8
 #EXTINF:-1,BT SPORTS 1
-http://02e4.vp9.tv/chn/btsu1/v.m3u8
+
 #EXTINF:-1,BT SPORTS 2
-http://149.202.207.8:8080/Btsprt2/Btsprt2/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 1
 
 #EXTINF:-1,SKY SPORTS 2
@@ -243,9 +245,9 @@ http://144.76.3.83/sky_sports4gb.m3u8?token=579da107ce043898bd207427f873a672&use
 #EXTINF:-1,Sky Sports 5 HD
 http://144.76.3.83/sky_sports5gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
 #EXTINF:-1,HBO HD
-http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=HBOHD
+
 #EXTINF:-1,HBO ComedyHD
-http://apptvro-001-site1.ctempurl.com/tk/extkjw.php?id=HBOComedyHD
+
 
 
 #EXTINF:-1,USA: ESPN 2 HD 
