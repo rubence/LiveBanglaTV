@@ -237,7 +237,7 @@ http://149.202.207.8:8080/SkkYjk2/SkkYjk2/index.m3u8
 #EXTINF:-1,Sky Sports 1 HD
 http://144.76.3.83/sky_sports1gb.m3u8?token=fd08446a425d2c492505cc973e0ba074&user=41166&bands=956
 #EXTINF:-1,Sky Sports 2 HD
-http://144.76.3.83/sky_sports2gb.m3u8?token=27549478605c2e9d28debee3fb65bb39&user=41166&bands=956
+http://live1.greenlie.org:8081/live/skysports2-hq/chunks.m3u8?nimblesessionid=1149042&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDE2IDU6MTQ6MTIgUE0maGFzaF92YWx1ZT1vbklPUWUxQVAzZDNaT3I4MEZRS29nPT0mdmFsaWRtaW51dGVzPTIwJmlkPTEwOC4xNjIuMjM3LjI0NyZzdHJtX2xlbj0xOA==
 #EXTINF:-1,Sky Sports 3 HD
 http://144.76.3.83/sky_sports3gb.m3u8?token=f663571502c473b739fa94db15303a11&user=41166&bands=956
 #EXTINF:-1,Sky Sports 4 HD
