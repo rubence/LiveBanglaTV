@@ -18,8 +18,7 @@ http://118.179.35.11/hls/Channel24mStU9/03.m3u8
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,NTV LQ
 http://118.179.35.11/hls/nTVKeQBR/03.m3u8
-#EXTINF:-1,NTV YT
-https://www.youtube.com/watch?v=hPQrsdBNjBM
+
 #EXTINF:-1,MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,MAASRANGA LQ
