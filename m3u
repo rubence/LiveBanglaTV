@@ -198,6 +198,7 @@ http://iptvdragon.dyndns.tv:8000/live/younis/younis/2547.m3u8
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/sr6043.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,STAR SPORTS 1
 
 #EXTINF:-1,STAR SPORTS 2
@@ -206,7 +207,7 @@ http://iptvdragon.dyndns.tv:8000/live/younis/younis/2547.m3u8
 #EXTINF:-1,STAR SPORTS 3
 
 #EXTINF:-1,STAR SPORTS 3 hd
-
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/st17885.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,STAR SPORTS 4
 
 #EXTINF:-1,STAR SPORTS 4HQ
@@ -238,7 +239,7 @@ http://149.202.207.8:8080/SkkYjk2/SkkYjk2/index.m3u8
 #EXTINF:-1,Sky Sports 1 HD
 
 #EXTINF:-1,Sky Sports 2 HD
-http://live1.greenlie.org:8081/live/skysports2-hq/chunks.m3u8?nimblesessionid=1149042&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDE2IDU6MTQ6MTIgUE0maGFzaF92YWx1ZT1vbklPUWUxQVAzZDNaT3I4MEZRS29nPT0mdmFsaWRtaW51dGVzPTIwJmlkPTEwOC4xNjIuMjM3LjI0NyZzdHJtX2xlbj0xOA==
+http://93.184.215.73/hls-live/20FC2A/ecpl/pl/st17885.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,Sky Sports 3 HD
 
 #EXTINF:-1,Sky Sports 4 HD
