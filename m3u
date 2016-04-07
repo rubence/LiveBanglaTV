@@ -150,16 +150,16 @@ http://iptvdragon.dyndns.tv:8000/live/younis/younis/2541.m3u8
 
 #EXTINF:-1,Nat Geo Wild
 #EXTINF:-1,NATGEO
-http://167.114.102.27/live/pbmE4zda9LA7C6RzpNVN7A/1459825555/e08dd4627a3cf468a30d8a357956d6f8.m3u8
+
 #EXTINF:-1,RT NEWS
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,BBC WORLD NEWS
 #EXTINF:-1,CNBC
 #EXTINF:-1,HISTORY
-http://167.114.102.27/live/6IZfXq4WJh8RXu62lQJTkg/1459825358/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
+
 #EXTINF:-1,PT- DISCOVERY
 #EXTINF:-1,DISCOVERY
-http://167.114.102.27/live/6_BGFUuLsnNbBHZWsyum2Q/1459825546/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
+
 #EXTINF:-1,ANIMAL PLANET
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET UK
@@ -167,7 +167,7 @@ http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1,TLC
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1,SPIKE
-http://167.114.102.27/live/fJIqLYPvGfASWfc3kxuoAQ/1459824802/a01d4a2d79052d6b1c2c63bf2d284202.m3u8
+
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] CBSN NEWS [/COLOR]
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
  
@@ -196,7 +196,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 
 #EXTINF:-1,COMEDY CENTRAL
 #EXTINF:-1,SONY SIX
-
+http://80.243.182.106:8080/SonySixC/index.m3u8
 #EXTINF:-1,TEN SPORTS 
 http://iptvdragon.dyndns.tv:8000/live/younis/younis/2547.m3u8
 #EXTINF:-1,TEN CRICKET
@@ -245,7 +245,7 @@ http://149.202.207.8:8080/SkkYjk2/SkkYjk2/index.m3u8
 #EXTINF:-1,Sky Sports 1 HD
 
 #EXTINF:-1,Sky Sports 2 HD
-http://93.184.215.73/hls-live/20FC2A/ecpl/pl/st17885.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+http://80.243.182.106:8080/SonySixC/index.m3u8
 #EXTINF:-1,Sky Sports 3 HD
 
 #EXTINF:-1,Sky Sports 4 HD
@@ -297,7 +297,7 @@ http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
 #EXTINF:-1, TNT
 
 #EXTINF:-1, AMC
-http://167.114.102.27/live/Yg4-PEjSnjlDRDT4fYjpzg/1459825324/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
+
 
 
 #EXTINF:-1, Weather Channel
