@@ -200,7 +200,7 @@ http://80.243.182.106:8080/SonySixC/index.m3u8
 #EXTINF:-1,TEN SPORTS 
 http://iptvdragon.dyndns.tv:8000/live/younis/younis/2547.m3u8
 #EXTINF:-1,TEN CRICKET
-
+http://149.202.207.8:8080/TenNCrRkthHD_rAf/TenNCrRkthHD_rAf/index.m3u8
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
@@ -301,7 +301,7 @@ http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
 
 
 #EXTINF:-1, Weather Channel
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
 
