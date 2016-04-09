@@ -110,7 +110,7 @@ http://stream.zliving.online/zeecinema_domain_tracking/index.m3u8
 http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864.m3u8
 
 #EXTINF:-1,SET MAX UK
-
+http://149.202.85.84:8080/ipl2/ipl2/index.m3u8
 #EXTINF:-1,ZING
 http://zeefamily-i.akamaihd.net/hls/live/227854/zing/chunklist.m3u8
 #EXTINF:-1,SAHARA FILMY
@@ -198,7 +198,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 
 #EXTINF:-1,COMEDY CENTRAL
 #EXTINF:-1,SONY SIX
-http://80.243.182.106:8080/SonySixC/index.m3u8
+http://149.202.85.84:8080/ipl1/ipl1/index.m3u8
 #EXTINF:-1,TEN SPORTS 
 http://iptvdragon.dyndns.tv:8000/live/younis/younis/2547.m3u8
 #EXTINF:-1,TEN CRICKET
