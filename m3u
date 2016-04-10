@@ -18,7 +18,8 @@ http://118.179.35.11/hls/Channel24mStU9/03.m3u8
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,NTV LQ
 http://118.179.35.11/hls/nTVKeQBR/03.m3u8
-
+#EXTINF:-1,CHANNEL 9
+http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
 #EXTINF:-1,MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,MAASRANGA LQ
@@ -199,6 +200,10 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1,COMEDY CENTRAL
 #EXTINF:-1,SONY SIX
 http://149.202.85.84:8080/ipl1/ipl1/index.m3u8
+#EXTINF:-1,SONY SIX 2
+http://149.202.85.84:8080/ipl4/ipl4/index.m3u8
+#EXTINF:-1,SONY SIX
+http://149.202.85.84:8080/ipl3/ipl3/index.m3u8
 #EXTINF:-1,TEN SPORTS 
 http://iptvdragon.dyndns.tv:8000/live/younis/younis/2547.m3u8
 #EXTINF:-1,TEN CRICKET
@@ -249,7 +254,7 @@ http://live1.greenlie.org:8081/live/sonysix-hq/chunks.m3u8?nimblesessionid=38524
 #EXTINF:-1,Sky Sports 2 HD
 http://80.243.182.106:8080/SonySixC/index.m3u8
 #EXTINF:-1,Sky Sports 3 HD
-
+http://149.202.85.84:8080/ipl12/ipl12/index.m3u8
 #EXTINF:-1,Sky Sports 4 HD
 
 #EXTINF:-1,Sky Sports 5 HD
