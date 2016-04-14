@@ -2,81 +2,82 @@
 #EXTINF:-1,ATN HQ
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 #EXTINF:-1,ATN LQ
-http://118.179.35.11/hls/ATN_BanglaoUPi3/03.m3u8
+
 #EXTINF:-1,ASIAN TV
 #EXTINF:-1,ATN MUSIC
 #EXTINF:-1,BANGLAVISION HQ
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,BANGLAVISION LQ
-http://118.179.35.11/hls/Bangla_VisionhS43B/03.m3u8
+
 #EXTINF:-1,CHANNEL 24 HQ
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
-http://118.179.35.11/hls/Channel24mStU9/03.m3u8
+
 #EXTINF:-1,GTV
 #EXTINF:-1,NTV HQ
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,NTV LQ
-http://118.179.35.11/hls/nTVKeQBR/03.m3u8
+
 #EXTINF:-1,CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
 #EXTINF:-1,MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,MAASRANGA LQ
-http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
+
 #EXTINF:-1,CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,CHANNEL I LQ
-http://118.179.35.11/hls/ChannelI4sZk9/03.m3u8
+
 #EXTINF:-1,RTV HQ
 http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,RTV LQ
-http://118.179.35.11/hls/RTVBHp5Y/03.m3u8
+
 #EXTINF:-1,EKUSHEY TV HQ
 http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1,EKUSHEY TV LQ
-http://118.179.35.11/hls/ETVFQ46s/03.m3u8
+
 #EXTINF:-1,SA TV HQ
 http://118.179.35.11/hls/SATVhfnbM/06.m3u8
 #EXTINF:-1,SA TV LQ
-http://118.179.35.11/hls/SATVhfnbM/04.m3u8
+
 #EXTINF:-1,BOISHAKHI HQ
 http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
 #EXTINF:-1,BOISHAKHI LQ
-http://118.179.35.11/hls/BoishakhiTVr5MY4/02.m3u8
+
 #EXTINF:-1,DESH TV HQ
 http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1,DESH TV LQ
-http://118.179.35.11/hls/Desh_TVYCjrz/03.m3u8
+
 #EXTINF:-1,EKATTOR HQ
 http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 #EXTINF:-1,EKATTOR LQ
-http://118.179.35.11/hls/EkattorHDV5U46/04.m3u8
+
 #EXTINF:-1,SOMOY TV HQ
 http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
 #EXTINF:-1,SOMOY TV LQ
-http://118.179.35.11/hls/SomoyTV43N5q/03.m3u8
+
 #EXTINF:-1,INDEPENDENT TV HQ
 http://118.179.35.11/hls/ITV2434BuA/05.m3u8
 #EXTINF:-1,INDEPENDENT TV LQ
-http://118.179.35.11/hls/ITV2434BuA/03.m3u8
+
 #EXTINF:-1,JAMUNA TV HQ
 http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
 #EXTINF:-1,JAMUNA TV LQ
-http://118.179.35.11/hls/JamunaTVNs4ME/02.m3u8
+
 #EXTINF:-1,MAASRANGA 2
 #EXTINF:-1,GAAN BANGLA HQ
 http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
 #EXTINF:-1,GAAN BANGLA LQ
-http://118.179.35.11/hls/GRAMBANGLA/04.m3u8
+
 #EXTINF:-1,TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,NJ BANGLA
 http://64.237.38.195:1935/extlive/tvbanglanj24/chunklist_w1224133502.m3u8
 #EXTINF:-1,ZEE BANGLA
-http://zeefamily-i.akamaihd.net/hls/live/227854/zeebangla/chunklist.m3u8
+http://stream.zliving.online/zeebanglats/index.m3u8
 #EXTINF:-1, ZEE BANGLA CINEMA
-http://zeefamily-i.akamaihd.net/hls/live/227854/zeebanglacnmts/chunklist.m3u8?time=1458873297384
+http://zeefamily-i.akamaihd.net/hls/live/227854/zeebanglacnmts/chunklist.m3u8
+
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 #EXTINF:-1,COLORS USA
