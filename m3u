@@ -301,7 +301,7 @@ http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
 #EXTINF:-1,HBO EAST
 
 #EXTINF:-1,ABC
-
+http://live.dianshibo.com/_ds/live.m3u8?id=nbc&auth=126d4aedbd3f9b5b1280c5a46e6346c271b698c41070043ca66a715474b189a970720ac7b8a1cf99367ab096a704249f
 #EXTINF:-1, TNT
 
 #EXTINF:-1, AMC
