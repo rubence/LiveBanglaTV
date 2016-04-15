@@ -108,8 +108,8 @@ http://wpc.fc2a.edgecastcdn.net/80FC2A/ams2/app/996632.stream/chunklist.m3u8?3c0
 http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassicts/chunklist.m3u8
 #EXTINF:-1,ZEE CINEMA
 http://stream.zliving.online/zeecinema_domain_tracking/index.m3u8
-#EXTINF:-1,ZEE CINEMA UK
-http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864.m3u8
+#EXTINF:-1,ZEE CINEMA IN
+http://192.240.109.130:8010/server21channel2_bitrate4.m3u8
 
 #EXTINF:-1,SET MAX UK
 http://149.202.85.84:8080/ipl2/ipl2/index.m3u8
