@@ -81,9 +81,7 @@ http://zeefamily-i.akamaihd.net/hls/live/227854/zeebanglacnmts/chunklist.m3u8
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 #EXTINF:-1,COLORS USA
-http://hlsnorthextra-lh.akamaihd.net/i/ams44_mtv@310231/index_1100_av-b.m3u8?sd=10&dw=7200&rebase=on&hdntl=exp=1459730936~acl=%2fi%2fams44_mtv%40310231%2f*~data=hdntl~hmac=9c6b78543f0ffe85fe92fa7d0dbb7ee30029d07e9fae833af1ee8bc6c9ec11d1
 #EXTINF:-1,COLORS
-http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_864_av-p.m3u8
 #EXTINF:-1,LIFE OK
 
 #EXTINF:-1,RISHTEY
@@ -101,7 +99,6 @@ http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8?sd=
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, STAR GOLD
-http://136.243.12.170/star_gold_in.m3u8?bandwidth=956&token=ec2b08db77ea7c4c0a87f1faf006d963&user=41166&shift=0&playlistlength=25
 #EXTINF:-1, ENJOY NOW
 http://wpc.fc2a.edgecastcdn.net/80FC2A/ams2/app/996632.stream/chunklist.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,ZEE CLASSIC
@@ -112,7 +109,7 @@ http://stream.zliving.online/zeecinema_domain_tracking/index.m3u8
 http://192.240.109.130:8010/server21channel2_bitrate4.m3u8
 
 #EXTINF:-1,SET MAX UK
-http://149.202.85.84:8080/ipl2/ipl2/index.m3u8
+
 #EXTINF:-1,ZING
 http://zeefamily-i.akamaihd.net/hls/live/227854/zing/chunklist.m3u8
 #EXTINF:-1,SAHARA FILMY
@@ -126,7 +123,7 @@ http://stream.zliving.online/zeetvhdus_domain_tracking/index.m3u8
 #EXTINF:-1,ZEE SMILE
 http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8
 #EXTINF:-1,B4U MUSIC
-http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/b34umus14-mobile.3gp.m3u8
 #EXTINF:-1,B4U MOVIE
 
 
@@ -144,12 +141,12 @@ http://zeefamily-i.akamaihd.net/hls/live/227854/zeelamhe/chunklist.m3u8
 #EXTINF:-1,Zee Action
 http://iptvdragon.dyndns.tv:8000/live/younis/younis/2492.m3u8
 #EXTINF:0,STAR PLUS
-http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&user=41166&bands=956
+
 #EXTINF:0,STAR PLUS 2
 
 #EXTINF:0,STAR PLUS UK
 #EXTINF:-1,UTV Movies International
-http://iptvdragon.dyndns.tv:8000/live/younis/younis/2541.m3u8
+
 #EXTINF:-1,NATGEO INDIA
 
 #EXTINF:-1,Nat Geo Wild
@@ -165,11 +162,11 @@ http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,DISCOVERY
 
 #EXTINF:-1,ANIMAL PLANET
-http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1,ANIMAL PLANET UK
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1,TLC
-http://80.80.160.168/live/2/live.m3u8
+
 #EXTINF:-1,SPIKE
 
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] CBSN NEWS [/COLOR]
@@ -178,9 +175,9 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/21957727/streams/live/playlist.m3u8
 #EXTINF: 0, FOX NEWS
-http://167.114.102.27/live/MJXiApl7djLHK4FKpWfjJA/1459825597/b199b33264504f9191862ce605f6754a.m3u8
+
 #EXTINF:-1,Fox News
-http://iptvbox.noip.us:9998/live/atik/atik/727.m3u8
+
 #EXTINF:-1,CNN
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1,CNN 2
@@ -200,19 +197,17 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 
 #EXTINF:-1,COMEDY CENTRAL
 #EXTINF:-1,SONY SIX
-http://149.202.85.84:8080/ipl1/ipl1/index.m3u8
+http://80.243.182.106:8080/SonySixC/index.m3u8
 #EXTINF:-1,SONY SIX 2
-http://149.202.85.84:8080/ipl4/ipl4/index.m3u8
 #EXTINF:-1,SONY SIX
-http://149.202.85.84:8080/ipl3/ipl3/index.m3u8
+
 #EXTINF:-1,TEN SPORTS 
-http://iptvdragon.dyndns.tv:8000/live/younis/younis/2547.m3u8
+
 #EXTINF:-1,TEN CRICKET
-http://149.202.207.8:8080/TenNCrRkthHD_rAf/TenNCrRkthHD_rAf/index.m3u8
+
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/sr6043.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,STAR SPORTS 1
 
 #EXTINF:-1,STAR SPORTS 2
@@ -221,15 +216,13 @@ http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/sr6043.m3u8?3c0e986a453f
 #EXTINF:-1,STAR SPORTS 3
 
 #EXTINF:-1,STAR SPORTS 3 hd
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/st17885.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,STAR SPORTS 4
-
+http://80.243.182.106:8080/st/stsp014/index.m3u8
 #EXTINF:-1,STAR SPORTS 4HQ
 
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://149.202.207.8:8080/whiiL00w_m/whiiL00w_m/index.m3u8
 #EXTINF:-1,WILLOW HD 2
 
 #EXTINF:-1,FOX SPORTS 1
