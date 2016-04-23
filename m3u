@@ -235,15 +235,16 @@ http://ftve7300-i.akamaihd.net/hls/live/216996/fs2/4028k/prog.m3u8
 #EXTINF:-1,BT SPORTS 2
 
 #EXTINF:-1,SKY SPORTS 1
-
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,SKY SPORTS 2
 http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp2.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+
 #EXTINF:-1,SKY SPORTS 3
-http://live1.greenlie.org:8081/live/sonysix-hq/chunks.m3u8?nimblesessionid=3852413&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMTYgMjo1NDoxMiBQTSZoYXNoX3ZhbHVlPXdoaTNWdjZWZlNoSDRmaE1oS1FMYUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTA4LjE2Mi4yMzguMjI1JnN0cm1fbGVuPTE1
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp3.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786#EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,SKY SPORTS 4
-
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp4.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,SKY SPORTS 5
-
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp5.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,Sky Sports 1 HD
 
 #EXTINF:-1,Sky Sports 2 HD
