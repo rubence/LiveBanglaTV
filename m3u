@@ -99,6 +99,7 @@ http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, STAR GOLD
+http://stream.sasta.xyz:1935/tv/stargold/chunks.m3u8?nimblesessionid=753206&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE2IDExOjU2OjE3IFBNJmhhc2hfdmFsdWU9MjRobnRiSWNKaGpOdUppM21hUUQ2Zz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1, ENJOY NOW
 http://wpc.fc2a.edgecastcdn.net/80FC2A/ams2/app/996632.stream/chunklist.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,ZEE CLASSIC
