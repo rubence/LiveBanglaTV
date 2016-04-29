@@ -158,6 +158,7 @@ http://iptvdragon.dyndns.tv:8000/live/younis/younis/2492.m3u8
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,BBC WORLD NEWS
 #EXTINF:-1,CNBC
+http://stream.sasta.xyz:1935/tv2/cnbc/chunks.m3u8?nimblesessionid=753387&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDE2IDEyOjA1OjA0IEFNJmhhc2hfdmFsdWU9em9zTDlqT2ZBdTZUSmxuRkNwbnlHdz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj04
 #EXTINF:-1,HISTORY
 
 #EXTINF:-1,PT- DISCOVERY
@@ -189,8 +190,9 @@ http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1300468616.m3u8
 #EXTINF:-1,CNN 4
 http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
+http://stream.sasta.xyz:1935/tv/cnn/chunks.m3u8?nimblesessionid=753322&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDE2IDEyOjAzOjQwIEFNJmhhc2hfdmFsdWU9cjFPUHU3akN1S0JJTG9kNitFWWdFdz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj02
 #EXTINF:-1,Al Jazeera English
+http://stream.sasta.xyz:1935/tv/aljazera/chunks.m3u8?nimblesessionid=753290&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDE2IDEyOjAyOjQ0IEFNJmhhc2hfdmFsdWU9MXFWdXEvQzhiMG0wYzg4WHlrVTMrQT09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,WGN NEWS
