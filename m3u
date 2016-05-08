@@ -190,7 +190,7 @@ http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1300468616.m3u8
 #EXTINF:-1,CNN 4
 http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
-http://stream.sasta.xyz:1935/tv/cnn/chunks.m3u8?nimblesessionid=753322&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDE2IDEyOjAzOjQwIEFNJmhhc2hfdmFsdWU9cjFPUHU3akN1S0JJTG9kNitFWWdFdz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj02
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/chunklist.m3u8
 #EXTINF:-1,Al Jazeera English
 http://stream.sasta.xyz:1935/tv/aljazera/chunks.m3u8?nimblesessionid=753290&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDE2IDEyOjAyOjQ0IEFNJmhhc2hfdmFsdWU9MXFWdXEvQzhiMG0wYzg4WHlrVTMrQT09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1,ABC NEWS
@@ -227,6 +227,7 @@ http://80.243.182.106:8080/st/stsp014/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
+http://37.48.76.47:8081/live/willow-hq/chunks.m3u8?nimblesessionid=1004483&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTYgMzoyMDozNyBBTSZoYXNoX3ZhbHVlPWV6TlM5ZWcvUFRnUEtHY0lTN1BXbVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTA4LjE2Mi4yMzguMjI1JnN0cm1fbGVuPTE0
 #EXTINF:-1,WILLOW HD 2
 
 #EXTINF:-1,FOX SPORTS 1
