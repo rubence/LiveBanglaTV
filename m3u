@@ -297,11 +297,11 @@ http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
 #EXTINF:-1,ABC
 #EXTINF:-1, TNT
 
-#EXTINF:-1, VEVI 1
+#EXTINF:-1, VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1, VEVI 2
+#EXTINF:-1, VEVO 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1, VEVI 3
+#EXTINF:-1, VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1, Weather Channel
