@@ -297,9 +297,12 @@ http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
 #EXTINF:-1,ABC
 #EXTINF:-1, TNT
 
-#EXTINF:-1, AMC
-
-
+#EXTINF:-1, VEVI 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1, VEVI 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1, VEVI 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1, Weather Channel
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
