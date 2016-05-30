@@ -227,7 +227,6 @@ http://80.243.182.106:8080/st/stsp014/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://37.48.76.47:8081/live/willow-hq/chunks.m3u8?nimblesessionid=1004483&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTYgMzoyMDozNyBBTSZoYXNoX3ZhbHVlPWV6TlM5ZWcvUFRnUEtHY0lTN1BXbVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTA4LjE2Mi4yMzguMjI1JnN0cm1fbGVuPTE0
 #EXTINF:-1,WILLOW HD 2
 
 #EXTINF:-1,FOX SPORTS 1
@@ -235,31 +234,26 @@ http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/4028k/prog.m3u8
 #EXTINF:-1,FOX SPORTS 2
 http://ftve7300-i.akamaihd.net/hls/live/216996/fs2/4028k/prog.m3u8
 #EXTINF:-1,BT SPORTS 1
-
+http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8
 #EXTINF:-1,BT SPORTS 2
-
+http://185.59.222.65:8080/MHAJbmmhhjPIAmbt2/index.m3u8
 #EXTINF:-1,SKY SPORTS 1
-http://94.242.228.162:8081/live/skysports1-hq/chunks.m3u8?nimblesessionid=3475846&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTYgMzozMTo0NyBBTSZoYXNoX3ZhbHVlPVU2L3d2SkVNWjV5RURCSW9IdGllbmc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTYyLjE1OC4xNjMuMTkyJnN0cm1fbGVuPTE4
 #EXTINF:-1,SKY SPORTS 2
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp2.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 
 #EXTINF:-1,SKY SPORTS 3
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp3.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,SKY SPORTS 4
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp4.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,SKY SPORTS 5
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp5.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,Sky Sports 1 HD
-
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky1/index.m3u8
 #EXTINF:-1,Sky Sports 2 HD
-http://80.243.182.106:8080/SonySixC/index.m3u8
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky2/index.m3u8
 
 #EXTINF:-1,Sky Sports 3 HD
-http://149.202.85.84:8080/ipl12/ipl12/index.m3u8
-#EXTINF:-1,Sky Sports 4 HD
 
+#EXTINF:-1,Sky Sports 4 HD
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky4/index.m3u8
 #EXTINF:-1,Sky Sports 5 HD
-http://144.76.3.83/sky_sports5gb.m3u8?bandwidth=956&shift=0&playlistlength=25
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky5/index.m3u8
 #EXTINF:-1,HBO HD
 
 #EXTINF:-1,HBO ComedyHD
