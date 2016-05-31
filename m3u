@@ -74,9 +74,9 @@ http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,NJ BANGLA
 http://64.237.38.195:1935/extlive/tvbanglanj24/chunklist_w1224133502.m3u8
 #EXTINF:-1,ZEE BANGLA
-http://stream.zliving.online/zeebanglats/index.m3u8
+
 #EXTINF:-1, ZEE BANGLA CINEMA
-http://zeefamily-i.akamaihd.net/hls/live/227854/zeebanglacnmts/chunklist.m3u8
+
 
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
@@ -99,31 +99,22 @@ http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, STAR GOLD
-http://stream.sasta.xyz:1935/tv/stargold/chunks.m3u8?nimblesessionid=753206&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE2IDExOjU2OjE3IFBNJmhhc2hfdmFsdWU9MjRobnRiSWNKaGpOdUppM21hUUQ2Zz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1, ENJOY NOW
-http://wpc.fc2a.edgecastcdn.net/80FC2A/ams2/app/996632.stream/chunklist.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 #EXTINF:-1,ZEE CLASSIC
-http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassicts/chunklist.m3u8
+
 #EXTINF:-1,ZEE CINEMA
-http://stream.zliving.online/zeecinema_domain_tracking/index.m3u8
 #EXTINF:-1,ZEE CINEMA IN
-http://192.240.109.130:8010/server21channel2_bitrate4.m3u8
 #EXTINF:-1,ZEE CINEMA UK
 http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_800.m3u8
 #EXTINF:-1,SET MAX UK
-http://77.95.228.66:1935/live/soW4mcN2NR5n/chunklist_w680651414.m3u8
 #EXTINF:-1,ZING
-http://zeefamily-i.akamaihd.net/hls/live/227854/zing/chunklist.m3u8
 #EXTINF:-1,SAHARA FILMY
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8?time=1451946080749
 #EXTINF:-1,SAB
 
 #EXTINF:-1,ZEE TV US
-http://stream.zliving.online/zeetvhdus_domain_tracking/index.m3u8
 #EXTINF:-1,ZEE TV
 
 #EXTINF:-1,ZEE SMILE
-http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8
 #EXTINF:-1,B4U MUSIC
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/b34umus14-mobile.3gp.m3u8
 #EXTINF:-1,B4U MOVIE
@@ -134,14 +125,11 @@ http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/b34umus14-mobile.3gp.m3u8
 
 #EXTINF:0,ZEE BOLLYWOOD
 
-http://stream.zliving.online/zeebollywood_domain_tracking/index.m3u8
 #EXTINF:0,ZEE LAMHE
-http://zeefamily-i.akamaihd.net/hls/live/227854/zeelamhe/chunklist.m3u8
 #EXTINF:-1,ZEE LIVING
 
 #EXTINF:-1,ZEE LIVING AND FOOD
 #EXTINF:-1,Zee Action
-http://iptvdragon.dyndns.tv:8000/live/younis/younis/2492.m3u8
 #EXTINF:0,STAR PLUS
 
 #EXTINF:0,STAR PLUS 2
@@ -158,7 +146,6 @@ http://iptvdragon.dyndns.tv:8000/live/younis/younis/2492.m3u8
 http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,BBC WORLD NEWS
 #EXTINF:-1,CNBC
-http://stream.sasta.xyz:1935/tv2/cnbc/chunks.m3u8?nimblesessionid=753387&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDE2IDEyOjA1OjA0IEFNJmhhc2hfdmFsdWU9em9zTDlqT2ZBdTZUSmxuRkNwbnlHdz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj04
 #EXTINF:-1,HISTORY
 
 #EXTINF:-1,PT- DISCOVERY
@@ -176,7 +163,6 @@ http://80.80.160.168/live/1/live.m3u8
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
  
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/21957727/streams/live/playlist.m3u8
 #EXTINF: 0, FOX NEWS
 
 #EXTINF:-1,Fox News
@@ -192,7 +178,6 @@ http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/chunklist.m3u8
 #EXTINF:-1,Al Jazeera English
-http://stream.sasta.xyz:1935/tv/aljazera/chunks.m3u8?nimblesessionid=753290&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDE2IDEyOjAyOjQ0IEFNJmhhc2hfdmFsdWU9MXFWdXEvQzhiMG0wYzg4WHlrVTMrQT09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xMQ==
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,WGN NEWS
@@ -201,7 +186,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 
 #EXTINF:-1,COMEDY CENTRAL
 #EXTINF:-1,SONY SIX
-http://80.243.182.106:8080/SonySixC/index.m3u8
+ http://149.202.85.84:8080/SsNysX-Kutta-2050/local/index.m3u8
 #EXTINF:-1,SONY SIX 2
 #EXTINF:-1,SONY SIX
 
@@ -230,9 +215,7 @@ http://80.243.182.106:8080/st/stsp014/index.m3u8
 #EXTINF:-1,WILLOW HD 2
 
 #EXTINF:-1,FOX SPORTS 1
-http://ftve7300-i.akamaihd.net/hls/live/216995/fs1/4028k/prog.m3u8
 #EXTINF:-1,FOX SPORTS 2
-http://ftve7300-i.akamaihd.net/hls/live/216996/fs2/4028k/prog.m3u8
 #EXTINF:-1,BT SPORTS 1
 http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8
 #EXTINF:-1,BT SPORTS 2
@@ -281,15 +264,12 @@ http://185.59.222.65:8080/MHAJbmmhhjPIAmsky5/index.m3u8
 #EXTINF:-1,ZEE LIVING AND FOOD
 
 #EXTINF:-1,NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,STAR GOLD
 
 #EXTINF:-1,ZEE WORLD
-http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeworld/chunklist.m3u8
 #EXTINF:-1,WB INDIA
 
 #EXTINF:-1,STAR MOVIES
-http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
 #EXTINF:-1,HBO INDIA
 
 #EXTINF:-1,SHOWTIME
