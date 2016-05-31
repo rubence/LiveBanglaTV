@@ -164,7 +164,7 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
  
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
 #EXTINF: 0, FOX NEWS
-
+http://167.114.102.27/live/vca0EOmdwIkVB96fHIfXGQ/1464666118/877e1fd192b3a58577e4387971c215a7.m3u8
 #EXTINF:-1,Fox News
 
 #EXTINF:-1,CNN
