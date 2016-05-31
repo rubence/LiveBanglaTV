@@ -285,7 +285,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1, Weather Channel
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_oorxcge2_publish.smil/chunklist_b679936.m3u8
 
 
