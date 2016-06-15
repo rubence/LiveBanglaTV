@@ -169,7 +169,7 @@ http://167.114.102.27/live/vca0EOmdwIkVB96fHIfXGQ/1464666118/877e1fd192b3a58577e
 #EXTINF:-1,CNN
 http://109.236.92.136:1935/live/cnn9.stream/media_w24743477_1181.m3u8
 #EXTINF:-1,CNN
-http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
+http://109.236.92.136:1935/live/cnn9.stream/chunklist_w669909593.m3u8?
 #EXTINF:-1,CNN 2
 http://edge1.everyon.tv/etv1sb/pld16/chunklist_w1111345089.m3u8
 #EXTINF:-1,CNN 3
