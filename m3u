@@ -167,11 +167,11 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 http://167.114.102.27/live/vca0EOmdwIkVB96fHIfXGQ/1464666118/877e1fd192b3a58577e4387971c215a7.m3u8
 #EXTINF:-1,Fox News
 #EXTINF:-1,CNN
-http://109.236.92.136:1935/live/cnn9.stream/media_w24743477_1181.m3u8
+
 #EXTINF:-1,CNN
 http://109.236.92.136:1935/live/cnn9.stream/chunklist_w669909593.m3u8?
 #EXTINF:-1,CNN 2
-http://edge1.everyon.tv/etv1sb/pld16/chunklist_w1111345089.m3u8
+
 #EXTINF:-1,CNN 3
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1300468616.m3u8
 #EXTINF:-1,CNN 4
@@ -218,6 +218,7 @@ http://80.243.182.106:8080/st/stsp014/index.m3u8
 #EXTINF:-1,WILLOW HD 2
 
 #EXTINF:-1,FOX SPORTS 1
+http://orbit-iptv.com:2500/live/h13ez12WyF/mGulMPcmRD/2207.m3u8?
 #EXTINF:-1,FOX SPORTS 2
 #EXTINF:-1,BT SPORTS 1
 http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8
