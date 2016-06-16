@@ -280,12 +280,9 @@ http://37.48.76.46:8081/live/premiersports-hq/chunks.m3u8?nimblesessionid=380657
 http://62.210.139.136:1935/edge/_definst_/bwbop58ixz281wv/playlist.m3u8?wowzasessionid=1419875151
 #EXTINF:-1,ABC
 #EXTINF:-1, TNT
-
-
-
-http://130.185.144.63:8081/box/MTVIndia/chunks.m3u8
+http://130.185.144.63:8081/box/MTVIndia/chunks.m3u8?
 #EXTINF:-1, TNT
-http://130.185.144.63:8081/box/MTVIndia/playlist.m3u8
+http://130.185.144.63:8081/box/MTVIndia/playlist.m3u8?
 #EXTINF:-1, VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1, VEVO 2
