@@ -72,7 +72,7 @@ http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
 #EXTINF:-1,TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,NJ BANGLA
-http://64.237.38.195:1935/extlive/tvbanglanj24/chunklist_w1224133502.m3u8
+http://64.237.38.195:1935/njbangla/tvbanglanj24/chunklist_w1500059128.m3u8
 #EXTINF:-1,ZEE BANGLA
 
 #EXTINF:-1, ZEE BANGLA CINEMA
