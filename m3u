@@ -295,10 +295,3 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1, Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_oorxcge2_publish.smil/chunklist_b679936.m3u8
-<streamingInfos>
-
-<item>
-<title>testlinkoftslink</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.sarimedia.tv:8000/live/colmar/colmar/1.ts</link>
-
-
