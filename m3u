@@ -75,7 +75,7 @@ http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,NJ BANGLA
 http://64.237.38.195:1935/njbangla/tvbanglanj24/chunklist_w1500059128.m3u8
 #EXTINF:-1,ZEE BANGLA
-
+http://130.185.144.63:8081/iptv/zeebangla/chunks.m3u8?
 #EXTINF:-1, ZEE BANGLA CINEMA
 
 
@@ -94,22 +94,26 @@ http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.
 #EXTINF:-1,ZOOM
 
 #EXTINF:-1,MTUNES
-http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100.m3u8
+http://130.185.144.63:8081/iptv/MtunesHD/chunks.m3u8?
 #EXTINF:-1,&TV
 
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, STAR GOLD
+http://130.185.144.63:8081/iptv/stargoldind/chunks.m3u8?
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
-
+#EXTINF:-1,MTV INDIA
+http://130.185.144.63:8081/iptv/MTVIndia/chunks.m3u8?
 #EXTINF:-1,ZEE CINEMA
+http://130.185.144.63:8081/iptv/ZeeCinema/chunks.m3u8?
 #EXTINF:-1,ZEE CINEMA IN
 #EXTINF:-1,ZEE CINEMA UK
 http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_800.m3u8
 #EXTINF:-1,SET MAX UK
 http://118.179.35.11/hls/sdi1041f4dFYQ/05.m3u8
 #EXTINF:-1,ZING
+http://130.185.144.63:8081/iptv/MtunesHD/chunks.m3u8?
 #EXTINF:-1,SAHARA FILMY
 #EXTINF:-1,SAB
 
@@ -132,6 +136,7 @@ http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/b34umus14-mobile.3gp.m3u8
 
 #EXTINF:-1,ZEE LIVING AND FOOD
 #EXTINF:-1,Zee Action
+http://130.185.144.63:8081/box/ZEETVACTION/chunks.m3u8?
 #EXTINF:0,STAR PLUS
 
 #EXTINF:0,STAR PLUS 2
