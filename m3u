@@ -120,7 +120,7 @@ http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_800.m3u8
 #EXTINF:-1,SET MAX UK
 http://118.179.35.11/hls/sdi1041f4dFYQ/05.m3u8
 #EXTINF:-1,ZING
-http://130.185.144.63:8081/iptv/MtunesHD/chunks.m3u8?
+http://130.185.144.63:8081/iptv/Zing/chunks.m3u8?
 #EXTINF:-1,SAHARA FILMY
 #EXTINF:-1,SAB
 
@@ -154,6 +154,7 @@ http://130.185.144.63:8081/box/ZEETVACTION/chunks.m3u8?
 #EXTINF:-1,NATGEO INDIA
 
 #EXTINF:-1,Nat Geo Wild
+http://216.31.255.235/hlsl/1/NATWLD/01.m3u8
 #EXTINF:-1,NATGEO
 
 #EXTINF:-1,RT NEWS
@@ -181,6 +182,7 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1,CNN
 
 #EXTINF:-1,CNN
+http://130.185.144.112:8081/iptv/CNNEUROPE/chunks.m3u8?
 #EXTINF:-1,CNN 2
 #EXTINF:-1,CNN 3
 #EXTINF:-1,CNN 4
@@ -205,20 +207,22 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
+http://130.185.144.63:8081/sports/HDSTARSPORTS1/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS 1
 #EXTINF:-1,STAR SPORTS 2
 #EXTINF:-1,STAR SPORTS HD2
-
+http://130.185.144.63:8081/sports/HDSTARSPORTS2/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS 3
 
-#EXTINF:-1,STAR SPORTS 3 hd
+#EXTINF:-1,STAR SPORTS 3HD
+http://130.185.144.63:8081/sports/HDSTARSPORTS3/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS 4
-#EXTINF:-1,STAR SPORTS 4HQ
-
+#EXTINF:-1,STAR SPORTS 4HD
+http://130.185.144.63:8081/sports/HDSTARSPORTS4/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-
+http://130.185.144.63:8081/sports/willow/chunks.m3u8?
 #EXTINF:-1,WILLOW HD 2
 
 #EXTINF:-1,FOX SPORTS 1
@@ -274,7 +278,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1,HBO INDIA
 
 #EXTINF:-1,SHOWTIME
-
+http://80.80.160.168/live/7/5000000/live.m3u8
 #EXTINF:-1,ABC
 #EXTINF:-1, TNT
 
@@ -288,4 +292,5 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1, Weather Channel
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 
