@@ -1,20 +1,27 @@
 #EXTM3U
 #EXTINF:-1,ATN HQ
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
+#EXTINF:-1,ATN
+http://130.185.144.63:8081/iptv/atnbangla/chunks.m3u8?
 #EXTINF:-1,ATN NEWS
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
+#EXTINF:-1,ATN NEWS 2
+http://130.185.144.63:8081/box/atnnews/chunks.m3u8?
 #EXTINF:-1,ASIAN TV
 http://118.179.35.11/hls/AsianTV56UtY/06.m3u8
+#EXTINF:-1,ASIAN TV 2
+http://130.185.144.63:8081/box/asiantv/chunks.m3u8?
 #EXTINF:-1,ATN MUSIC
 #EXTINF:-1,BANGLAVISION HQ
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,BANGLAVISION LQ
-
+http://130.185.144.63:8081/box/banglavision/chunks.m3u8?
 #EXTINF:-1,CHANNEL 24 HQ
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
-
-#EXTINF:-1,GTV
+http://130.185.144.63:8081/iptv/channel24/chunks.m3u8?
+#EXTINF:-1,BTV
+http://130.185.144.63:8081/box/btvworld/chunks.m3u8?
 #EXTINF:-1,NTV HQ
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,NTV LQ
@@ -24,11 +31,11 @@ http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
 #EXTINF:-1,MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,MAASRANGA LQ
-
+http://130.185.144.63:8081/box/maasaranga/chunks.m3u8?
 #EXTINF:-1,CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,CHANNEL I LQ
-
+http://130.185.144.63:8081/box/channeli/chunks.m3u8?
 #EXTINF:-1,RTV HQ
 http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,DEEPTO TV
@@ -36,40 +43,40 @@ http://118.179.35.11/hls/DeeptoTVSQ5j6/05.m3u8
 #EXTINF:-1,EKUSHEY TV HQ
 http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1,EKUSHEY TV LQ
-
+http://130.185.144.63:8081/box/etv/chunks.m3u8?
 #EXTINF:-1,SA TV HQ
 http://118.179.35.11/hls/SATVhfnbM/06.m3u8
 #EXTINF:-1,SA TV LQ
-
+http://130.185.144.63:8081/iptv/satv/chunks.m3u8?
 #EXTINF:-1,BOISHAKHI HQ
 http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
 #EXTINF:-1,BOISHAKHI LQ
-
+http://130.185.144.63:8081/box/Boishakhi/chunks.m3u8?
 #EXTINF:-1,DESH TV HQ
 http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1,DESH TV LQ
-
+http://130.185.144.63:8081/box/deshtv/chunks.m3u8?
 #EXTINF:-1,EKATTOR HQ
 http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 #EXTINF:-1,EKATTOR LQ
-
+http://130.185.144.63:8081/box/ekatoortv/chunks.m3u8?
 #EXTINF:-1,SOMOY TV HQ
 http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
 #EXTINF:-1,SOMOY TV LQ
-
+http://130.185.144.63:8081/box/somoy/chunks.m3u8?
 #EXTINF:-1,INDEPENDENT TV HQ
 http://118.179.35.11/hls/ITV2434BuA/05.m3u8
 #EXTINF:-1,INDEPENDENT TV LQ
-
+http://130.185.144.63:8081/box/independent/chunks.m3u8?
 #EXTINF:-1,JAMUNA TV HQ
 http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
 #EXTINF:-1,JAMUNA TV LQ
-
+http://130.185.144.63:8081/box/JAMUNATV/chunks.m3u8?
 #EXTINF:-1,MAASRANGA 2
 #EXTINF:-1,GAAN BANGLA HQ
 http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
 #EXTINF:-1,GAAN BANGLA LQ
-
+http://130.185.144.63:8081/box/gaanbangla/chunks.m3u8?
 #EXTINF:-1,TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,NJ BANGLA
