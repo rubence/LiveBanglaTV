@@ -180,9 +180,9 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF: 0, FOX NEWS
 #EXTINF:-1,Fox News
 #EXTINF:-1,CNN
-
+http://149.255.152.110/cnn/index.m3u8
 #EXTINF:-1,CNN
-http://130.185.144.112:8081/iptv/CNNEUROPE/chunks.m3u8?
+
 #EXTINF:-1,CNN 2
 #EXTINF:-1,CNN 3
 #EXTINF:-1,CNN 4
