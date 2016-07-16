@@ -118,7 +118,7 @@ http://130.185.144.63:8081/iptv/ZeeCinema/chunks.m3u8?
 #EXTINF:-1,ZEE CINEMA UK
 http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_800.m3u8
 #EXTINF:-1,SET MAX UK
-http://118.179.35.11/hls/sdi1041f4dFYQ/05.m3u8
+
 #EXTINF:-1,ZING
 http://130.185.144.63:8081/iptv/Zing/chunks.m3u8?
 #EXTINF:-1,SAHARA FILMY
