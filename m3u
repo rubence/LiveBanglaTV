@@ -32,6 +32,8 @@ http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,MAASRANGA LQ
 http://130.185.144.63:8081/box/maasaranga/chunks.m3u8?
+#EXTINF:-1,MAASRANGA LQ 1
+https://www.youtube.com/watch?v=sGN4V-jVpoY
 #EXTINF:-1,CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,CHANNEL I LQ
