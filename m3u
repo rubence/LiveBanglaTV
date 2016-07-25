@@ -233,11 +233,15 @@ http://130.185.144.63:8081/sports/willow/chunks.m3u8?
 #EXTINF:-1,BT SPORTS 1
 #EXTINF:-1,BT SPORTS 2
 #EXTINF:-1,SKY SPORTS 1
+http://130.185.144.63:8081/sports/skysp1/chunks.m3u8?
 #EXTINF:-1,SKY SPORTS 2
-
+http://130.185.144.63:8081/sports/skysp2/chunks.m3u8?
 #EXTINF:-1,SKY SPORTS 3
+http://130.185.144.63:8081/sports/skysp3/chunks.m3u8?
 #EXTINF:-1,SKY SPORTS 4
+http://130.185.144.63:8081/sports/skysp4/chunks.m3u8?
 #EXTINF:-1,SKY SPORTS 5
+http://130.185.144.63:8081/sports/skysp5/chunks.m3u8?
 #EXTINF:-1,Sky Sports 1 HD
 #EXTINF:-1,Sky Sports 2 HD
 
