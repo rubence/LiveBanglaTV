@@ -227,7 +227,7 @@ http://130.185.144.63:8081/sports/HDSTARSPORTS4/chunks.m3u8?
 #EXTINF:-1,WILLOW HD
 http://130.185.144.63:8081/sports/willow/chunks.m3u8?
 #EXTINF:-1,WILLOW HD 2
-
+http://149.202.207.8:8080/TKUweylow-cri/counter1/index.m3u8
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
 #EXTINF:-1,BT SPORTS 1
