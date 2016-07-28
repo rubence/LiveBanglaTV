@@ -104,6 +104,8 @@ http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.
 
 #EXTINF:-1,MTUNES
 http://130.185.144.63:8081/iptv/MtunesHD/chunks.m3u8?
+#EXTINF:-1,MTUNES 2
+http://186.179.169.35/edge/smil:mtunes_iptv.smil/chunklist_w1843005081_b600000.m3u8
 #EXTINF:-1,&TV
 
 #EXTINF:-1,MBC BOLLYWOOD
