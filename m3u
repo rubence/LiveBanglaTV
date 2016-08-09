@@ -30,7 +30,7 @@ http://live.amar-tv.com:8081/live1/ntvbd/chunks.m3u8?
 #EXTINF:-1,CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
 #EXTINF:-1,CHANNEL 9 LQ
-http://live.amar-tv.com:8081/live/channel9/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/channel9/chunks.m3u8?
 #EXTINF:-1,MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,MAASRANGA LQ
