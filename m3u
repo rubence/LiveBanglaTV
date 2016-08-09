@@ -2,30 +2,30 @@
 #EXTINF:-1,ATN HQ
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 #EXTINF:-1,ATN
-http://live.amar-tv.com:8081/live/atnbangla/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/atnbangla/chunks.m3u8?
 #EXTINF:-1,ATN NEWS
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
 #EXTINF:-1,ATN NEWS 2
-http://live.amar-tv.com:8081/live/atnnews/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/atnnews/chunks.m3u8?
 #EXTINF:-1,ASIAN TV
 http://118.179.35.11/hls/AsianTV56UtY/06.m3u8
 #EXTINF:-1,ASIAN TV 2
-http://live.amar-tv.com:8081/live/asiantv/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/asiantv/chunks.m3u8?
 #EXTINF:-1,ATN MUSIC
 #EXTINF:-1,BANGLAVISION HQ
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,BANGLAVISION LQ
-http://live.amar-tv.com:8081/live/banglavision/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/banglavision/chunks.m3u8?
 #EXTINF:-1,CHANNEL 24 HQ
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
-http://live.amar-tv.com:8081/live/channel24/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/channel24/chunks.m3u8?
 #EXTINF:-1,BTV
-http://live.amar-tv.com:8081/live/btv/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/btv/chunks.m3u8?
 #EXTINF:-1,NTV HQ
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,NTV LQ
-http://live.amar-tv.com:8081/live/ntvbd/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/ntvbd/chunks.m3u8?
 
 #EXTINF:-1,CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
@@ -40,25 +40,25 @@ http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,CHANNEL I LQ
-http://live.amar-tv.com:8081/live/channeli/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/channeli/chunks.m3u8?
 #EXTINF:-1,RTV HQ
 http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,RTV LQ
-http://live.amar-tv.com:8081/live/rtvbd/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/rtvbd/chunks.m3u8?
 #EXTINF:-1,DEEPTO TV
 http://118.179.35.11/hls/DeeptoTVSQ5j6/05.m3u8
 #EXTINF:-1,EKUSHEY TV HQ
 http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1,EKUSHEY TV LQ
-http://live.amar-tv.com:8081/live/ekushetv/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/ekushetv/chunks.m3u8?
 #EXTINF:-1,SA TV HQ
 http://118.179.35.11/hls/SATVhfnbM/06.m3u8
 #EXTINF:-1,SA TV LQ
-http://live.amar-tv.com:8081/live/satv/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/satv/chunks.m3u8?
 #EXTINF:-1,BOISHAKHI HQ
 http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
 #EXTINF:-1,BOISHAKHI LQ
-http://live.amar-tv.com:8081/live/boishakhi/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/boishakhi/chunks.m3u8?
 #EXTINF:-1,DESH TV HQ
 http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1,DESH TV LQ
@@ -66,38 +66,38 @@ http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1,EKATTOR HQ
 http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 #EXTINF:-1,EKATTOR LQ
-http://live.amar-tv.com:8081/live/ekattortv/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/ekattortv/chunks.m3u8?
 #EXTINF:-1,SOMOY TV HQ
 http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
 #EXTINF:-1,SOMOY TV LQ
-http://live.amar-tv.com:8081/live/somoytv/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/somoytv/chunks.m3u8?
 #EXTINF:-1,INDEPENDENT TV HQ
 http://118.179.35.11/hls/ITV2434BuA/05.m3u8
 #EXTINF:-1,INDEPENDENT TV LQ
-http://live.amar-tv.com:8081/live/independenttv/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/independenttv/chunks.m3u8?
 #EXTINF:-1,JAMUNA TV HQ
 http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
 #EXTINF:-1,JAMUNA TV LQ
-http://live.amar-tv.com:8081/live/jamunatv/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/jamunatv/chunks.m3u8?
 #EXTINF:-1,MAASRANGA 2
 #EXTINF:-1,GAAN BANGLA HQ
 http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
 #EXTINF:-1,GAAN BANGLA LQ
-http://live.amar-tv.com:8081/live/gaanbangla/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/gaanbangla/chunks.m3u8?
 #EXTINF:-1,MUSIC BANGLA HQ
 http://118.179.35.11/hls/MusicBangla2Q375/05.m3u8
 #EXTINF:-1,MUSIC BANGLA LQ
-http://live.amar-tv.com:8081/live/musicbangla/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/musicbangla/chunks.m3u8?
 #EXTINF:-1,MY TV
-http://live.amar-tv.com:8081/live/mytv/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/mytv/chunks.m3u8?
 #EXTINF:-1,TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,NJ BANGLA
 http://64.237.38.195:1935/njbangla/tvbanglanj24/chunklist_w1500059128.m3u8
 #EXTINF:-1,ZEE BANGLA
-http://live.amar-tv.com:8081/live/zeebangla/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/zeebangla/chunks.m3u8?
 #EXTINF:-1,SANGEET BANGLA
-http://live.amar-tv.com:8081/live/sangeetbangla/chunks.m3u8?
+http://live.amar-tv.com:8081/live1/sangeetbangla/chunks.m3u8?
 
 #EXTINF:-1, ZEE BANGLA CINEMA
 
