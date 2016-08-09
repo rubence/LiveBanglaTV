@@ -226,27 +226,27 @@ http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
-http://149.202.85.84:8080/GTXseater-sp-1/counter1/index.m3u8
+http://149.202.85.84:8080/PIKUseater-sp-1/counter1/index.m3u8
 #EXTINF:-1,STAR SPORTS 1
-http://149.202.207.8:8080/GTXseater-sp-1/counter2/index.m3u8
+http://149.202.207.8:8080/PIKUseater-sp-1/counter2/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
-http://149.202.207.8:8080/GTXseater-sp-2/counter2/index.m3u8
+http://149.202.85.84:8080/PIKUseater-sp-2/counter1/index.m3u8
 #EXTINF:-1,STAR SPORTS HD2
-http://149.202.85.84:8080/GTXseater-sp-2/counter1/index.m3u8
+http://149.202.85.84:8080/PIKUseater-sp-2/counter2/index.m3u8
 #EXTINF:-1,STAR SPORTS 3
-http://149.202.207.8:8080/GTXseater-sp-3/counter2/index.m3u8
+http://149.202.85.84:8080/PIKUseater-sp-3/counter1/index.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
-http://149.202.85.84:8080/GTXseater-sp-3/counter1/index.m3u8
+http://149.202.85.84:8080/PIKUseater-sp-3/counter2/index.m3u8
 #EXTINF:-1,STAR SPORTS 4
-http://149.202.207.8:8080/GTXseater-sp-4/counter2/index.m3u8
+http://149.202.85.84:8080/PIKUseater-sp-4/counter1/index.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
-http://149.202.85.84:8080/GTXseater-sp-4/counter1/index.m3u8
+http://149.202.85.84:8080/PIKUseater-sp-4/counter2/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://149.202.207.8:8080/GTXweylow-cri/counter1/index.m3u8
+http://149.202.207.8:8080/PIKUweylow-cri/counter1/index.m3u8
 #EXTINF:-1,WILLOW HD 2
-http://149.202.85.84:8080/TRGweylow-cri/counter2/index.m3u8
+
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
 #EXTINF:-1,BT SPORTS 1
