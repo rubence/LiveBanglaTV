@@ -163,7 +163,7 @@ http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/b34umus14-mobile.3gp.m3u8
 #EXTINF:-1,Zee Action
 http://130.185.144.63:8081/box/ZEETVACTION/chunks.m3u8?
 #EXTINF:0,STAR PLUS
-
+http://186.179.169.35/edge/smil:starplus_iptv.smil/chunklist_w1510950571_b1300000.m3u8
 #EXTINF:0,STAR PLUS 2
 
 #EXTINF:0,STAR PLUS UK
