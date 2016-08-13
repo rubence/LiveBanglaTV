@@ -118,7 +118,7 @@ http://186.179.169.35/edge/smil:sonytv_iptv.smil/chunklist_w1754297183_b1300000.
 #EXTINF:-1,ZOOM
 
 #EXTINF:-1,MTUNES
-http://130.185.144.63:8081/iptv/MtunesHD/chunks.m3u8?
+
 #EXTINF:-1,MTUNES 2
 http://186.179.169.35/edge/smil:mtunes_iptv.smil/chunklist_w1843005081_b600000.m3u8
 #EXTINF:-1,&TV
@@ -140,7 +140,7 @@ http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_800.m3u8
 #EXTINF:-1,SET MAX UK
 
 #EXTINF:-1,ZING
-http://130.185.144.63:8081/iptv/Zing/chunks.m3u8?
+
 #EXTINF:-1,SAHARA FILMY
 #EXTINF:-1,SAB
 
@@ -163,7 +163,7 @@ http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/b34umus14-mobile.3gp.m3u8
 
 #EXTINF:-1,ZEE LIVING AND FOOD
 #EXTINF:-1,Zee Action
-http://130.185.144.63:8081/box/ZEETVACTION/chunks.m3u8?
+
 #EXTINF:0,STAR PLUS
 http://186.179.169.35/edge/smil:starplus_iptv.smil/chunklist_w1510950571_b1300000.m3u8
 #EXTINF:0,STAR PLUS 2
@@ -178,7 +178,7 @@ http://216.31.255.235/hlsl/1/NATWLD/01.m3u8
 #EXTINF:-1,NATGEO
 
 #EXTINF:-1,RT NEWS
-http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index400.m3u8
 #EXTINF:0,BBC WORLD NEWS
 #EXTINF:-1,CNBC
 #EXTINF:-1,HISTORY
@@ -219,6 +219,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1,COMEDY CENTRAL
 http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1,SONY SIX
+http://103.213.237.132/hls/live_low/index.m3u8
 #EXTINF:-1,SONY SIX 2
 #EXTINF:-1,SONY SIX
 
@@ -229,25 +230,24 @@ http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1,TEN ACTION
 
 #EXTINF:-1,STAR SPORTS HD1
-http://149.202.85.84:8080/PIKUseater-sp-1/counter1/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 1
-http://149.202.207.8:8080/PIKUseater-sp-1/counter2/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
-http://149.202.85.84:8080/PIKUseater-sp-2/counter1/index.m3u8
+
 #EXTINF:-1,STAR SPORTS HD2
-http://149.202.85.84:8080/PIKUseater-sp-2/counter2/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 3
-http://149.202.85.84:8080/PIKUseater-sp-3/counter1/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 3HD
-http://149.202.85.84:8080/PIKUseater-sp-3/counter2/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 4
-http://149.202.85.84:8080/PIKUseater-sp-4/counter1/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 4HD
-http://149.202.85.84:8080/PIKUseater-sp-4/counter2/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://149.202.207.8:8080/PIKUweylow-cri/counter1/index.m3u8
+
 #EXTINF:-1,WILLOW HD 2
 
 #EXTINF:-1,FOX SPORTS 1
@@ -255,15 +255,15 @@ http://149.202.207.8:8080/PIKUweylow-cri/counter1/index.m3u8
 #EXTINF:-1,BT SPORTS 1
 #EXTINF:-1,BT SPORTS 2
 #EXTINF:-1,SKY SPORTS 1
-http://149.202.207.8:8080/GTXsyjkiy-1/counter2/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 2
-http://149.202.207.8:8080/GTXsyjkiy-2/counter2/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 3
-http://149.202.207.8:8080/GTXsyjkiy-3/counter2/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 4
-http://149.202.207.8:8080/GTXsyjkiy-4/counter2/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 5
-http://149.202.207.8:8080/GTXsyjkiy-5/counter2/index.m3u8
+
 #EXTINF:-1,Sky Sports 1 HD
 #EXTINF:-1,Sky Sports 2 HD
 
@@ -307,12 +307,12 @@ http://149.202.207.8:8080/GTXsyjkiy-5/counter2/index.m3u8
 #EXTINF:-1,HBO INDIA
 
 #EXTINF:-1,SHOWTIME
-http://80.80.160.168/live/7/5000000/live.m3u8
+
 #EXTINF:-1,ABC
 #EXTINF:-1, TNT
 
 #EXTINF:-1, TNT
-http://103.213.237.132/hls/live_low/index.m3u8
+
 #EXTINF:-1, VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1, VEVO 2
