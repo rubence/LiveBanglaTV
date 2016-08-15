@@ -1,8 +1,8 @@
 <streamingInfos>
 
 <item>
-<title>SOMOY TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://130.185.144.63:8081/iptv/somoy/l_206686_58515640_406.ts</link>
+<title>CNN USA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2481.ts</link>
 
 <item>
 <title>AMAR BANGLA</title>
