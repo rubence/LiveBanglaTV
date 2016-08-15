@@ -203,7 +203,8 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 http://149.255.152.110/cnn/index.m3u8
 #EXTINF:-1,CNN
 http://streams.iptv.zone:80/p/103177/c/23/u/23054/7yVttR8Yxy7v42AHFmy6sL8d3U5p8x
-#EXTINF:-1,CNN 2
+#EXTINF:-1,CNN USA
+http://streams.iptv.zone:80/p/103844/c/13/u/23054/7yVttR8Yxy7v42AHFmy6sL8d3U5p8x
 #EXTINF:-1,CNN 3
 #EXTINF:-1,CNN 4
 #EXTINF:-1,CNN INTERNATIONAL
