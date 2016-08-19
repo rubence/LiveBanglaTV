@@ -12,9 +12,16 @@
 <title>ASIAN TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/theglades/3wRhMHlxqZ/1621.ts</link>
 
+
 <item>
 <title>ATN BANGLA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/theglades/3wRhMHlxqZ/1615.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/shane1/shane1/7239.ts</link>
+
+
+
+<item>
+<title>ATN BANGLA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/shane1/shane1/7238.ts</link>
 
 <item>
 <title>BANGLA VISION</title>
@@ -26,7 +33,7 @@
 
 <item>
 <title>BOISHAKHI TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/theglades/3wRhMHlxqZ/1624.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/shane1/shane1/7240.ts</link>
 
 <item>
 <title>CHANNEL24</title>
@@ -34,7 +41,7 @@
 
 <item>
 <title>CHANNEL9</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/theglades/3wRhMHlxqZ/1618.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/shane1/shane1/7241.ts</link>
 
 <item>
 <title>CHANNEL I</title>
@@ -78,7 +85,7 @@
 
 <item>
 <title>RTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.x-media.tv:58080/live/theglades/3wRhMHlxqZ/1610.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/shane1/shane1/7248.ts</link>
 
 <item>
 <title>RTV MUSIC</title>
