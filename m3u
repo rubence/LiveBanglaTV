@@ -93,7 +93,6 @@ http://live.amar-tv.com:8081/live1/mytv/chunks.m3u8?
 #EXTINF:-1,TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,NJ BANGLA
-http://64.237.38.195:1935/njbangla/tvbanglanj24/chunklist_w1500059128.m3u8
 #EXTINF:-1,ZEE BANGLA
 http://live.amar-tv.com:8081/live1/zeebangla/chunks.m3u8?
 #EXTINF:-1,SANGEET BANGLA
@@ -138,7 +137,7 @@ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1,ZEE CINEMA UK
 http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_800.m3u8
 #EXTINF:-1,SET MAX UK
-
+http://163.172.31.140:1935/tcode2/setmax.stream/chunklist.m3u8
 #EXTINF:-1,ZING
 
 #EXTINF:-1,SAHARA FILMY
@@ -202,9 +201,7 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1,CNN
 http://149.255.152.110/cnn/index.m3u8
 #EXTINF:-1,CNN
-http://streams.iptv.zone:80/p/103177/c/23/u/23054/7yVttR8Yxy7v42AHFmy6sL8d3U5p8x
 #EXTINF:-1,CNN USA
-http://streams.iptv.zone:80/p/103844/c/13/u/23054/7yVttR8Yxy7v42AHFmy6sL8d3U5p8x
 #EXTINF:-1,CNN 3
 #EXTINF:-1,CNN 4
 #EXTINF:-1,CNN INTERNATIONAL
@@ -222,33 +219,36 @@ http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1,SONY SIX
 http://103.213.237.132/hls/live_low/index.m3u8
 #EXTINF:-1,SONY SIX 2
-#EXTINF:-1,SONY SIX
+#EXTINF:-1,SONY ESPN
+http://149.202.85.84:8080/SNDHsDhoonY6/counter1/index.m3u8
+#EXTINF:-1,TEN 1 
+http://149.202.207.8:8080/SNDHtien-sp-1/counter1/index.m3u8
 
-#EXTINF:-1,TEN SPORTS 
 
-#EXTINF:-1,TEN CRICKET
-
-#EXTINF:-1,TEN ACTION
-
+#EXTINF:-1,TEN 2
+http://149.202.207.8:8080/SNDHtien-sp-2/counter1/index.m3u8
+#EXTINF:-1,TEN 3
+http://149.202.207.8:8080/SNDHtien-sp-3/counter1/index.m3u8
 #EXTINF:-1,STAR SPORTS HD1
 
 #EXTINF:-1,STAR SPORTS 1
+http://149.202.207.8:8080/SNDHseater-sp-1/counter2/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
-
+http://149.202.207.8:8080/SNDHseater-sp-2/counter2/index.m3u8
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1,STAR SPORTS 3
-
+http://149.202.207.8:8080/SNDHseater-sp-3/counter2/index.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
 
 #EXTINF:-1,STAR SPORTS 4
-
+http://149.202.207.8:8080/SNDHseater-sp-4/counter2/index.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
 
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-
+http://149.202.207.8:8080/SNDHweylow-cri/counter1/index.m3u8
 #EXTINF:-1,WILLOW HD 2
 
 #EXTINF:-1,FOX SPORTS 1
