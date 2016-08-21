@@ -90,6 +90,8 @@ http://118.179.35.11/hls/MusicBangla2Q375/05.m3u8
 http://live.amar-tv.com:8081/live1/musicbangla/chunks.m3u8?
 #EXTINF:-1,MY TV
 http://live.amar-tv.com:8081/live1/mytv/chunks.m3u8?
+#EXTINF:-1,ATN MUSIC
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/atnmusic-app.stream/chunklist_w537569870.m3u8
 #EXTINF:-1,TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1,NJ BANGLA
@@ -217,7 +219,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1,COMEDY CENTRAL
 http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1,SONY SIX
-http://103.213.237.132/hls/live_low/index.m3u8
+
 #EXTINF:-1,SONY SIX 2
 #EXTINF:-1,SONY ESPN
 http://149.202.85.84:8080/SNDHsDhoonY6/counter1/index.m3u8
