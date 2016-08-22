@@ -22,6 +22,8 @@ http://live.amar-tv.com:8081/live1/banglavision/chunks.m3u8?
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
 http://live.amar-tv.com:8081/live1/channel24/chunks.m3u8?
+#EXTINF:-1,[COLOR orange] CHANNEL 24 LQ [/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/channel24-sg-e8e.stream/chunklist_w692822633.m3u8?
 #EXTINF:-1,BTV
 http://live.amar-tv.com:8081/live1/btv/chunks.m3u8?
 #EXTINF:-1,NTV HQ
@@ -53,14 +55,20 @@ http://118.179.35.11/hls/DeeptoTVSQ5j6/05.m3u8
 http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1,EKUSHEY TV LQ
 http://live.amar-tv.com:8081/live1/ekushetv/chunks.m3u8?
+#EXTINF:-1,[COLOR orange] EKUSHEY TV LQ [/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekusheytv-8-dorg.stream/chunklist_w1957372658.m3u8?
 #EXTINF:-1,SA TV HQ
 http://118.179.35.11/hls/SATVhfnbM/06.m3u8
 #EXTINF:-1,SA TV LQ
 http://live.amar-tv.com:8081/live1/satv/chunks.m3u8?
+#EXTINF:-1,[COLOR orange] SA TV LQ [/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/satv-off-app.stream/chunklist_w233004849.m3u8?
 #EXTINF:-1,BOISHAKHI HQ
 http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
 #EXTINF:-1,BOISHAKHI LQ
 http://live.amar-tv.com:8081/live1/boishakhi/chunks.m3u8?
+#EXTINF:-1,[COLOR orange] BOISHAKHI LQ [/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/boishakhi-org-app.stream/chunklist_w1759539349.m3u8?
 #EXTINF:-1,DESH TV HQ
 http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1,DESH TV LQ
@@ -79,15 +87,21 @@ http://live.amar-tv.com:8081/live1/somoytv/chunks.m3u8?
 http://118.179.35.11/hls/ITV2434BuA/05.m3u8
 #EXTINF:-1,INDEPENDENT TV LQ
 http://live.amar-tv.com:8081/live1/independenttv/chunks.m3u8?
+#EXTINF:-1,[COLOR orange] INDEPENDENT TV LQ [/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/independent-8-org.stream/chunklist_w770199612.m3u8?
 #EXTINF:-1,JAMUNA TV HQ
 http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
 #EXTINF:-1,JAMUNA TV LQ
 http://live.amar-tv.com:8081/live1/jamunatv/chunks.m3u8?
+#EXTINF:-1,[COLOR orange] JAMUNA TV LQ[/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/jamuna-8-app.stream/chunklist_w1698761450.m3u8?
 #EXTINF:-1,MAASRANGA 2
 #EXTINF:-1,GAAN BANGLA HQ
 http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
 #EXTINF:-1,GAAN BANGLA LQ
 http://live.amar-tv.com:8081/live1/gaanbangla/chunks.m3u8?
+#EXTINF:-1,[COLOR orange] GAAN BANGLA LQ[/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/gaanbangla-8-org.stream/chunklist_w192875160.m3u8?
 #EXTINF:-1,MUSIC BANGLA HQ
 http://118.179.35.11/hls/MusicBangla2Q375/05.m3u8
 #EXTINF:-1,MUSIC BANGLA LQ
@@ -96,8 +110,12 @@ http://live.amar-tv.com:8081/live1/musicbangla/chunks.m3u8?
 http://live.amar-tv.com:8081/live1/mytv/chunks.m3u8?
 #EXTINF:-1,ATN MUSIC
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/atnmusic-app.stream/chunklist_w537569870.m3u8
+#EXTINF:-1,[COLOR blue] RANG [/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/raniptv.stream/chunklist_w843356141.m3u8?
 #EXTINF:-1,TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
+#EXTINF:-1,[COLOR orange] BANGLA TV USA [/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/banglatvusaup.stream/chunklist_w569026766.m3u8?
 #EXTINF:-1,NJ BANGLA
 #EXTINF:-1,ZEE BANGLA
 http://live.amar-tv.com:8081/live1/zeebangla/chunks.m3u8?
@@ -109,6 +127,8 @@ http://live.amar-tv.com:8081/live1/sangeetbangla/chunks.m3u8?
 
 #EXTINF:-1,9XM
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
+#EXTINF:-1,[COLOR blue] TIME MUSIC [/COLOR]
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/timemusic-srv.stream/chunklist_w2112984245.m3u8?
 #EXTINF:-1,COLORS USA
 #EXTINF:-1,COLORS
 http://186.179.169.35/edge/smil:colors_iptv.smil/chunklist_w237762445_b1300000.m3u8
@@ -185,6 +205,7 @@ http://216.31.255.235/hlsl/1/NATWLD/01.m3u8
 #EXTINF:-1,RT NEWS
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index400.m3u8
 #EXTINF:0,BBC WORLD NEWS
+http://streamcache-05.dyn.safersurf.com/streaming/m3u8parsecached.php?url=http://62.65.140.153/session/f1bf3858-6804-11e6-a1bf-005056bc1a52/nvnv5a/2/4003/1368000/index.m3u8
 #EXTINF:-1,CNBC
 #EXTINF:-1,HISTORY
 
