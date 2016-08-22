@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,ATN HQ
+#EXTINF:-0,1,ATN HQ
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
-#EXTINF:-1,ATN
+#EXTINF:-o,2,ATN
 http://live.amar-tv.com:8081/live1/atnbangla/chunks.m3u8?
 #EXTINF:-1,ATN NEWS
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
