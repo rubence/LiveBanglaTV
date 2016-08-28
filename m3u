@@ -2,7 +2,7 @@
 #EXTINF:-0,1,ATN HQ
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 #EXTINF:-o,2,ATN
-http://live.amar-tv.com:8081/live1/atnbangla/chunks.m3u8?
+http://109.169.61.10:1935/trunk/atnbanglabd/chunklist_w1035737804.m3u8
 #EXTINF:-1,ATN NEWS
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
 #EXTINF:-1,ATN NEWS 2
@@ -17,7 +17,7 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,BANGLAVISION HQ
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,BANGLAVISION LQ
-http://live.amar-tv.com:8081/live1/banglavision/chunks.m3u8?
+http://109.169.61.10:1935/trunk/banglavisionbd/chunklist_w1572023473.m3u8
 #EXTINF:-1,CHANNEL 24 HQ
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
@@ -28,19 +28,23 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 http://live.amar-tv.com:8081/live1/btv/chunks.m3u8?
 #EXTINF:-1,NTV HQ
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
-#EXTINF:-1,NTV LQ
-http://live.amar-tv.com:8081/live1/ntvbd/chunks.m3u8?
+#EXTINF:-1,[COLOR orange]NTV LQ[/COLOR]
+http://109.169.61.10:1935/trunk/ntvbd/chunklist_w411489104.m3u8
 
 #EXTINF:-1,CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
+#EXTINF:-1,[COLOR orange]CHANNEL 9[/COLOR]
+http://109.169.61.10:1935/trunk/channel9bd/chunklist_w581475064.m3u8
 #EXTINF:-1,CHANNEL 9 LQ
 http://live.amar-tv.com:8081/live1/channel9/chunks.m3u8?
 #EXTINF:-1,MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
-#EXTINF:-1,MAASRANGA LQ
-
+#EXTINF:-1,[COLOR orange]MAASRANGA LQ[/COLOR]
+http://109.169.61.10:1935/trunk/maasrangabd/chunklist_w1401810880.m3u8
 #EXTINF:-1,MAASRANGA LQ 1
 
+#EXTINF:-1,[COLOR orange]GAZI TV[/COLOR]
+http://109.169.61.10:1935/trunk/gazibd/chunklist_w1555361748.m3u8
 #EXTINF:-1,CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,CHANNEL I LQ
@@ -51,10 +55,12 @@ http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 http://live.amar-tv.com:8081/live1/rtvbd/chunks.m3u8?
 #EXTINF:-1,DEEPTO TV
 http://118.179.35.11/hls/DeeptoTVSQ5j6/05.m3u8
+#EXTINF:-1,DEEPTO TV
+http://109.169.61.10:1935/trunk/deeptobd/chunklist_w490543158.m3u8
 #EXTINF:-1,EKUSHEY TV HQ
 http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1,EKUSHEY TV LQ
-http://live.amar-tv.com:8081/live1/ekushetv/chunks.m3u8?
+http://109.169.61.10:1935/trunk/ekusheybd/chunklist_w1205447604.m3u8
 #EXTINF:-1,[COLOR orange] EKUSHEY TV LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekusheytv-8-dorg.stream/chunklist_w1957372658.m3u8?
 #EXTINF:-1,SA TV HQ
@@ -83,6 +89,8 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
 #EXTINF:-1,SOMOY TV LQ
 http://live.amar-tv.com:8081/live1/somoytv/chunks.m3u8?
+#EXTINF:-1,[COLOR orange]SOMOY TV LQ[/COLOR]
+http://109.169.61.10:1935/trunk/somoybd/chunklist_w884164973.m3u8
 #EXTINF:-1,INDEPENDENT TV HQ
 http://118.179.35.11/hls/ITV2434BuA/05.m3u8
 #EXTINF:-1,INDEPENDENT TV LQ
@@ -277,7 +285,7 @@ http://149.202.207.8:8080/SNDHseater-sp-4/counter2/index.m3u8
 #EXTINF:-1,WILLOW HD
 http://149.202.207.8:8080/SNDHweylow-cri/counter1/index.m3u8
 #EXTINF:-1,WILLOW HD 2
-
+http://149.202.207.8:8080/JANIweylow-cri/counter1/index.m3u8
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
 #EXTINF:-1,BT SPORTS 1
