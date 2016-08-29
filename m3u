@@ -355,7 +355,8 @@ http://149.202.207.8:8080/JANIweylow-cri/counter1/index.m3u8
 #EXTINF:-1, TNT
 
 #EXTINF:-1, TNT
-rtsp://88.202.231.154:1935/cr2tVydmVyX3EpbWU9Ky8yNS7yMFRPIUE6RjE2ejexIRBMJRhhc4h/mob0000independent-8-00000.stream
+link="rtsp://88.202.231.154:1935/cr2tVydmVyX3EpbWU9Ky8yNS7yMFRPIUE6RjE2ejexIRBMJRhhc4h/mob0000independent-8-00000.stream"
+link="http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8"
 #EXTINF:-1, VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1, VEVO 2
