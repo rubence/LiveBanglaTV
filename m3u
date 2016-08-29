@@ -31,6 +31,13 @@ http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,[COLOR orange]NTV LQ[/COLOR]
 http://109.169.61.10:1935/trunk/ntvbd/chunklist_w411489104.m3u8
 
+<note>
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+</note>
+
 #EXTINF:-1,CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
 #EXTINF:-1,[COLOR orange]CHANNEL 9[/COLOR]
