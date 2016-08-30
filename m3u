@@ -285,21 +285,21 @@ http://149.202.207.8:8080/SNDHseater-sp-4/counter2/index.m3u8
 #EXTINF:-1,WILLOW HD
 http://149.202.207.8:8080/SNDHweylow-cri/counter1/index.m3u8
 #EXTINF:-1,WILLOW HD 2
-http://149.202.207.8:8080/JANIweylow-cri/counter1/index.m3u8
+http://149.202.207.8:8080/GULLUweylow-cri/counter1/index.m3u8
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
 #EXTINF:-1,BT SPORTS 1
 #EXTINF:-1,BT SPORTS 2
 #EXTINF:-1,SKY SPORTS 1
-
+http://149.202.207.8:8080/GULLUsyjkiy-1/counter2/index.m3u8
 #EXTINF:-1,SKY SPORTS 2
-
+http://149.202.207.8:8080/GULLUsyjkiy-2/counter2/index.m3u8
 #EXTINF:-1,SKY SPORTS 3
-
+http://149.202.207.8:8080/GULLUsyjkiy-3/counter2/index.m3u8
 #EXTINF:-1,SKY SPORTS 4
-
+http://149.202.207.8:8080/GULLUsyjkiy-4/counter2/index.m3u8
 #EXTINF:-1,SKY SPORTS 5
-
+http://149.202.207.8:8080/GULLUsyjkiy-5/counter2/index.m3u8
 #EXTINF:-1,Sky Sports 1 HD
 #EXTINF:-1,Sky Sports 2 HD
 
