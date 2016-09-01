@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-0,1,ATN HQ
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
-#EXTINF:-o,2,ATN
+#EXTINF:-o,2,[COLOR orange]ATN [/COLOR]
 http://109.169.61.10:1935/trunk/atnbanglabd/chunklist_w1035737804.m3u8
 #EXTINF:-1,ATN NEWS
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
@@ -71,14 +71,14 @@ http://live.amar-tv.com:8081/live1/satv/chunks.m3u8?
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/satv-off-app.stream/chunklist_w233004849.m3u8?
 #EXTINF:-1,BOISHAKHI HQ
 http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
-#EXTINF:-1,BOISHAKHI LQ
-http://live.amar-tv.com:8081/live1/boishakhi/chunks.m3u8?
+#EXTINF:-1,[COLOR orange]BOISHAKHI LQ[/COLOR]
+http://109.169.61.10:1935/trunk/boishakhibd/chunklist_w2125933808.m3u8
 #EXTINF:-1,[COLOR orange] BOISHAKHI LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/boishakhi-org-app.stream/chunklist_w1759539349.m3u8?
 #EXTINF:-1,DESH TV HQ
 http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
-#EXTINF:-1,DESH TV LQ
-
+#EXTINF:-1,[COLOR orange]DESH TV LQ[/COLOR]
+http://109.169.61.10:1935/trunk/deshtvbd/chunklist_w1234930346.m3u8
 #EXTINF:-1,EKATTOR HQ
 http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 #EXTINF:-1,EKATTOR LQ
