@@ -346,7 +346,7 @@ http://149.202.207.8:8080/GULLUsyjkiy-5/counter2/index.m3u8
 
 #EXTINF:-1,ABC
 #EXTINF:-1, TNT
-
+plugin://plugin.video.youtube/play/?video_id=hPQrsdBNjBM
 #EXTINF:-1, TNT
 rtsp://88.202.231.154:1935/cr2tVydmVyX3EpbWU9Ky8yNS7yMFRPIUE6RjE2ejexIRBMJRhhc4h/mob0000independent-8-00000.stream"
 
