@@ -267,23 +267,23 @@ http://149.202.207.8:8080/SNDHtien-sp-3/counter1/index.m3u8
 #EXTINF:-1,STAR SPORTS HD1
 
 #EXTINF:-1,STAR SPORTS 1
-http://149.202.207.8:8080/SNDHseater-sp-1/counter2/index.m3u8
+http://149.202.207.8:8080/TIPUseater-sp-1/Strm/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
-http://149.202.207.8:8080/SNDHseater-sp-2/counter2/index.m3u8
+
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1,STAR SPORTS 3
-http://149.202.207.8:8080/SNDHseater-sp-3/counter2/index.m3u8
+http://149.202.207.8:8080/TIPUseater-sp-3/Strm/index.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
 
 #EXTINF:-1,STAR SPORTS 4
-http://149.202.207.8:8080/SNDHseater-sp-4/counter2/index.m3u8
+http://149.202.207.8:8080/TIPUseater-sp-4/Strm/index.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
 
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://149.202.207.8:8080/SNDHweylow-cri/counter1/index.m3u8
+http://149.202.207.8:8080/TIPUweylow-cri/Strm/index.m3u8
 #EXTINF:-1,WILLOW HD 2
 http://149.202.207.8:8080/GULLUweylow-cri/counter1/index.m3u8
 #EXTINF:-1,FOX SPORTS 1
@@ -291,15 +291,15 @@ http://149.202.207.8:8080/GULLUweylow-cri/counter1/index.m3u8
 #EXTINF:-1,BT SPORTS 1
 #EXTINF:-1,BT SPORTS 2
 #EXTINF:-1,SKY SPORTS 1
-http://149.202.207.8:8080/GULLUsyjkiy-1/counter2/index.m3u8
+http://149.202.207.8:8080/TIPUsyjkiy-1/Strm/index.m3u8
 #EXTINF:-1,SKY SPORTS 2
-http://149.202.207.8:8080/GULLUsyjkiy-2/counter2/index.m3u8
+http://149.202.207.8:8080/TIPUsyjkiy-2/Strm/index.m3u8
 #EXTINF:-1,SKY SPORTS 3
-http://149.202.207.8:8080/GULLUsyjkiy-3/counter2/index.m3u8
+http://149.202.207.8:8080/TIPUsyjkiy-3/Strm/index.m3u8
 #EXTINF:-1,SKY SPORTS 4
-http://149.202.207.8:8080/GULLUsyjkiy-4/counter2/index.m3u8
+http://149.202.207.8:8080/TIPUsyjkiy-4/Strm/index.m3u8
 #EXTINF:-1,SKY SPORTS 5
-http://149.202.207.8:8080/GULLUsyjkiy-5/counter2/index.m3u8
+http://149.202.207.8:8080/TIPUsyjkiy-5/Strm/index.m3u8
 #EXTINF:-1,Sky Sports 1 HD
 #EXTINF:-1,Sky Sports 2 HD
 
@@ -346,9 +346,9 @@ http://149.202.207.8:8080/GULLUsyjkiy-5/counter2/index.m3u8
 
 #EXTINF:-1,ABC
 #EXTINF:-1, TNT
-plugin://plugin.video.youtube/play/?video_id=hPQrsdBNjBM
+
 #EXTINF:-1, TNT
-rtsp://88.202.231.154:1935/cr2tVydmVyX3EpbWU9Ky8yNS7yMFRPIUE6RjE2ejexIRBMJRhhc4h/mob0000independent-8-00000.stream"
+
 
 #EXTINF:-1, VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
