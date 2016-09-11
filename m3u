@@ -348,7 +348,7 @@ http://149.202.207.8:8080/TIPUsyjkiy-5/Strm/index.m3u8
 #EXTINF:-1, TNT
 
 #EXTINF:-1, TNT
-
+rtmp://103.55.146.211/sonysixhd/livestream
 
 #EXTINF:-1, VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
