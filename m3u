@@ -162,16 +162,16 @@ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
-#EXTINF:-1,MTV INDIA
+#EXTINF:-1,MTV 
 http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
 #EXTINF:-1,ZEE CINEMA
 
 #EXTINF:-1,ZEE CINEMA IN
 
 #EXTINF:-1,ZEE CINEMA UK
-http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_800.m3u8
+
 #EXTINF:-1,SET MAX UK
-http://163.172.31.140:1935/tcode2/setmax.stream/chunklist.m3u8
+
 #EXTINF:-1,ZING
 http://46.249.213.87/iPhone/HLS_TS/mptslive/zing-mobile.3gp.m3u8
 #EXTINF:-1,SAHARA FILMY
@@ -255,37 +255,37 @@ http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 
 #EXTINF:-1,SONY SIX 2
 #EXTINF:-1,SONY ESPN
-http://149.202.85.84:8080/SNDHsDhoonY6/counter1/index.m3u8
+http://149.202.207.8:8080/DADAsDhoonY6/Strm/index.m3u8
 #EXTINF:-1,TEN 1 
-http://149.202.207.8:8080/SNDHtien-sp-1/counter1/index.m3u8
+http://149.202.207.8:8080/DADAtien-sp-1/Strm/index.m3u8
 
 
 #EXTINF:-1,TEN 2
-http://149.202.207.8:8080/SNDHtien-sp-2/counter1/index.m3u8
+http://149.202.207.8:8080/DADAtien-sp-2/Strm/index.m3u8
 #EXTINF:-1,TEN 3
-http://149.202.207.8:8080/SNDHtien-sp-3/counter1/index.m3u8
+http://149.202.207.8:8080/DADAtien-sp-3/Strm/index.m3u8
 #EXTINF:-1,STAR SPORTS HD1
 
 #EXTINF:-1,STAR SPORTS 1
-http://149.202.207.8:8080/TIPUseater-sp-1/Strm/index.m3u8
+http://149.202.207.8:8080/DADAseater-sp-1/Strm/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
-
+http://149.202.207.8:8080/DADAseater-sp-2/Strm/index.m3u8
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1,STAR SPORTS 3
-http://149.202.207.8:8080/TIPUseater-sp-3/Strm/index.m3u8
+http://149.202.207.8:8080/DADAseater-sp-3/Strm/index.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
 
 #EXTINF:-1,STAR SPORTS 4
-http://149.202.207.8:8080/TIPUseater-sp-4/Strm/index.m3u8
+http://149.202.207.8:8080/DADAseater-sp-4/Strm/index.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
 
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://149.202.207.8:8080/TIPUweylow-cri/Strm/index.m3u8
+
 #EXTINF:-1,WILLOW HD 2
-http://149.202.207.8:8080/GULLUweylow-cri/counter1/index.m3u8
+
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
 #EXTINF:-1,BT SPORTS 1
