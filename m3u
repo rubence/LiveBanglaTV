@@ -6,7 +6,7 @@ http://109.169.61.10:1935/trunk/atnbanglabd/chunklist_w1035737804.m3u8
 #EXTINF:-1,ATN NEWS
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
 #EXTINF:-1,ATN NEWS 2
-http://live.amar-tv.com:8081/live1/atnnews/chunks.m3u8?
+rtmp://203.76.223.34/live/cnatnnews
 #EXTINF:-1,ASIAN TV
 http://118.179.35.11/hls/AsianTV56UtY/06.m3u8
 #EXTINF:-1,ASIAN TV 2
@@ -48,11 +48,11 @@ http://109.169.61.10:1935/trunk/gazibd/chunklist_w1555361748.m3u8
 #EXTINF:-1,CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,CHANNEL I LQ
-http://live.amar-tv.com:8081/live1/channeli/chunks.m3u8?
+rtmp://203.76.223.34/live/cnchanneli
 #EXTINF:-1,RTV HQ
 http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,RTV LQ
-http://live.amar-tv.com:8081/live1/rtvbd/chunks.m3u8?
+rtmp://203.76.223.34/live/rtv
 #EXTINF:-1,DEEPTO TV
 http://118.179.35.11/hls/DeeptoTVSQ5j6/05.m3u8
 #EXTINF:-1,DEEPTO TV
