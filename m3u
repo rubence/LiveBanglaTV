@@ -255,29 +255,29 @@ http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 
 #EXTINF:-1,SONY SIX 2
 #EXTINF:-1,SONY ESPN
-http://149.202.207.8:8080/DADAsDhoonY6/Strm/index.m3u8
+
 #EXTINF:-1,TEN 1 
-http://149.202.207.8:8080/DADAtien-sp-1/Strm/index.m3u8
+
 
 
 #EXTINF:-1,TEN 2
-http://149.202.207.8:8080/DADAtien-sp-2/Strm/index.m3u8
+
 #EXTINF:-1,TEN 3
-http://149.202.207.8:8080/DADAtien-sp-3/Strm/index.m3u8
+
 #EXTINF:-1,STAR SPORTS HD1
 
 #EXTINF:-1,STAR SPORTS 1
-http://149.202.207.8:8080/DADAseater-sp-1/Strm/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 2
-http://149.202.207.8:8080/DADAseater-sp-2/Strm/index.m3u8
+
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1,STAR SPORTS 3
-http://149.202.207.8:8080/DADAseater-sp-3/Strm/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 3HD
 
 #EXTINF:-1,STAR SPORTS 4
-http://149.202.207.8:8080/DADAseater-sp-4/Strm/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 4HD
 
 #EXTINF:-1,STAR SPORTS 2
@@ -291,15 +291,15 @@ http://149.202.207.8:8080/DADAseater-sp-4/Strm/index.m3u8
 #EXTINF:-1,BT SPORTS 1
 #EXTINF:-1,BT SPORTS 2
 #EXTINF:-1,SKY SPORTS 1
-http://149.202.207.8:8080/TIPUsyjkiy-1/Strm/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 2
-http://149.202.207.8:8080/TIPUsyjkiy-2/Strm/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 3
-http://149.202.207.8:8080/TIPUsyjkiy-3/Strm/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 4
-http://149.202.207.8:8080/TIPUsyjkiy-4/Strm/index.m3u8
+
 #EXTINF:-1,SKY SPORTS 5
-http://149.202.207.8:8080/TIPUsyjkiy-5/Strm/index.m3u8
+
 #EXTINF:-1,Sky Sports 1 HD
 #EXTINF:-1,Sky Sports 2 HD
 
@@ -348,7 +348,7 @@ http://149.202.207.8:8080/TIPUsyjkiy-5/Strm/index.m3u8
 #EXTINF:-1, TNT
 
 #EXTINF:-1, TNT
-rtmp://203.76.223.34/live/banglavision
+
 
 #EXTINF:-1, VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
@@ -360,7 +360,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1, Weather Channel
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 #EXTINF:-1, TEST1
-http://212.47.237.119/live/BeeiptvLiteapp/beeiptv(dot)com/63.ts
+
 #EXTINF:-1, TEST2
-http://212.47.237.119/live/BeeiptvLiteapp/beeiptv(dot)com/63.m3u8?
 
