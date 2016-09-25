@@ -42,8 +42,8 @@ http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,[COLOR orange]MAASRANGA LQ[/COLOR]
 http://109.169.61.10:1935/trunk/maasrangabd/chunklist_w1401810880.m3u8
 #EXTINF:-1,MAASRANGA LQ 1
-#EXTINF:-1,[COLOR red] GAZI TV[/COLOR]
-rtmp://45.127.244.8/live/channel2
+#EXTINF:-1,[COLOR red]GAZI TV[/COLOR]
+rtmp://45.127.244.8/live/channel8
 #EXTINF:-1,[COLOR orange]GAZI TV[/COLOR]
 http://109.169.61.10:1935/trunk/gazibd/chunklist_w1861364417.m3u8
 #EXTINF:-1,CHANNEL I HQ
