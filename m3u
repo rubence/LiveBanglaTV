@@ -150,8 +150,8 @@ http://186.179.169.35/edge/smil:colors_iptv.smil/chunklist_w237762445_b1300000.m
 http://186.179.169.35/edge/smil:sonytv_iptv.smil/chunklist_w1754297183_b1300000.m3u8
 #EXTINF:-1,ZOOM
 
-#EXTINF:-1,MTUNES
-
+#EXTINF:-1,MTV INDIA
+http://mhd.ksdmobile.in:9900/live/asif/asif/11470.m3u8
 #EXTINF:-1,MTUNES 2
 http://186.179.169.35/edge/smil:mtunes_iptv.smil/chunklist_w1843005081_b600000.m3u8
 #EXTINF:-1,&TV
@@ -165,7 +165,7 @@ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1,MTV 
 http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
 #EXTINF:-1,ZEE CINEMA
-
+http://mhd.ksdmobile.in:9900/live/asif/asif/11471.m3u8
 #EXTINF:-1,ZEE CINEMA IN
 
 #EXTINF:-1,ZEE CINEMA UK
@@ -200,7 +200,7 @@ http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/b34umus14-mobile.3gp.m3u8
 #EXTINF:0,STAR PLUS
 http://186.179.169.35/edge/smil:starplus_iptv.smil/chunklist_w1510950571_b1300000.m3u8
 #EXTINF:0,STAR PLUS 2
-
+http://mhd.ksdmobile.in:9900/live/asif/asif/11475.m3u8
 #EXTINF:0,STAR PLUS UK
 #EXTINF:-1,UTV Movies International
 
@@ -335,6 +335,7 @@ http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 
 #EXTINF:-1,NASA TV
 #EXTINF:-1,STAR GOLD
+http://mhd.ksdmobile.in:9900/live/asif/asif/11477.m3u8
 
 #EXTINF:-1,ZEE WORLD
 #EXTINF:-1,WB INDIA
