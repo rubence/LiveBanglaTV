@@ -222,7 +222,7 @@ http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index400.m3u8
 #EXTINF:-1,DISCOVERY
 
 #EXTINF:-1,ANIMAL PLANET
-
+http://167.114.102.27/live/qdeSYWs9FSMU4Pq94jdExw/1474949225/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
 #EXTINF:-1,ANIMAL PLANET UK
 #EXTINF:-1,TLC
 
@@ -232,10 +232,12 @@ http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index400.m3u8
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
  
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on
 #EXTINF: 0, FOX NEWS
+http://167.114.102.27/live/ODhx2AIf1I1kuaS9QUVwsQ/1474948121/877e1fd192b3a58577e4387971c215a7.m3u8
 #EXTINF:-1,Fox News
 #EXTINF:-1,CNN
-http://149.255.152.110/cnn/index.m3u8
+http://61.216.71.67/sta/ch36.m3u8
 #EXTINF:-1,CNN
 #EXTINF:-1,CNN USA
 #EXTINF:-1,CNN 3
