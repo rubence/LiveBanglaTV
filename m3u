@@ -214,7 +214,8 @@ http://216.31.255.235/hlsl/1/NATWLD/01.m3u8
 #EXTINF:-1,RT NEWS
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index400.m3u8
 #EXTINF:0,BBC WORLD NEWS
-
+#EXTINF:-1,NBC
+http://46.166.162.35:9091/23493988:3f1d652783cf4458df73241a1d3faf4f/1-.m3u8
 #EXTINF:-1,CNBC
 #EXTINF:-1,HISTORY
 
