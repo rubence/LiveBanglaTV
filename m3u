@@ -49,7 +49,7 @@ http://109.169.61.10:1935/trunk/gazibd/chunklist_w1861364417.m3u8
 #EXTINF:-1,CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,CHANNEL I LQ
-rtmp://203.76.223.34/live/cnchanneli
+http://162.254.149.187:1935/live/channel-i/chunklist_w1497553854.m3u8
 #EXTINF:-1,RTV HQ
 http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,RTV LQ
