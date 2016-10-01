@@ -25,7 +25,7 @@ http://live.amar-tv.com:8081/live1/channel24/chunks.m3u8?
 #EXTINF:-1,[COLOR orange] CHANNEL 24 LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/channel24-sg-e8e.stream/chunklist_w692822633.m3u8?
 #EXTINF:-1,BTV
-http://live.amar-tv.com:8081/live1/btv/chunks.m3u8?
+http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/btvworlds-app.stream/chunklist_w831789289.m3u8?
 #EXTINF:-1,NTV HQ
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,[COLOR orange]NTV LQ[/COLOR]
