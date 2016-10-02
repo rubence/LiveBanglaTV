@@ -54,6 +54,7 @@ http://162.254.149.187:1935/live/channel-i/chunklist_w1497553854.m3u8
 http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,RTV LQ
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/mytv-sg-8.stream/chunklist_w1324205864.m3u8?
+#EXTINF:-1,DEEPTO TV HQ
 http://118.179.35.11/hls/DeeptoTVSQ5j6/05.m3u8
 #EXTINF:-1,DEEPTO TV
 http://109.169.61.10:1935/trunk/deeptobd/chunklist_w490543158.m3u8
