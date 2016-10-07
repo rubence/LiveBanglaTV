@@ -6,11 +6,11 @@ http://109.169.61.10:1935/trunk/atnbanglabd/chunklist_w1035737804.m3u8
 #EXTINF:-1,ATN NEWS
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
 #EXTINF:-1,ATN NEWS 2
-rtmp://203.76.223.34/live/cnatnnews
+http://31.24.226.142:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/atnws-sg.stream/chunklist_w708967859.m3u8?
 #EXTINF:-1,ASIAN TV
 http://118.179.35.11/hls/AsianTV56UtY/06.m3u8
 #EXTINF:-1,ASIAN TV 2
-http://live.amar-tv.com:8081/live1/asiantv/chunks.m3u8?
+http://31.24.226.142:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/asian-app.stream/chunklist_w1897051543.m3u8?
 #EXTINF:-1,[COLOR orange] ASIAN TV LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/asian-app.stream/chunklist_w1319724748.m3u8?
 #EXTINF:-1,ATN MUSIC
@@ -21,7 +21,7 @@ http://109.169.61.10:1935/trunk/banglavisionbd/chunklist_w1572023473.m3u8
 #EXTINF:-1,CHANNEL 24 HQ
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
-http://live.amar-tv.com:8081/live1/channel24/chunks.m3u8?
+
 #EXTINF:-1,[COLOR orange] CHANNEL 24 LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/channel24-sg-e8e.stream/chunklist_w692822633.m3u8?
 #EXTINF:-1,BTV
@@ -83,7 +83,7 @@ http://109.169.61.10:1935/trunk/deshtvbd/chunklist_w1234930346.m3u8
 #EXTINF:-1,EKATTOR HQ
 http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 #EXTINF:-1,EKATTOR LQ
-http://162.254.149.187:1935/live/71tv/chunklist_w27946439.m3u8
+http://31.24.226.142:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekattor-8-orgd.stream/chunklist_w1062744185.m3u8?
 #EXTINF:-1,[COLOR orange] EKATTOR lq [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekattor-8-orgd.stream/chunklist_w1254168899.m3u8?
 #EXTINF:-1,SOMOY TV HQ
