@@ -174,7 +174,7 @@ http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
 #EXTINF:-1,ZEE CINEMA UK
 
 #EXTINF:-1,SET MAX UK
-
+http://136.243.153.149:8081/h-sonymax/stream/chunks.m3u8?
 #EXTINF:-1,ZING
 
 #EXTINF:-1,SAHARA FILMY
@@ -211,8 +211,8 @@ http://185.5.40.104/hls/session-11279317dTZTPVwyPHyqVodQ/CH_BBCWORLDNEWS/bw17580
 #EXTINF:0,STAR PLUS UK
 #EXTINF:-1,UTV Movies International
 
-#EXTINF:-1,NATGEO INDIA
-
+#EXTINF:-1,NATGEO USA
+http://186.179.169.35/edge/smil:ngc_mobile.smil/chunklist_w397101117_b1200000.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://216.31.255.235/hlsl/1/NATWLD/01.m3u8
 #EXTINF:-1,NATGEO
@@ -283,17 +283,17 @@ http://5.254.101.203:1935/tensports//tensports/playlist.m3u8
 #EXTINF:-1,STAR SPORTS HD1
 
 #EXTINF:-1,STAR SPORTS 1
-
+http://136.243.153.149:8081/s-star1live/stream/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS 2
-
+http://136.243.153.149:8081/s-star2live/stream/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1,STAR SPORTS 3
-
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_3_hs.smil/chunklist_b1328000.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
 
 #EXTINF:-1,STAR SPORTS 4
-
+http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_4_hs.smil/chunklist_b728000.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
 
 #EXTINF:-1,STAR SPORTS 2
