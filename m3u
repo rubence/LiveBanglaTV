@@ -17,7 +17,7 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,BANGLAVISION HQ
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,BANGLAVISION LQ
-http://109.169.61.10:1935/trunk/banglavisionbd/chunklist_w1572023473.m3u8
+http://109.169.61.10:1935/trunk/banglavisionbd/chunklist.m3u8
 #EXTINF:-1,CHANNEL 24 HQ
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
@@ -29,7 +29,7 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,NTV HQ
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,[COLOR orange]NTV LQ[/COLOR]
-http://109.169.61.10:1935/trunk/ntvbd/chunklist_w411489104.m3u8
+http://109.169.61.10:1935/trunk/ntvbd/chunklist.m3u8
 
 #EXTINF:-1,CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
@@ -149,13 +149,13 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,SONY HD
 
 #EXTINF:-1,SONY
-http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Asianet_News_hs.smil/chunklist_w1687031060_b1328000.m3u8
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Asianet_News_hs.smil/chunklist.m3u8
 #EXTINF:-1,ZOOM
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist_w1566003931_b1328000.m3u8
 #EXTINF:-1, V INDIA
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist_w994586332_b1328000.m3u8
-#EXTINF:-1,MTUNES 2
-http://livestream.asianetmobiletv.com/content/mtunes_trvhgbxbuxlu_hls/mtunes_trvhgbxbuxlu_profile1.m3u8
+#EXTINF:-1,MTUNES 
+http://livestream.asianetmobiletv.com/content/mtunes_ymwwbfurkewprwpzkgwm_hls/mtunes_ymwwbfurkewprwpzkgwm_profile3.m3u8
 #EXTINF:-1,&TV
 
 #EXTINF:-1,MBC BOLLYWOOD
