@@ -244,8 +244,8 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&r
 
 #EXTINF:-1,FXX
 http://216.31.255.235/hlsl/4/FXX/FXX.m3u8
-#EXTINF:-1,CNN
-http://61.216.71.67/sta/ch36.m3u8
+#EXTINF:-1,CNN UK
+http://par-5.stream.firstonetv.eu/hls/7227b76e-e83d-c762-20c4-c4b2fde2579d.m3u8?
 #EXTINF:-1,CNN
 http://186.179.169.35/edge/smil:cnn_iptv.smil/playlist.m3u8?
 #EXTINF:-1,CNN USA
