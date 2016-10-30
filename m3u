@@ -241,7 +241,7 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on
 #EXTINF: 0, FOX NEWS
-
+http://167.114.102.27/live/j8bmPKyC9WuINBlRR7rrvQ/1477876177/877e1fd192b3a58577e4387971c215a7.m3u8
 #EXTINF:-1,FXX
 http://216.31.255.235/hlsl/4/FXX/FXX.m3u8
 #EXTINF:-1,CNN UK
