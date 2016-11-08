@@ -376,5 +376,4 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1, Weather Channel
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 #EXTINF:-1, TEST1
-http://137.74.200.60/live/cnn9.stream/playlist.m3u8?wowzasessionid=1183793516&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE2IDE6Mzc6NDMgQU0maGFzaF92YWx1ZT1LRk15Zi9UMEVKcy9IME0yTzZaZHdRPT0mdmFsaWRtaW51dGVzPTIw&
 #EXTINF:-1, TEST2
