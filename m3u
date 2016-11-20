@@ -235,10 +235,10 @@ http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8
 http://186.179.169.35/edge/smil:discovery_iptv.smil/chunklist_w181541917_b1300000.m3u8
 #EXTINF:-1,SPIKE
 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] CBSN NEWS [/COLOR]
+#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange]CBSN NEWS [/COLOR]
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
  
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange] MSNBC NEWS [/COLOR]
+#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange]MSNBC NEWS [/COLOR]
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on
 #EXTINF: 0, FOX NEWS
 
@@ -249,7 +249,8 @@ http://216.31.255.235/hlsl/4/FXX/FXX.m3u8
 #EXTINF:-1,CNN
 http://186.179.169.35/edge/smil:cnn_iptv.smil/playlist.m3u8?
 #EXTINF:-1,CNN USA
-#EXTINF:-1,CNN 3
+#EXTINF:-1,[COLOR orange]CNN[/COLOR]
+http://hls.mybeststream.xyz/s/cnn915/oe69e.m3u8?h=FiLQDe7NQ3KyHuS7cx62NQ
 #EXTINF:-1,CNN 4
 #EXTINF:-1,CNN INTERNATIONAL
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
