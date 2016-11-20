@@ -376,9 +376,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1, Weather Channel
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 #EXTINF:-1, TEST1
-http://163.172.31.140:1935/tcode2/smil:setmax.smil/chunklist_w850886500_b1296000_slTE_tkY3RlbmR0aW1lPTE0NzkzNTk5ODYmY3RzdGFydHRpbWU9MTQ3OTM0NTU4NiZjdGhhc2g9b2FyOXFrSy0tSVlJV3A4OGk0TlhCeUtzOWd1cGlYckdaaklFTzJOVGNCOGRqQWc4VU1VcEdsZUduVTQyS192Xw==.m3u8
+http://hls.mybeststream.xyz/s/cnn915/oe69e.m3u8?h=FiLQDe7NQ3KyHuS7cx62NQ
 #EXTINF:-1, TEST2
-http://163.172.31.140:1935/tcode1/smil:zeecinema.smil/chunklist_w1151092915_b1296000_slTE_tkY3RlbmR0aW1lPTE0NzkzNTkwMjAmY3RzdGFydHRpbWU9MTQ3OTM0NDYyMCZjdGhhc2g9TVJOLTVlVUduR0ZmWUtIUkMzTUJDYmRFM0c1WmJCMHg1dU03YkxHZGdZLXlkMVk5WkthcE4zd3VVV2JqSGhnUQ==.m3u8
 #EXTINF:-1,Bein1 hd
 http://130.185.144.112:8081/abcd/bein1/playlist.m3u8?
 #EXTINF:-1,Bein 2 hd
