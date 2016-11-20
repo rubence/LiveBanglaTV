@@ -365,37 +365,32 @@ http://186.179.169.35/edge/smil:wb_iptv.smil/chunklist_w455813231_b1300000.m3u8
 #EXTINF:-1, TNT
 
 #EXTINF:-1, TNT
-
+#EXTINF:0, DJING Animation HD (Music) (US) (English)
+http://www.djing.com/tv/a-05.m3u8
+ 
+#EXTINF:0, DJING Classic HD (Music) (US) (English)
+http://www.djing.com/tv/i-05.m3u8
+ 
+#EXTINF:0, DJING Dancefloor HD (Music) (US) (English)
+http://www.djing.com/tv/d-05.m3u8
+ 
+#EXTINF:0, DJING Hot Hot Hot HD (Music) (US) (English)
+http://www.djing.com/tv/hothothot.m3u8
+ 
+#EXTINF:0, DJING Ibiza HD (Music) (US) (English)
+http://www.djing.com/tv/d-05.m3u8
+ 
+#EXTINF:0, DJING Underground HD (Music) (US) (English)
+http://www.djing.com/tv/u-05.m3u8
 
 #EXTINF:-1, VEVO 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1, VEVO 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
 #EXTINF:-1, VEVO 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
 
 #EXTINF:-1, Weather Channel
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 #EXTINF:-1, TEST1
-http://hls.mybeststream.xyz/s/cnn915/oe69e.m3u8?h=FiLQDe7NQ3KyHuS7cx62NQ
 #EXTINF:-1, TEST2
-#EXTINF:-1,Bein1 hd
-http://130.185.144.112:8081/abcd/bein1/playlist.m3u8?
-#EXTINF:-1,Bein 2 hd
-http://130.185.144.112:8081/abcd/bein2/playlist.m3u8?
-#EXTINF:-1,Bein 3
-http://130.185.144.112:8081/abcd/bein3/playlist.m3u8?
-#EXTINF:-1,Bein 4hd
-http://130.185.144.112:8081/abcd/bein4/playlist.m3u8?
-#EXTINF:-1,Bein 5 hd
-http://130.185.144.112:8081/abcd/bein5/playlist.m3u8?
-#EXTINF:-1,Bein 6 hd
-http://130.185.144.112:8081/abcd/bein6/playlist.m3u8?
-#EXTINF:-1,Bein 7 hd
-http://130.185.144.112:8081/abcd/bein7/playlist.m3u8?
-#EXTINF:-1,Bein 8hd
-http://130.185.144.112:8081/abcd/bein8/playlist.m3u8?
-#EXTINF:-1,Bein 9 hd
-http://130.185.144.112:8081/abcd/bein9/playlist.m3u8?
-#EXTINF:-1,Bein 10 hd
-http://130.185.144.112:8081/abcd/bein10/playlist.m3u8?
+
