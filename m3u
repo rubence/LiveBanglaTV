@@ -34,18 +34,18 @@ http://109.169.61.10:1935/trunk/ntvbd/chunklist.m3u8
 #EXTINF:-1,CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
 #EXTINF:-1,[COLOR orange]CHANNEL 9[/COLOR]
-http://109.169.61.10:1935/trunk/channel9bd/chunklist.m3u8
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/4.m3u8
 #EXTINF:-1,CHANNEL 9 LQ
 
 #EXTINF:-1,MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1,[COLOR orange]MAASRANGA LQ[/COLOR]
-http://109.169.61.10:1935/trunk/maasrangabd/chunklist.m3u8
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/20.m3u8
 #EXTINF:-1,MAASRANGA LQ 1
 #EXTINF:-1,[COLOR red]GAZI TV[/COLOR]
 http://163.172.155.128:89/live/beeiptv/1tYe9DECdB/108.m3u8
 #EXTINF:-1,[COLOR orange]GAZI TV[/COLOR]
-http://109.169.61.10:1935/trunk/gazibd/chunklist.m3u8
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/1.m3u8
 #EXTINF:-1,CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1,CHANNEL I LQ
@@ -55,7 +55,7 @@ http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1,RTV LQ
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/mytv-sg-8.stream/chunklist.m3u8?
 #EXTINF:-1,DEEPTO TV HQ
-http://118.179.35.11/hls/DeeptoTVSQ5j6/05.m3u8
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/22.m3u8
 #EXTINF:-1,DEEPTO TV
 http://109.169.61.10:1935/trunk/deeptobd/chunklist.m3u8
 #EXTINF:-1,EKUSHEY TV HQ
@@ -128,9 +128,9 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,CD CHOICE
 http://103.244.13.158:80/mobile/test/index.m3u8
 #EXTINF:-1,ZEE BANGLA
-
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/24.m3u8
 #EXTINF:-1,SANGEET BANGLA
-
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/27.m3u8
 
 #EXTINF:-1, ZEE BANGLA CINEMA
 
@@ -156,8 +156,10 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist_w994586332_b1328000.m3u8
 #EXTINF:-1,MTUNES 
 http://livestream.asianetmobiletv.com/content/mtunes_ymwwbfurkewprwpzkgwm_hls/mtunes_ymwwbfurkewprwpzkgwm_profile3.m3u8
+#EXTINF:-1,MTUNES 2
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/54.m3u8
 #EXTINF:-1,&TV
-
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/43.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, STAR GOLD
@@ -177,6 +179,8 @@ http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
 http://136.243.153.149:8081/h-sonymax/stream/chunks.m3u8?
 #EXTINF:-1,ZING
 http://46.249.213.87/iPhone/HLS_TS/mptslive/zing-mobile.3gp.m3u8
+#EXTINF:-1,ZING 2
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/34.m3u8
 #EXTINF:-1,SAHARA FILMY
 #EXTINF:-1,SAB
 
