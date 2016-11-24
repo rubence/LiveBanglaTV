@@ -271,17 +271,17 @@ http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1,UNIVERSAL
 http://216.31.255.235/hlsl/12/UNIVERSAL/UNIVERSAL.m3u8
 #EXTINF:-1,SONY SIX
-http://136.243.153.149:8081/s-sonysix/stream/chunks.m3u8?
+http://136.243.153.149:8081/SS2-sonysix/stream/chunks.m3u8?
 #EXTINF:-1,TRU
 http://216.31.255.235/hlsl/7/TRUTV/01.m3u8
 #EXTINF:-1,HUNTING
 http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
 #EXTINF:-1,TEN 1 
-
+http://136.243.153.149:8081/s-ten1live/stream/chunks.m3u8?
 
 
 #EXTINF:-1,TEN 2
-
+http://136.243.153.149:8081/s-ten2live/stream/chunks.m3u8?
 #EXTINF:-1,TEN 3
 
 #EXTINF:-1,STAR SPORTS HD1
