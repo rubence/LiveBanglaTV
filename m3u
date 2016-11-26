@@ -398,5 +398,6 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1, Weather Channel
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 #EXTINF:-1, TEST1
+http://88.150.206.73:8081/streamflare/cnnuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAxNiAzOjA1OjA2IFBNJmhhc2hfdmFsdWU9Vm40MHlvdUZzc3RRaWx0U2dxeDVSUT09JnZhbGlkbWludXRlcz0yMDA=
 #EXTINF:-1, TEST2
 
