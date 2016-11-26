@@ -197,8 +197,7 @@ http://118.179.35.11/hls/b4umusic97w86/04.m3u8
 
 
 #EXTINF:-1,B4U MOVIE
-
-
+http://88.150.206.73:8081/Ind/moviesok/chunks.m3u8?
 #EXTINF:-1,MOVIEs OK
 
 
