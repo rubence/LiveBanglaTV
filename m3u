@@ -146,8 +146,10 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 
 #EXTINF:-1,RISHTEY
 
-#EXTINF:-1,SONY HD
-
+#EXTINF:-1,SONY WAH
+http://streams.cdn0077.com/india_ws885nnbn1/sonywah/chunks.m3u8
+#EXTINF:-1,SONY MIX
+http://streams.cdn0077.com/india_ws885nnbn1/sonymix/chunks.m3u8
 #EXTINF:-1,SONY
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Asianet_News_hs.smil/chunklist.m3u8
 #EXTINF:-1,ZOOM
@@ -397,6 +399,5 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1, Weather Channel
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 #EXTINF:-1, TEST1
-http://streams.cdn0077.com/india_ws885nnbn1/sonymix/chunks.m3u8
 #EXTINF:-1, TEST2
 
