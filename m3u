@@ -2,7 +2,7 @@
 #EXTINF:-0,1,ATN HQ
 http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 #EXTINF:-o,2,[COLOR orange]ATN [/COLOR]
-http://109.169.61.10:1935/trunk/atnbanglabd/chunklist.m3u8
+
 #EXTINF:-1,ATN NEWS
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
 #EXTINF:-1,ATN NEWS 2
@@ -17,7 +17,7 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,BANGLAVISION HQ
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
 #EXTINF:-1,BANGLAVISION LQ
-http://109.169.61.10:1935/trunk/banglavisionbd/chunklist.m3u8
+http://88.202.231.153:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/banglav000O0ll8822323ll24455566.stream/chunklist.m3u8?
 #EXTINF:-1,CHANNEL 24 HQ
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
@@ -29,7 +29,7 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,NTV HQ
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
 #EXTINF:-1,[COLOR orange]NTV LQ[/COLOR]
-http://109.169.61.10:1935/trunk/ntvbd/chunklist.m3u8
+
 
 #EXTINF:-1,CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
@@ -57,11 +57,10 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,DEEPTO TV HQ
 http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/22.m3u8
 #EXTINF:-1,DEEPTO TV
-http://109.169.61.10:1935/trunk/deeptobd/chunklist.m3u8
+
 #EXTINF:-1,EKUSHEY TV HQ
 http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1,EKUSHEY TV LQ
-http://109.169.61.10:1935/trunk/ekusheybd/chunklist.m3u8
 #EXTINF:-1,[COLOR orange] EKUSHEY TV LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekusheytv-8-dorg.stream/chunklist.m3u8?
 #EXTINF:-1,SA TV HQ
@@ -73,13 +72,13 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,BOISHAKHI HQ
 http://118.179.35.11/hls/BoishakhiTVr5MY4/04.m3u8
 #EXTINF:-1,[COLOR orange]BOISHAKHI LQ[/COLOR]
-http://109.169.61.10:1935/trunk/boishakhibd/chunklist.m3u8
+
 #EXTINF:-1,[COLOR orange] BOISHAKHI LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/boishakhi-org-app.stream/chunklist.m3u8?
 #EXTINF:-1,DESH TV HQ
 http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1,[COLOR orange]DESH TV LQ[/COLOR]
-http://109.169.61.10:1935/trunk/deshtvbd/chunklist.m3u8
+
 #EXTINF:-1,EKATTOR HQ
 http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 #EXTINF:-1,EKATTOR LQ
@@ -91,7 +90,7 @@ http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
 #EXTINF:-1,SOMOY TV LQ
 
 #EXTINF:-1,[COLOR orange]SOMOY TV LQ[/COLOR]
-http://109.169.61.10:1935/trunk/somoybd/chunklist.m3u8
+
 #EXTINF:-1,INDEPENDENT TV HQ
 http://118.179.35.11/hls/ITV2434BuA/04.m3u8
 
@@ -136,7 +135,7 @@ http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/27.m3u8
 
 
 #EXTINF:-1,9XM
-http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
+http://118.179.35.11/hls/9XM2Pg3f/05.m3u8
 #EXTINF:-1,[COLOR blue] TIME MUSIC [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/timemusic-srv.stream/chunklist.m3u8?
 #EXTINF:-1,COLORS USA
