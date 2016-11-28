@@ -397,5 +397,6 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1, Weather Channel
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 #EXTINF:-1, TEST1
+http://amrtv.amrbd.com/hls/channel_9_mid/index.m3u8
 #EXTINF:-1, TEST2
 
