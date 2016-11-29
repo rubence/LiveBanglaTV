@@ -171,6 +171,8 @@ http://88.150.206.73:8081/Ind/stargold/chunks.m3u8?
 #EXTINF:-1,ZEE CLASSIC
 #EXTINF:-1,MTV 
 http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
+#EXTINF:-1,MTV IN
+http://amrtv.amrbd.com/hls/mtv.m3u8
 #EXTINF:-1,ZEE CINEMA
 http://88.150.206.73:8081/Ind/zeecinema/chunks.m3u8?
 #EXTINF:-1,ZEE CINEMA IN
