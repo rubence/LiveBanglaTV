@@ -54,7 +54,7 @@ http://88.202.231.153:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h
 http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",RTV LQ
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/mytv-sg-8.stream/chunklist.m3u8?
-#EXTINF:-1,DEEPTO TV HQ
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",DEEPTO TV HQ
 http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/22.m3u8
 #EXTINF:-1,DEEPTO TV
 
@@ -105,38 +105,38 @@ http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
 #EXTINF:-1,[COLOR orange] JAMUNA TV LQ[/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/jamuna-8-app.stream/chunklist.m3u8?
 
-#EXTINF:-1,GAAN BANGLA HQ
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",GAAN BANGLA HQ
 http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
 #EXTINF:-1,GAAN BANGLA LQ
 
-#EXTINF:-1,[COLOR orange] GAAN BANGLA LQ[/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR orange] GAAN BANGLA LQ[/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/gaanbangla-8-org.stream/chunklist.m3u8?
-#EXTINF:-1,MUSIC BANGLA HQ
+#EXTINF:-1 tvg-logo="",MUSIC BANGLA HQ
 http://118.179.35.11/hls/MusicBangla2Q375/05.m3u8
 #EXTINF:-1,MUSIC BANGLA LQ
 #EXTINF:-1,MY TV
 
-#EXTINF:-1,ATN MUSIC
+#EXTINF:-1 tvg-logo="",ATN MUSIC
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/atnmusic-app.stream/chunklist.m3u8
-#EXTINF:-1,[COLOR blue] RANG [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR blue] RANG [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/raniptv.stream/chunklist.m3u8?
-#EXTINF:-1,TBN 24
+#EXTINF:-1 tvg-logo="",TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
-#EXTINF:-1,[COLOR orange] BANGLA TV USA [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR orange] BANGLA TV USA [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/banglatvusaup.stream/chunklist.m3u8?
-#EXTINF:-1,CD CHOICE
+#EXTINF:-1 tvg-logo="",CD CHOICE
 http://103.244.13.158:80/mobile/test/index.m3u8
-#EXTINF:-1,ZEE BANGLA
+#EXTINF:-1 tvg-logo="",ZEE BANGLA
 http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/24.m3u8
-#EXTINF:-1,SANGEET BANGLA
+#EXTINF:-1 tvg-logo="",SANGEET BANGLA
 http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/27.m3u8
 
 #EXTINF:-1, ZEE BANGLA CINEMA
 
 
-#EXTINF:-1,9XM
+#EXTINF:-1 tvg-logo="",9XM
 http://118.179.35.11/hls/9XM2Pg3f/05.m3u8
-#EXTINF:-1,[COLOR blue] TIME MUSIC [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR blue] TIME MUSIC [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/timemusic-srv.stream/chunklist.m3u8?
 #EXTINF:-1,COLORS USA
 #EXTINF:-1,COLORS
@@ -145,45 +145,45 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 
 #EXTINF:-1,RISHTEY
 
-#EXTINF:-1,SONY WAH
+#EXTINF:-1 tvg-logo="",SONY WAH
 http://streams.cdn0077.com/india_ws885nnbn1/sonywah/chunks.m3u8
-#EXTINF:-1,SONY MIX
+#EXTINF:-1 tvg-logo="",SONY MIX
 http://streams.cdn0077.com/india_ws885nnbn1/sonymix/chunks.m3u8
-#EXTINF:-1,SONY
+#EXTINF:-1 tvg-logo="",SONY
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Asianet_News_hs.smil/chunklist.m3u8
-#EXTINF:-1,ZOOM
+#EXTINF:-1 tvg-logo="",ZOOM
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist.m3u8
-#EXTINF:-1, V INDIA
+#EXTINF:-1 tvg-logo="", V INDIA
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist_w994586332_b1328000.m3u8
-#EXTINF:-1,MTUNES 
+#EXTINF:-1 tvg-logo="",MTUNES 
 http://livestream.asianetmobiletv.com/content/mtunes_ymwwbfurkewprwpzkgwm_hls/mtunes_ymwwbfurkewprwpzkgwm_profile3.m3u8
-#EXTINF:-1,MTUNES 2
+#EXTINF:-1 tvg-logo="",MTUNES 2
 http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/54.m3u8
-#EXTINF:-1,&TV
+#EXTINF:-1 tvg-logo="",&TV
 http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/43.m3u8
-#EXTINF:-1,MBC BOLLYWOOD
+#EXTINF:-1 tvg-logo="",MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1, STAR GOLD
+#EXTINF:-1 tvg-logo="",STAR GOLD
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist_w35157504_b1328000.m3u8
 #EXTINF:-1, STAR GOLD IND
 http://88.150.206.73:8081/Ind/stargold/chunks.m3u8?
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
-#EXTINF:-1,MTV 
+#EXTINF:-1 tvg-logo="",MTV 
 http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
-#EXTINF:-1,MTV IN
+#EXTINF:-1 tvg-logo="",MTV IN
 http://amrtv.amrbd.com/hls/mtv.m3u8
-#EXTINF:-1,ZEE CINEMA
+#EXTINF:-1 tvg-logo="",ZEE CINEMA
 http://88.150.206.73:8081/Ind/zeecinema/chunks.m3u8?
 #EXTINF:-1,ZEE CINEMA IN
 
 #EXTINF:-1,ZEE CINEMA UK
 
-#EXTINF:-1,SET MAX UK
+#EXTINF:-1 tvg-logo="",SET MAX UK
 http://136.243.153.149:8081/h-sonymax/stream/chunks.m3u8?
-#EXTINF:-1,ZING
+#EXTINF:-1 tvg-logo="",ZING
 http://46.249.213.87/iPhone/HLS_TS/mptslive/zing-mobile.3gp.m3u8
-#EXTINF:-1,ZING 2
+#EXTINF:-1 tvg-logo="",ZING 2
 http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/34.m3u8
 #EXTINF:-1,SAHARA FILMY
 #EXTINF:-1,SAB
@@ -192,12 +192,12 @@ http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/34.m3u8
 #EXTINF:-1,ZEE TV
 
 #EXTINF:-1,ZEE SMILE
-#EXTINF:-1,B4U MUSIC
+#EXTINF:-1 tvg-logo="",B4U MUSIC
 http://118.179.35.11/hls/b4umusic97w86/04.m3u8
 #EXTINF:-1,BBC
 
 
-#EXTINF:-1,B4U MOVIE
+#EXTINF:-1 tvg-logo="",B4U MOVIE
 http://88.150.206.73:8081/Ind/moviesok/chunks.m3u8?
 #EXTINF:-1,MOVIEs OK
 
@@ -216,76 +216,75 @@ http://88.150.206.73:8081/Ind/moviesok/chunks.m3u8?
 
 #EXTINF:0,STAR PLUS UK
 #EXTINF:-1,UTV Movies International
-
-#EXTINF:-1,NATGEO USA
+#EXTINF:-1 tvg-logo="",NATGEO USA
 http://186.179.169.35/edge/smil:ngc_mobile.smil/chunklist_w524478502_b200000.m3u8
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1 tvg-logo="",Nat Geo Wild
 http://216.31.255.235/hlsl/1/NATWLD/01.m3u8
-#EXTINF:-1,NATGEO
+#EXTINF:-1 tvg-logo="",NATGEO
 http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8
-#EXTINF:-1,RT NEWS
+#EXTINF:-1 tvg-logo="",RT NEWS
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 #EXTINF:0,BBC WORLD NEWS
 #EXTINF:-1,NBC
 
-#EXTINF:-1,CNBC
-#EXTINF:-1,HISTORY
+#EXTINF:-1 tvg-logo="",CNBC
+#EXTINF:-1 tvg-logo="",HISTORY
 
-#EXTINF:-1, DISCOVERY SCI
+#EXTINF:-1 tvg-logo="",DISCOVERY SCI
 http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-logo="",DISCOVERY INVESTIGATION
 http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8
 #EXTINF:-1,ANIMAL PLANET
 
-#EXTINF:-1,ANIMAL PLANET UK
-#EXTINF:-1,DISCOVERY IND
+#EXTINF:-1 tvg-logo="",ANIMAL PLANET UK
+#EXTINF:-1 tvg-logo="",DISCOVERY IND
 http://186.179.169.35/edge/smil:discovery_iptv.smil/chunklist_w181541917_b1300000.m3u8
 #EXTINF:-1,SPIKE
 
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange]CBSN NEWS [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR orange]CBSN NEWS [/COLOR]
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
  
-#EXTINF:-1 group-title=“ENGLISH”, [COLOR orange]MSNBC NEWS [/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR orange]MSNBC NEWS [/COLOR]
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on
 #EXTINF: 0, FOX NEWS
 
-#EXTINF:-1,FXX
+#EXTINF:-1 tvg-logo="",FXX
 http://216.31.255.235/hlsl/4/FXX/FXX.m3u8
 #EXTINF:-1,CNN UK
 
-#EXTINF:-1,CNN
+#EXTINF:-1 tvg-logo="",CNN
 http://186.179.169.35/edge/smil:cnn_iptv.smil/playlist.m3u8?
 #EXTINF:-1,CNN USA
-#EXTINF:-1,[COLOR orange]CNN[/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR orange]CNN[/COLOR]
 http://hls.mybeststream.xyz/s/cnn915/oe69e.m3u8?h=FiLQDe7NQ3KyHuS7cx62NQ
-#EXTINF:-1,CNN 4
-#EXTINF:-1,CNN INTERNATIONAL
+#EXTINF:-1 tvg-logo="",CNN 4
+#EXTINF:-1 tvg-logo="",CNN INTERNATIONAL
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
-#EXTINF:-1,Al Jazeera English
+#EXTINF:-1 tvg-logo="",Al Jazeera English
 http://118.179.35.11/hls/Aljazeera3ftgz/05.m3u8
-#EXTINF:-1,ABC NEWS
+#EXTINF:-1 tvg-logo="",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,WGN NEWS
+#EXTINF:-1 tvg-logo="",WGN NEWS
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,USA
+#EXTINF:-1 tvg-logo="",USA
 http://216.31.255.235/hlsl/3/USA/USA.m3u8
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="",COMEDY CENTRAL
 http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
-#EXTINF:-1,UNIVERSAL
+#EXTINF:-1 tvg-logo="",UNIVERSAL
 http://216.31.255.235/hlsl/12/UNIVERSAL/UNIVERSAL.m3u8
-#EXTINF:-1,SONY SIX
+#EXTINF:-1 tvg-logo="",SONY SIX
 http://136.243.153.149:8081/SS2-sonysix/stream/chunks.m3u8?
-#EXTINF:-1,SONY SIX HD
+#EXTINF:-1 tvg-logo="",SONY SIX HD
 rtmp://movie1.amrbd.com/sports1/livestream
 #EXTINF:-1,TRU
 http://216.31.255.235/hlsl/7/TRUTV/01.m3u8
-#EXTINF:-1,HUNTING
+#EXTINF:-1 tvg-logo="",HUNTING
 http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
-#EXTINF:-1,TEN 1 
+#EXTINF:-1 tvg-logo="",TEN 1 
 http://136.243.153.149:8081/s-ten1live/stream/chunks.m3u8?
 
 
-#EXTINF:-1,TEN 2
+#EXTINF:-1 tvg-logo="",TEN 2
 http://136.243.153.149:8081/s-ten2live/stream/chunks.m3u8?
 #EXTINF:-1,TEN 3
 
@@ -293,15 +292,14 @@ http://136.243.153.149:8081/s-ten2live/stream/chunks.m3u8?
 
 #EXTINF:-1,STAR SPORTS 1
 
-#EXTINF:-1,STAR SPORTS 2
+#EXTINF:-1 tvg-logo="",STAR SPORTS 2
 http://136.243.153.149:8081/s-star2live/stream/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS HD2
-
-#EXTINF:-1,STAR SPORTS 3
+#EXTINF:-1 tvg-logo="",STAR SPORTS 3
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_3_hs.smil/chunklist_b1328000.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
 
-#EXTINF:-1,STAR SPORTS 4
+#EXTINF:-1 tvg-logo="",STAR SPORTS 4
 http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_4_hs.smil/chunklist_b728000.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
 
@@ -315,7 +313,7 @@ http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:S
 #EXTINF:-1,FOX SPORTS 2
 #EXTINF:-1,BT SPORTS 1
 #EXTINF:-1,BT SPORTS 2
-#EXTINF:-1,SKY SPORTS 1
+#EXTINF:-1 tvg-logo="",SKY SPORTS 1
 http://78.56.221.9:7059/skysp2
 #EXTINF:-1,SKY SPORTS 2
 
@@ -345,7 +343,7 @@ http://78.56.221.9:7059/skysp2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/500px-Sony_ESPN.svg.png",SONY ESPN 
 http://136.243.153.149:8081/s-sonyespn/stream/chunks.m3u8?
-#EXTINF:-1 tvg-logo="SONY ESPN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/500px-Sony_ESPN.svg.png"SONY ESPN HD
 rtmp://tv.amrbd.com/live/sports
 #EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,FOX SPORTS 1
@@ -376,19 +374,19 @@ http://186.179.169.35/edge/smil:wb_iptv.smil/chunklist_w455813231_b1300000.m3u8
 #EXTINF:-1, TNT
 
 #EXTINF:-1, TNT
-#EXTINF:0, DJING Animation HD (Music) (US) (English)
+#EXTINF:-1 tvg-logo="", DJING Animation HD (Music) (US) (English)
 http://www.djing.com/tv/a-05.m3u8
  
-#EXTINF:0, DJING Classic HD (Music) (US) (English)
+#EXTINF:-1 tvg-logo="", DJING Classic HD (Music) (US) (English)
 http://www.djing.com/tv/i-05.m3u8
  
-#EXTINF:0, DJING Dancefloor HD (Music) (US) (English)
+#EXTINF:-1 tvg-logo="", DJING Dancefloor HD (Music) (US) (English)
 http://www.djing.com/tv/d-05.m3u8
  
-#EXTINF:0, DJING Hot Hot Hot HD (Music) (US) (English)
+#EXTINF:-1 tvg-logo="", DJING Hot Hot Hot HD (Music) (US) (English)
 http://www.djing.com/tv/hothothot.m3u8
  
-#EXTINF:0, DJING Ibiza HD (Music) (US) (English)
+##EXTINF:-1 tvg-logo="", DJING Ibiza HD (Music) (US) (English)
 http://www.djing.com/tv/d-05.m3u8
  
 #EXTINF:-1 tvg-logo="",DJING Underground 
