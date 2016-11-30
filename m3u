@@ -5,24 +5,24 @@ http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/atn-news.png",ATN NEWS
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
-#EXTINF:-1,ATN NEWS
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/atn-news.png",ATN NEWS
 http://31.24.226.142:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/atnws-sg.stream/chunklist.m3u8?
-#EXTINF:-1,ASIAN TV
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ASIAN-TV-e1383934135464.png",ASIAN TV
 http://118.179.35.11/hls/AsianTV56UtY/06.m3u8
-#EXTINF:-1,ASIAN TV 2
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ASIAN-TV-e1383934135464.png",ASIAN TV
 http://31.24.226.142:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/asian-app.stream/chunklist.m3u8?
-#EXTINF:-1,[COLOR orange] ASIAN TV LQ [/COLOR]
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ASIAN-TV-e1383934135464.png",[COLOR orange] ASIAN TV LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/asian-app.stream/chunklist.m3u8?
 
-#EXTINF:-1,BANGLAVISION HQ
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/bangla-vison.png",BANGLAVISION HQ
 http://118.179.35.11/hls/Bangla_VisionhS43B/05.m3u8
-#EXTINF:-1,BANGLAVISION LQ
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/bangla-vison.png",BANGLAVISION LQ
 http://88.202.231.153:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/banglav000O0ll8822323ll24455566.stream/chunklist.m3u8?
-#EXTINF:-1,CHANNEL 24 HQ
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-24.png",CHANNEL 24 HQ
 http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
 
-#EXTINF:-1,[COLOR orange] CHANNEL 24 LQ [/COLOR]
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-24.png",[COLOR orange] CHANNEL 24 LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/channel24-sg-e8e.stream/chunklist.m3u8?
 #EXTINF:-1,BTV
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/btvworlds-app.stream/chunklist.m3u8?
