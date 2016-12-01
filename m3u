@@ -343,7 +343,7 @@ http://78.56.221.9:7059/skysp2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/500px-Sony_ESPN.svg.png",SONY ESPN 
 http://136.243.153.149:8081/s-sonyespn/stream/chunks.m3u8?
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/500px-Sony_ESPN.svg.png"SONY ESPN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/500px-Sony_ESPN.svg.png",SONY ESPN HD
 rtmp://tv.amrbd.com/live/sports
 #EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,FOX SPORTS 1
@@ -401,6 +401,6 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1, Weather Channel
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 #EXTINF:-1, TEST1
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/27.m3u8?
+rtmp://103.58.73.4/live/banglavision
 #EXTINF:-1, TEST2
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/11.m3u8
+
