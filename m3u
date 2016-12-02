@@ -44,8 +44,8 @@ http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/20.m3u8
 #EXTINF:-1,MAASRANGA LQ 1
 #EXTINF:-1,[COLOR red]GAZI TV[/COLOR]
 http://163.172.155.128:89/live/beeiptv/1tYe9DECdB/108.m3u8
-#EXTINF:-1,[COLOR orange]GAZI TV[/COLOR]
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/1.m3u8
+#EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR orange]GAZI TV[/COLOR]
+http://edge3.digijadoo.net/hls/gazi_tv_low/index.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I LQ
