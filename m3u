@@ -24,7 +24,7 @@ http://118.179.35.11/hls/Channel24mStU9/05.m3u8
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-24.png",[COLOR orange] CHANNEL 24 LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/channel24-sg-e8e.stream/chunklist.m3u8?
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Bangladesh_Television#/media/File:Bangladesh_Television_logo.png",BTV
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/20hratt.png",BTV
 http://amrtv.amrbd.com/hls/btv_world_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ntv.png",NTV HQ
 http://118.179.35.11/hls/nTVKeQBR/05.m3u8
