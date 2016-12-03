@@ -7,11 +7,11 @@ http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
 http://118.179.35.11/hls/ATN_NewscPR5A/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/atn-news.png",ATN NEWS
 http://31.24.226.142:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/atnws-sg.stream/chunklist.m3u8?
-#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ASIAN-TV-e1383934135464.png",ASIAN TV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2yw6a6b.png",ASIAN TV
 http://118.179.35.11/hls/AsianTV56UtY/06.m3u8
-#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ASIAN-TV-e1383934135464.png",ASIAN TV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2yw6a6b.png",ASIAN TV
 http://31.24.226.142:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/asian-app.stream/chunklist.m3u8?
-#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ASIAN-TV-e1383934135464.png",[COLOR orange] ASIAN TV LQ [/COLOR]
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2yw6a6b.png",[COLOR orange] ASIAN TV LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/asian-app.stream/chunklist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/bangla-vison.png",BANGLAVISION HQ
