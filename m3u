@@ -156,31 +156,31 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", V INDIA
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist_w994586332_b1328000.m3u8
-#EXTINF:-1 tvg-logo="",MTUNES 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/9tn3tw.png",MTUNES 
 http://livestream.asianetmobiletv.com/content/mtunes_ymwwbfurkewprwpzkgwm_hls/mtunes_ymwwbfurkewprwpzkgwm_profile3.m3u8
-#EXTINF:-1 tvg-logo="",MTUNES 2
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/54.m3u8
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/9tn3tw.png",MTUNES 2
+
 #EXTINF:-1 tvg-logo="",&TV
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/43.m3u8
+
 #EXTINF:-1 tvg-logo="",MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1 tvg-logo="",STAR GOLD
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist_w35157504_b1328000.m3u8
-#EXTINF:-1, STAR GOLD IND
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD IND
 http://88.150.206.73:8081/Ind/stargold/chunks.m3u8?
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
 #EXTINF:-1 tvg-logo="",MTV 
 http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
-#EXTINF:-1 tvg-logo="",MTV IN
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
 http://amrtv.amrbd.com/hls/mtv.m3u8
-#EXTINF:-1 tvg-logo="",ZEE CINEMA
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/33y3zfp.png",ZEE CINEMA
 http://88.150.206.73:8081/Ind/zeecinema/chunks.m3u8?
 #EXTINF:-1,ZEE CINEMA IN
 
 #EXTINF:-1,ZEE CINEMA UK
 
-#EXTINF:-1 tvg-logo="",SET MAX UK
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/vqjhwy.jpg",SET MAX UK
 http://136.243.153.149:8081/h-sonymax/stream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="",ZING
 http://46.249.213.87/iPhone/HLS_TS/mptslive/zing-mobile.3gp.m3u8
@@ -273,9 +273,9 @@ http://216.31.255.235/hlsl/3/USA/USA.m3u8
 http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1 tvg-logo="",UNIVERSAL
 http://216.31.255.235/hlsl/12/UNIVERSAL/UNIVERSAL.m3u8
-#EXTINF:-1 tvg-logo="",SONY SIX
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX
 http://136.243.153.149:8081/SS2-sonysix/stream/chunks.m3u8?
-#EXTINF:-1 tvg-logo="",SONY SIX HD
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX HD
 rtmp://movie1.amrbd.com/sports1/livestream
 #EXTINF:-1,TRU
 http://216.31.255.235/hlsl/7/TRUTV/01.m3u8
