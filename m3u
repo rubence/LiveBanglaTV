@@ -41,7 +41,7 @@ http://amrtv.amrbd.com/hls/channel_9_mid/index.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",[COLOR orange]MAASRANGA LQ[/COLOR]
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/20.m3u8
+http://amrtv.amrbd.com/hls/maasranga_tv_mid/index.m3u8
 #EXTINF:-1,MAASRANGA LQ 1
 #EXTINF:-1,[COLOR red]GAZI TV[/COLOR]
 http://163.172.155.128:89/live/beeiptv/1tYe9DECdB/108.m3u8
