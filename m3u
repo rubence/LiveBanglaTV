@@ -99,11 +99,11 @@ http://118.179.35.11/hls/ITV2434BuA/04.m3u8
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",[COLOR orange] INDEPENDENT TV LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/independent-8-org.stream/chunklist.m3u8?
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/4j9uo5.png",JAMUNA TV HQ
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/fjlzya.jpg",JAMUNA TV HQ
 http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
 #EXTINF:-1,JAMUNA TV LQ
 
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/4j9uo5.png",[COLOR orange] JAMUNA TV LQ[/COLOR]
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/fjlzya.jpg",[COLOR orange] JAMUNA TV LQ[/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/jamuna-8-app.stream/chunklist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/246oo5s.jpg",GAAN BANGLA HQ
@@ -150,7 +150,7 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 http://streams.cdn0077.com/india_ws885nnbn1/sonywah/chunks.m3u8
 #EXTINF:-1 tvg-logo="",SONY MIX
 http://streams.cdn0077.com/india_ws885nnbn1/sonymix/chunks.m3u8
-#EXTINF:-1 tvg-logo="",SONY
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/9az2hv.jpg",SONY
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Asianet_News_hs.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="",ZOOM
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist.m3u8
