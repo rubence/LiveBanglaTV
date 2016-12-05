@@ -128,7 +128,7 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1 tvg-logo="",CD CHOICE
 http://103.244.13.158:80/mobile/test/index.m3u8
 #EXTINF:-1 tvg-logo="",ZEE BANGLA
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/24.m3u8
+http://amrtv.amrbd.com/hls/zee_bangla_hi/index.m3u8
 #EXTINF:-1 tvg-logo="",SANGEET BANGLA
 http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/27.m3u8
 
@@ -226,6 +226,7 @@ http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8
 #EXTINF:-1 tvg-logo="",RT NEWS
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 #EXTINF:0,BBC WORLD NEWS
+http://amrtv.amrbd.com/hls/bbc_world_hi/index.m3u8
 #EXTINF:-1,NBC
 
 #EXTINF:-1 tvg-logo="",CNBC
