@@ -275,7 +275,7 @@ http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1 tvg-logo="",UNIVERSAL
 http://216.31.255.235/hlsl/12/UNIVERSAL/UNIVERSAL.m3u8
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX
-http://136.243.153.149:8081/SS2-sonysix/stream/chunks.m3u8?
+http://136.243.153.149:8081/SS-sonysix/stream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX HD
 rtmp://movie1.amrbd.com/sports1/livestream
 #EXTINF:-1,TRU
@@ -344,7 +344,7 @@ http://78.56.221.9:7059/skysp2
 #EXTINF:-1,USA: BEIN SPORT USA 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/500px-Sony_ESPN.svg.png",SONY ESPN 
-http://136.243.153.149:8081/s-sonyespn/stream/chunks.m3u8?
+http://136.243.153.149:8081/SS-sonyespn/stream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/500px-Sony_ESPN.svg.png",SONY ESPN HD
 rtmp://tv.amrbd.com/live/sports
 #EXTINF:-1,SKY SPORTS 4
