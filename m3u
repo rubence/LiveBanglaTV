@@ -83,7 +83,7 @@ http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",EKATTOR HQ
 http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",EKATTOR LQ
-http://amrtv.amrbd.com/hls/ekattur_hi/index.m3u8
+http://amrtv.amrbd.com/hls/ekattur_tv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",[COLOR orange] EKATTOR lq [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekattor-8-orgd.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/shomoy.png",SOMOY TV HQ
