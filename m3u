@@ -191,7 +191,7 @@ http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/34.m3u8
 
 #EXTINF:-1,ZEE TV US
 #EXTINF:-1,ZEE TV
-
+http://88.150.206.73:8081/Ind/zeetv/chunks.m3u8?
 #EXTINF:-1,ZEE SMILE
 #EXTINF:-1 tvg-logo="",B4U MUSIC
 http://118.179.35.11/hls/b4umusic97w86/04.m3u8
@@ -294,18 +294,20 @@ http://136.243.153.149:8081/s-ten2live/stream/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS HD1
 
 #EXTINF:-1,STAR SPORTS 1
+http://88.150.206.73:8081/Ind/star1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="",STAR SPORTS 2
 http://136.243.153.149:8081/s-star2live/stream/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS HD2
+http://88.150.206.73:8081/Ind/star2/chunks.m3u8?
 #EXTINF:-1 tvg-logo="",STAR SPORTS 3
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_3_hs.smil/chunklist_b1328000.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
-
+http://88.150.206.73:8081/Ind/star3/chunks.m3u8?
 #EXTINF:-1 tvg-logo="",STAR SPORTS 4
 http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_4_hs.smil/chunklist_b728000.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
-
+http://88.150.206.73:8081/Ind/star4/chunks.m3u8?
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
