@@ -243,6 +243,8 @@ http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8
 #EXTINF:-1 tvg-logo="",ANIMAL PLANET UK
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430",DISCOVERY IND
 http://186.179.169.35/edge/smil:discovery_iptv.smil/chunklist_w181541917_b1300000.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430",DISCOVERY
+http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1,SPIKE
 
 #EXTINF:-1 tvg-logo="",[COLOR orange]CBSN NEWS [/COLOR]
@@ -379,7 +381,7 @@ http://186.179.169.35/edge/smil:wb_iptv.smil/chunklist_w455813231_b1300000.m3u8
 
 #EXTINF:-1,ABC
 #EXTINF:-1, TNT
-
+http://208.86.19.13:8080/live/16.stream/index.m3u8
 #EXTINF:-1, TNT
 #EXTINF:-1 tvg-logo="", DJING Animation HD (Music) (US) (English)
 http://www.djing.com/tv/a-05.m3u8
