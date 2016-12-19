@@ -179,15 +179,15 @@ http://103.240.232.92/hls/mtvstb/01.m3u8
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/33y3zfp.png",ZEE CINEMA
 http://88.150.206.73:8081/Ind/zeecinema/chunks.m3u8?
 #EXTINF:-1,ZEE CINEMA IN
-http://103.240.232.92/hls/zeecinemastb/01.m3u8
+
 #EXTINF:-1,ZEE CINEMA UK
 
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/vqjhwy.jpg",SET MAX UK
 http://136.243.153.149:8081/h-sonymax/stream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="",ZING
-http://46.249.213.87/iPhone/HLS_TS/mptslive/zing-mobile.3gp.m3u8
+
 #EXTINF:-1 tvg-logo="",ZING 2
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/34.m3u8
+
 #EXTINF:-1,SAHARA FILMY
 #EXTINF:-1,SAB
 
@@ -230,9 +230,8 @@ http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 #EXTINF:0,BBC WORLD NEWS
 http://amrtv.amrbd.com/hls/bbc_world_hi/index.m3u8
 #EXTINF:-1,AMC
-http://137.74.200.60:1935/live/amc9.stream/chunklist_w635238824.m3u8?
+
 #EXTINF:-1,NBC
-http://137.74.200.60:1935/live/nbchd2.stream/chunklist_w66890100.m3u8?
 #EXTINF:-1 tvg-logo="",CNBC
 #EXTINF:-1 tvg-logo="",HISTORY
 
@@ -248,7 +247,7 @@ http://186.179.169.35/edge/smil:discovery_iptv.smil/chunklist_w181541917_b130000
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430",DISCOVERY
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1,SPIKE
-http://137.74.200.60:1935/live/spike9.stream/chunklist_w1698558158.m3u8?w
+
 #EXTINF:-1 tvg-logo="",[COLOR orange]CBSN NEWS [/COLOR]
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
  
@@ -272,7 +271,7 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P
 #EXTINF:-1 tvg-logo="",Al Jazeera English
 http://118.179.35.11/hls/Aljazeera3ftgz/05.m3u8
 #EXTINF:-1 tvg-logo="",ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="",WGN NEWS
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="",USA
@@ -282,19 +281,19 @@ http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1 tvg-logo="",UNIVERSAL
 http://216.31.255.235/hlsl/12/UNIVERSAL/UNIVERSAL.m3u8
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX
-http://136.243.153.149:8081/SS-sonysix/stream/chunks.m3u8?
+
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX HD
-rtmp://movie1.amrbd.com/sports1/livestream
+
 #EXTINF:-1,TRU
 http://216.31.255.235/hlsl/7/TRUTV/01.m3u8
 #EXTINF:-1 tvg-logo="",HUNTING
 http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
 #EXTINF:-1 tvg-logo="",TEN 1 
-http://136.243.153.149:8081/s-ten1live/stream/chunks.m3u8?
+
 
 
 #EXTINF:-1 tvg-logo="",TEN 2
-http://136.243.153.149:8081/s-ten2live/stream/chunks.m3u8?
+
 #EXTINF:-1,TEN 3
 
 #EXTINF:-1,STAR SPORTS HD1
@@ -303,7 +302,7 @@ http://136.243.153.149:8081/s-ten2live/stream/chunks.m3u8?
 http://88.150.206.73:8081/Ind/star1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="",STAR SPORTS 2
-http://136.243.153.149:8081/s-star2live/stream/chunks.m3u8?
+
 #EXTINF:-1,STAR SPORTS HD2
 http://88.150.206.73:8081/Ind/star2/chunks.m3u8?
 #EXTINF:-1 tvg-logo="",STAR SPORTS 3
@@ -325,7 +324,7 @@ http://88.150.206.73:8081/Ind/star4/chunks.m3u8?
 #EXTINF:-1,BT SPORTS 1
 #EXTINF:-1,BT SPORTS 2
 #EXTINF:-1 tvg-logo="",SKY SPORTS 1
-http://78.56.221.9:7059/skysp2
+
 #EXTINF:-1,SKY SPORTS 2
 
 #EXTINF:-1,SKY SPORTS 3
@@ -383,7 +382,7 @@ http://186.179.169.35/edge/smil:wb_iptv.smil/chunklist_w455813231_b1300000.m3u8
 
 #EXTINF:-1,ABC
 #EXTINF:-1, TNT
-http://208.86.19.13:8080/live/16.stream/index.m3u8
+
 #EXTINF:-1, TNT
 #EXTINF:-1 tvg-logo="", DJING Animation HD (Music) (US) (English)
 http://www.djing.com/tv/a-05.m3u8
@@ -410,8 +409,7 @@ http://www.djing.com/tv/u-05.m3u8
 
 
 #EXTINF:-1, Weather Channel
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
-#EXTINF:-1, TEST1
-http://137.74.200.60/live/cnn9.stream/playlist.m3u8?wowzasessionid=181017377&
+
+#EXTINF:-1, TEST
 #EXTINF:-1, TEST2
 
