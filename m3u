@@ -411,5 +411,6 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1, Weather Channel
 
 #EXTINF:-1, TEST
+http://tv.solidiptv.com:25461/live/app/channels/3005.m3u8
 #EXTINF:-1, TEST2
 
