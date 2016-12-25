@@ -176,6 +176,7 @@ http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
 http://amrtv.amrbd.com/hls/mtv.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
 http://103.240.232.92/hls/mtvstb/01.m3u8
+
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/33y3zfp.png",ZEE CINEMA
 http://88.150.206.73:8081/Ind/zeecinema/chunks.m3u8?
 #EXTINF:-1,ZEE CINEMA IN
