@@ -43,10 +43,10 @@ http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",[COLOR orange]MAASRANGA LQ[/COLOR]
 http://amrtv.amrbd.com/hls/maasranga_tv_mid/index.m3u8
 #EXTINF:-1,MAASRANGA LQ 1
-#EXTINF:-1,[COLOR red]GAZI TV[/COLOR]
+#EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR red]GAZI TV[/COLOR]
 http://180.211.172.230:1935/gtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR orange]GAZI TV[/COLOR]
-http://edge3.digijadoo.net/hls/gazi_tv_low/index.m3u8
+rtmp://movie1.amrbd.com/gazitv/livestream
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I LQ
@@ -327,7 +327,7 @@ http://88.150.206.73:8081/Ind/star4/chunks.m3u8?
 #EXTINF:-1 tvg-logo="",SKY SPORTS 1
 
 #EXTINF:-1,SKY SPORTS 2
-
+rtmp://amrbd.com/live/skysports
 #EXTINF:-1,SKY SPORTS 3
 
 #EXTINF:-1,SKY SPORTS 4
