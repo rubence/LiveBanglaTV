@@ -229,13 +229,13 @@ http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8
 #EXTINF:-1 tvg-logo="",RT NEWS
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 #EXTINF:0,BBC WORLD NEWS
-http://amrtv.amrbd.com/hls/bbc_world_hi/index.m3u8
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1,AMC
 
 #EXTINF:-1,NBC
 #EXTINF:-1 tvg-logo="",CNBC
 #EXTINF:-1 tvg-logo="",HISTORY
-
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
 #EXTINF:-1 tvg-logo="",DISCOVERY SCI
 http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8
 #EXTINF:-1 tvg-logo="",DISCOVERY INVESTIGATION
@@ -255,6 +255,7 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1 tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/msnbc-logo-1024x674.jpg",[COLOR orange]MSNBC NEWS [/COLOR]
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on
 #EXTINF: 0, FOX NEWS
+http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="",FXX
 http://216.31.255.235/hlsl/4/FXX/FXX.m3u8
@@ -335,8 +336,9 @@ rtmp://amrbd.com/live/skysports
 #EXTINF:-1,SKY SPORTS 5
 
 #EXTINF:-1,Sky Sports 1 HD
+http://80.243.182.106:8080/Sk/SkoS1/index.m3u8
 #EXTINF:-1,Sky Sports 2 HD
-
+http://80.243.182.106:8080/Sk/SpooS2/index.m3u8
 #EXTINF:-1,Sky Sports 3 HD
 
 #EXTINF:-1,Sky Sports 4 HD
@@ -412,6 +414,6 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1, Weather Channel
 
 #EXTINF:-1, TEST
-http://tv.solidiptv.com:25461/live/app/channels/3005.m3u8
+http://185.2.83.63:8080/MiddAaOye/enbeecYehD/index.m3u8
 #EXTINF:-1, TEST2
 
