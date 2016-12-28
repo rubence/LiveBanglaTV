@@ -37,7 +37,7 @@ http://118.179.35.11/hls/Channel92fE8jxVu/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-9.png",[COLOR orange]CHANNEL 9[/COLOR]
 http://180.211.172.230:1935/channel-9/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-9.png",CHANNEL 9 LQ
-http://amrtv.amrbd.com/hls/channel_9_mid/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",[COLOR orange]MAASRANGA LQ[/COLOR]
@@ -65,7 +65,7 @@ http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ETV.png",[COLOR orange] EKUSHEY TV LQ [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekusheytv-8-dorg.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/satv.png",SA TV HQ
-http://118.179.35.11/hls/SATVhfnbM/06.m3u8
+http://118.179.35.11/hls/SATVhfnbM/05.m3u8
 #EXTINF:-1,SA TV LQ
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/satv.png",[COLOR orange] SA TV LQ [/COLOR]
@@ -83,13 +83,13 @@ http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",EKATTOR HQ
 http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",EKATTOR LQ
-http://amrtv.amrbd.com/hls/ekattur_tv_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",[COLOR orange] EKATTOR lq [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekattor-8-orgd.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/shomoy.png",SOMOY TV HQ
 http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
-#EXTINF:-1,SOMOY TV LQ
-
+#EXTINF:-1,NEWS24
+http://118.179.35.11/hls/abcnews24wxz/02.m3u8
 #EXTINF:-1,[COLOR orange]SOMOY TV LQ[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",INDEPENDENT TV HQ
@@ -114,7 +114,8 @@ http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/gaanbangla-8-org.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="",MUSIC BANGLA HQ
 http://118.179.35.11/hls/MusicBangla2Q375/05.m3u8
-#EXTINF:-1,MUSIC BANGLA LQ
+#EXTINF:-1,RTV MUSIC 
+http://109.123.116.246:1935/chlSVydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/rtvmusic.stream/chunklist.m3u8
 #EXTINF:-1,MY TV
 
 #EXTINF:-1 tvg-logo="",ATN MUSIC
@@ -128,12 +129,12 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1 tvg-logo="",CD CHOICE
 http://103.244.13.158:80/mobile/test/index.m3u8
 #EXTINF:-1 tvg-logo="",ZEE BANGLA
-http://amrtv.amrbd.com/hls/zee_bangla_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="",SANGEET BANGLA
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/27.m3u8
+
 
 #EXTINF:-1, STAR JALSHA
-http://amrtv.amrbd.com/hls/star_jalsha_hi/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="",9XM
 http://118.179.35.11/hls/9XM2Pg3f/05.m3u8
@@ -147,44 +148,44 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1,RISHTEY
 
 #EXTINF:-1 tvg-logo="",SONY WAH
-http://streams.cdn0077.com/india_ws885nnbn1/sonywah/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="",SONY MIX
-http://streams.cdn0077.com/india_ws885nnbn1/sonymix/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/9az2hv.jpg",SONY
-http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Asianet_News_hs.smil/chunklist.m3u8
+http://103.240.232.92/hls/sonystb/01.m3u8
 #EXTINF:-1 tvg-logo="",ZOOM
-http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist.m3u8
+http://103.240.232.92/hls/zoomstb/01.m3u8
 #EXTINF:-1 tvg-logo="", V INDIA
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist_w994586332_b1328000.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/9tn3tw.png",MTUNES 
-http://livestream.asianetmobiletv.com/content/mtunes_ymwwbfurkewprwpzkgwm_hls/mtunes_ymwwbfurkewprwpzkgwm_profile3.m3u8
+
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/9tn3tw.png",MTUNES 2
 
 #EXTINF:-1 tvg-logo="",&TV
 
 #EXTINF:-1 tvg-logo="",MBC BOLLYWOOD
-http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist_w35157504_b1328000.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD IND
-http://88.150.206.73:8081/Ind/stargold/chunks.m3u8?
+
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
 #EXTINF:-1 tvg-logo="",MTV 
 http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
-http://amrtv.amrbd.com/hls/mtv.m3u8
+h
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
 http://103.240.232.92/hls/mtvstb/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/33y3zfp.png",ZEE CINEMA
-http://88.150.206.73:8081/Ind/zeecinema/chunks.m3u8?
+http://103.240.232.92/hls/zeecinemastb/01.m3u8
 #EXTINF:-1,ZEE CINEMA IN
 
 #EXTINF:-1,ZEE CINEMA UK
 
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/vqjhwy.jpg",SET MAX UK
-http://136.243.153.149:8081/h-sonymax/stream/chunks.m3u8?
+http://103.240.232.92/hls/setmaxstb/01.m3u8
 #EXTINF:-1 tvg-logo="",ZING
 
 #EXTINF:-1 tvg-logo="",ZING 2
@@ -194,7 +195,7 @@ http://136.243.153.149:8081/h-sonymax/stream/chunks.m3u8?
 
 #EXTINF:-1,ZEE TV US
 #EXTINF:-1,ZEE TV
-http://88.150.206.73:8081/Ind/zeetv/chunks.m3u8?
+http://103.240.232.92/hls/zeetvstb/01.m3u8
 #EXTINF:-1,ZEE SMILE
 #EXTINF:-1 tvg-logo="",B4U MUSIC
 http://118.179.35.11/hls/b4umusic97w86/04.m3u8
@@ -202,7 +203,7 @@ http://118.179.35.11/hls/b4umusic97w86/04.m3u8
 
 
 #EXTINF:-1 tvg-logo="",B4U MOVIE
-http://88.150.206.73:8081/Ind/moviesok/chunks.m3u8?
+http://103.240.232.92/hls/b4umoviesstb/01.m3u8
 #EXTINF:-1,MOVIEs OK
 
 
@@ -269,7 +270,7 @@ http://184.173.179.163:1935/livenewson/livenewson/chunklist.m3u8
 http://208.86.19.13:8080/live/20.stream/index.m3u8
 #EXTINF:-1 tvg-logo="",CNN 4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
+
 #EXTINF:-1 tvg-logo="",Al Jazeera English
 http://118.179.35.11/hls/Aljazeera3ftgz/05.m3u8
 #EXTINF:-1 tvg-logo="",ABC NEWS
@@ -281,13 +282,13 @@ http://216.31.255.235/hlsl/3/USA/USA.m3u8
 #EXTINF:-1 tvg-logo="",COMEDY CENTRAL
 http://216.31.255.235/hlsl/1/COMEDY/01.m3u8
 #EXTINF:-1 tvg-logo="",UNIVERSAL
-http://216.31.255.235/hlsl/12/UNIVERSAL/UNIVERSAL.m3u8
+
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX HD
 
 #EXTINF:-1,TRU
-http://216.31.255.235/hlsl/7/TRUTV/01.m3u8
+
 #EXTINF:-1 tvg-logo="",HUNTING
 http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
 #EXTINF:-1 tvg-logo="",TEN 1 
@@ -306,15 +307,15 @@ http://88.150.206.73:8081/Ind/star1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="",STAR SPORTS 2
 
 #EXTINF:-1,STAR SPORTS HD2
-http://88.150.206.73:8081/Ind/star2/chunks.m3u8?
+
 #EXTINF:-1 tvg-logo="",STAR SPORTS 3
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_3_hs.smil/chunklist_b1328000.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
-http://88.150.206.73:8081/Ind/star3/chunks.m3u8?
+
 #EXTINF:-1 tvg-logo="",STAR SPORTS 4
 http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_4_hs.smil/chunklist_b728000.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
-http://88.150.206.73:8081/Ind/star4/chunks.m3u8?
+
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
@@ -328,7 +329,7 @@ http://88.150.206.73:8081/Ind/star4/chunks.m3u8?
 #EXTINF:-1 tvg-logo="",SKY SPORTS 1
 
 #EXTINF:-1,SKY SPORTS 2
-rtmp://amrbd.com/live/skysports
+
 #EXTINF:-1,SKY SPORTS 3
 
 #EXTINF:-1,SKY SPORTS 4
@@ -355,9 +356,9 @@ http://80.243.182.106:8080/Sk/SpooS2/index.m3u8
 #EXTINF:-1,USA: BEIN SPORT USA 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/500px-Sony_ESPN.svg.png",SONY ESPN 
-http://136.243.153.149:8081/SS-sonyespn/stream/chunks.m3u8?
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/500px-Sony_ESPN.svg.png",SONY ESPN HD
-rtmp://tv.amrbd.com/live/sports
+
 #EXTINF:-1,SKY SPORTS 4
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:0,beIN SPORTS 1HD EN
