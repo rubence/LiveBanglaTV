@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1280px-ATN_Bangla.svg.png",ATN HQ
-http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
+http://88.202.231.153:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/atnbd-8-org.stream/chunklist.m3u8?
 #EXTINF:-o,2,[COLOR orange]ATN [/COLOR]
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/atn-news.png",ATN NEWS
@@ -88,7 +88,7 @@ http://118.179.35.11/hls/EkattorHDV5U46/06.m3u8
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekattor-8-orgd.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/shomoy.png",SOMOY TV HQ
 http://118.179.35.11/hls/SomoyTV43N5q/05.m3u8
-#EXTINF:-1,NEWS24
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",NEWS24
 http://118.179.35.11/hls/abcnews24wxz/02.m3u8
 #EXTINF:-1,[COLOR orange]SOMOY TV LQ[/COLOR]
 
@@ -112,17 +112,17 @@ http://118.179.35.11/hls/GRAMBANGLA/06.m3u8
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/246oo5s.jpg",[COLOR orange] GAAN BANGLA LQ[/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/gaanbangla-8-org.stream/chunklist.m3u8?
-#EXTINF:-1 tvg-logo="",MUSIC BANGLA HQ
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/6zuikj.jpg",MUSIC BANGLA HQ
 http://118.179.35.11/hls/MusicBangla2Q375/05.m3u8
-#EXTINF:-1,RTV MUSIC 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/28k7r74.jpg",RTV MUSIC 
 http://109.123.116.246:1935/chlSVydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/rtvmusic.stream/chunklist.m3u8
 #EXTINF:-1,MY TV
 
-#EXTINF:-1 tvg-logo="",ATN MUSIC
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2r29mjk.png",ATN MUSIC
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/atnmusic-app.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="",[COLOR blue] RANG [/COLOR]
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/8yrzte.png",[COLOR blue] RANG [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/raniptv.stream/chunklist.m3u8?
-#EXTINF:-1 tvg-logo="",TBN 24
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2jaiw4g.jpg",TBN 24
 http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1 tvg-logo="",[COLOR orange] BANGLA TV USA [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/banglatvusaup.stream/chunklist.m3u8?
@@ -388,22 +388,21 @@ http://186.179.169.35/edge/smil:wb_iptv.smil/chunklist_w455813231_b1300000.m3u8
 #EXTINF:-1, TNT
 
 #EXTINF:-1, TNT
-#EXTINF:-1 tvg-logo="", DJING Animation HD (Music) (US) (English)
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2rwnrxz.jpg", DJING Animation HD 
 http://www.djing.com/tv/a-05.m3u8
  
-#EXTINF:-1 tvg-logo="", DJING Classic HD (Music) (US) (English)
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2rwnrxz.jpg", DJING Classic HD 
 http://www.djing.com/tv/i-05.m3u8
  
-#EXTINF:-1 tvg-logo="", DJING Dancefloor HD (Music) (US) (English)
-http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2rwnrxz.jpg", DJING Dancefloor HD 
  
-#EXTINF:-1 tvg-logo="", DJING Hot Hot Hot HD (Music) (US) (English)
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2rwnrxz.jpg", DJING Hot Hot Hot HD 
 http://www.djing.com/tv/hothothot.m3u8
  
-#EXTINF:-1 tvg-logo="",DJING Ibiza HD (Music) (US) (English)
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2rwnrxz.jpg",DJING Ibiza HD 
 http://www.djing.com/tv/d-05.m3u8
  
-#EXTINF:-1 tvg-logo="",DJING Underground 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2rwnrxz.jpg",DJING Underground 
 http://www.djing.com/tv/u-05.m3u8
 
 #EXTINF:-1, VEVO 1
@@ -412,8 +411,8 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1, VEVO 3
 
 
-#EXTINF:-1, Weather Channel
-
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/152c7yf.jpg",Weather Channel
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1, TEST
 http://185.2.83.63:8080/MiddAaOye/enbeecYehD/index.m3u8
 #EXTINF:-1, TEST2
