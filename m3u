@@ -221,41 +221,41 @@ http://103.240.232.92/hls/b4umoviesstb/01.m3u8
 
 #EXTINF:0,STAR PLUS UK
 #EXTINF:-1,UTV Movies International
-#EXTINF:-1 tvg-logo="",NATGEO USA
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/14kz4uq.png",NATGEO USA
 http://186.179.169.35/edge/smil:ngc_mobile.smil/chunklist_w524478502_b200000.m3u8
-#EXTINF:-1 tvg-logo="",Nat Geo Wild
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/14kz4uq.png",Nat Geo Wild
 http://216.31.255.235/hlsl/1/NATWLD/01.m3u8
-#EXTINF:-1 tvg-logo="",NATGEO
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/14kz4uq.png",NATGEO
 http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8
-#EXTINF:-1 tvg-logo="",RT NEWS
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/i74ky0.png",RT NEWS
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
-#EXTINF:0,BBC WORLD NEWS
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/i6cidc.png",BBC WORLD NEWS
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1,AMC
 
 #EXTINF:-1,NBC
 #EXTINF:-1 tvg-logo="",CNBC
-#EXTINF:-1 tvg-logo="",HISTORY
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/f25uv7.jpg",H2
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
-#EXTINF:-1 tvg-logo="",DISCOVERY SCI
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY SCI
 http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8
-#EXTINF:-1 tvg-logo="",DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY INVESTIGATION
 http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/dz6lc8.jpg",ANIMAL PLANET
 
-#EXTINF:-1 tvg-logo="",ANIMAL PLANET UK
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430",DISCOVERY IND
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/dz6lc8.jpg",ANIMAL PLANET UK
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY IND
 http://186.179.169.35/edge/smil:discovery_iptv.smil/chunklist_w181541917_b1300000.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430",DISCOVERY
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1,SPIKE
 
-#EXTINF:-1 tvg-logo="",[COLOR orange]CBSN NEWS [/COLOR]
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/105qqz8.png",[COLOR orange]CBSN NEWS [/COLOR]
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
  
 #EXTINF:-1 tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/msnbc-logo-1024x674.jpg",[COLOR orange]MSNBC NEWS [/COLOR]
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on
-#EXTINF: 0, FOX NEWS
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2hgfpjq.png",FOX NEWS
 http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="",FXX
@@ -271,7 +271,7 @@ http://208.86.19.13:8080/live/20.stream/index.m3u8
 #EXTINF:-1 tvg-logo="",CNN 4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
 
-#EXTINF:-1 tvg-logo="",Al Jazeera English
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/14xjry1.png",Al Jazeera English
 http://118.179.35.11/hls/Aljazeera3ftgz/05.m3u8
 #EXTINF:-1 tvg-logo="",ABC NEWS
 
@@ -301,18 +301,18 @@ http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
 
 #EXTINF:-1,STAR SPORTS HD1
 
-#EXTINF:-1,STAR SPORTS 1
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 1
 http://88.150.206.73:8081/Ind/star1/chunks.m3u8?
 
-#EXTINF:-1 tvg-logo="",STAR SPORTS 2
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 2
 
 #EXTINF:-1,STAR SPORTS HD2
 
-#EXTINF:-1 tvg-logo="",STAR SPORTS 3
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 3
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_3_hs.smil/chunklist_b1328000.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
 
-#EXTINF:-1 tvg-logo="",STAR SPORTS 4
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 4
 http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_4_hs.smil/chunklist_b728000.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
 
@@ -336,15 +336,15 @@ http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:S
 
 #EXTINF:-1,SKY SPORTS 5
 
-#EXTINF:-1,Sky Sports 1 HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 1 HD
 http://80.243.182.106:8080/Sk/SkoS1/index.m3u8
-#EXTINF:-1,Sky Sports 2 HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 2 HD
 http://80.243.182.106:8080/Sk/SpooS2/index.m3u8
-#EXTINF:-1,Sky Sports 3 HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 3 HD
 
-#EXTINF:-1,Sky Sports 4 HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 4 HD
 
-#EXTINF:-1,Sky Sports 5 HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 5 HD
 #EXTINF:-1,HBO HD
 
 #EXTINF:-1,HBO ComedyHD
