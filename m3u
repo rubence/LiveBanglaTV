@@ -345,8 +345,8 @@ http://80.243.182.106:8080/Sk/SpooS2/index.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 4 HD
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 5 HD
-#EXTINF:-1,HBO HD
-
+#EXTINF:-1,HBO IND
+http://103.240.232.92/hls/hbostb/01.m3u8
 #EXTINF:-1,HBO ComedyHD
 
 
