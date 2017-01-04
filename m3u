@@ -46,7 +46,7 @@ http://amrtv.amrbd.com/hls/maasranga_tv_mid/index.m3u8
 #EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR red]GAZI TV[/COLOR]
 http://180.211.172.230:1935/gtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR orange]GAZI TV[/COLOR]
-rtmp://movie1.amrbd.com/gazitv/livestream
+rtmp://220.247.129.60/gazitv/livestream
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I LQ
@@ -55,10 +55,10 @@ http://88.202.231.153:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h
 http://118.179.35.11/hls/RTVBHp5Y/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",RTV LQ
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/mytv-sg-8.stream/chunklist.m3u8?
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FcHzPdLMGLc/V5pafIaA87I/AAAAAAAAAGY/hISV2tZm8tYfGVdwnWhwxnjyuKViKZfpgCK4B/s320/Deepto%2BTV%2BLogo.jpg",DEEPTO TV HQ
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",DEEPTO TV HQ
 http://180.211.172.230:1935/dipto/myStream/media.m3u8
-#EXTINF:-1,DEEPTO TV
-
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",DEEPTO TV
+http://220.247.129.58:8081/live/Deepto-TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ETV.png",EKUSHEY TV HQ
 http://118.179.35.11/hls/ETVFQ46s/05.m3u8
 #EXTINF:-1,EKUSHEY TV LQ
@@ -155,6 +155,7 @@ http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 http://103.240.232.92/hls/sonystb/01.m3u8
 #EXTINF:-1 tvg-logo="",ZOOM
 http://103.240.232.92/hls/zoomstb/01.m3u8
+
 #EXTINF:-1 tvg-logo="", V INDIA
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist_w994586332_b1328000.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/9tn3tw.png",MTUNES 
