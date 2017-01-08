@@ -274,7 +274,7 @@ http://live.softiptv.com:9900/live/525/525/18035.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/14xjry1.png",Al Jazeera English
-
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="",ABC NEWS
 
 #EXTINF:-1 tvg-logo="",WGN NEWS
