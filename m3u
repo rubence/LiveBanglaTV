@@ -412,8 +412,8 @@ http://www.djing.com/tv/u-05.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/152c7yf.jpg",Weather Channel
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+http://klive-a.akamaihd.net/dc-1/m/ny-live-publish2/live/legacy/p/931702/e/1_oorxcge2/t/xPdzPRHeTzuJBzgAqe4T3A/chunklist.m3u8
 #EXTINF:-1, TEST
 http://185.2.83.63:8080/MiddAaOye/enbeecYehD/index.m3u8
 #EXTINF:-1, TEST2
-http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/27.m3u8?
+
