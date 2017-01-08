@@ -419,3 +419,5 @@ http://klive-a.akamaihd.net/dc-1/m/ny-live-publish2/live/legacy/p/931702/e/1_oor
 http://185.2.83.63:8080/MiddAaOye/enbeecYehD/index.m3u8
 #EXTINF:-1, TEST2
 http://hls.megadash.xyz/s/fx157/oe69e.m3u8?h=HLJBFNVN5TrMgdrhkgyVsg
+#EXTINF:-1, TEST3
+http://banglatv.ddns.net:2020/live/beeiptv/beeiptv/22.m3u8
