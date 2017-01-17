@@ -170,9 +170,11 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist_w35157504_b1328000.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD IND
-
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3546.m3u8
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
+#EXTINF:-1,VH1
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.m3u8
 #EXTINF:-1 tvg-logo="",MTV 
 http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
@@ -183,7 +185,7 @@ http://103.240.232.92/hls/mtvstb/01.m3u8
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/33y3zfp.png",ZEE CINEMA
 http://103.240.232.92/hls/zeecinemastb/01.m3u8
 #EXTINF:-1,ZEE CINEMA IN
-
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1580.m3u8
 #EXTINF:-1,ZEE CINEMA UK
 
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/vqjhwy.jpg",SET MAX UK
@@ -232,7 +234,7 @@ http://186.179.169.35/edge/smil:ngc_mobile.smil/chunklist_w524478502_b200000.m3u
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/i74ky0.png",RT NEWS
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/i6cidc.png",BBC WORLD NEWS
-http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1371.m3u8
 #EXTINF:-1,AMC
 
 #EXTINF:-1,NBC
@@ -272,7 +274,7 @@ http://184.173.179.163:1935/livenewson/livenewson/chunklist.m3u8
 http://live.softiptv.com:9900/live/525/525/18035.m3u8
 #EXTINF:-1 tvg-logo="",CNN 4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
-
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1372.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/14xjry1.png",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="",ABC NEWS
@@ -282,7 +284,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1 tvg-logo="",USA
 
 #EXTINF:-1 tvg-logo="",COMEDY CENTRAL
-
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1410.m3u8
 #EXTINF:-1 tvg-logo="",UNIVERSAL
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX
@@ -370,8 +372,8 @@ http://80.243.182.106:8080/Sk/SpooS2/index.m3u8
 #EXTINF:0,beIN SPORTS 3HD EN
 
 #EXTINF:0,PREMIER SPORTS 
-#EXTINF:-1,ZEE LIVING
-
+#EXTINF:-1,ZEE ACTION
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1584.m3u8
 #EXTINF:-1,ZEE LIVING AND FOOD
 
 #EXTINF:-1,NASA TV
@@ -387,8 +389,8 @@ http://186.179.169.35/edge/smil:wb_iptv.smil/chunklist_w455813231_b1300000.m3u8
 #EXTINF:-1,SHOWTIME
 
 #EXTINF:-1,ABC
-#EXTINF:-1, TNT
-
+#EXTINF:-1, TLC
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/314.m3u8
 #EXTINF:-1, TNT
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2rwnrxz.jpg", DJING Animation HD 
 http://www.djing.com/tv/a-05.m3u8
