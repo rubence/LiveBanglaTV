@@ -325,8 +325,8 @@ http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:S
 
 #EXTINF:-1,WILLOW HD
 
-#EXTINF:-1,WILLOW HD 2
-http://37.59.32.55:8081/apkland_live/willow/playlist.m3u8?
+#EXTINF:-1,WILLOW HD 
+http://37.59.32.55:8081/apkland_live/willow/chunks.m3u8?
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
 #EXTINF:-1,BT SPORTS 1
