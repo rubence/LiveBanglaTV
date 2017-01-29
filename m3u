@@ -424,6 +424,7 @@ http://185.2.83.63:8080/MiddAaOye/enbeecYehD/index.m3u8
 http://hls.megadash.xyz/s/fx157/oe69e.m3u8?h=HLJBFNVN5TrMgdrhkgyVsg
 #EXTINF:-1, TEST3
 http://hls.megadash.xyz/s/cnn915/oe69e.m3u8?h=IKoxTDFJrenncFtQYjWdAg
-#EXTINF:-1, TEST4
+#EXTINF:-1, TEST4 CNN USA
 http://5.79.66.2:8000/StreamSmart/verysoon123/46.ch
-
+#EXTINF:-1, TEST5 CNN USA
+http://free-premium-iptv.ddns.net:9090/load/freestreams/68.mpegts
