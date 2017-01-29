@@ -53,7 +53,7 @@ http://88.202.231.153:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",RTV HQ
 http://118.179.35.11/hls/RTVBHp5Yait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",RTV LQ
-
+http://109.123.116.246:1935/chlSVydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/rtvbdoffice.stream/chunklist_w1929157676.m3u8?
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",DEEPTO TV HQ
 http://180.211.172.230:1935/dipto/myStream/media.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",DEEPTO TV
@@ -91,8 +91,8 @@ http://118.179.35.11/hls/SomoyTV43N5qait/05.m3u8
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/mytv-sg-8.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",NEWS24
 http://118.179.35.11/hls/abcnews24wxait/05.m3u8
-#EXTINF:-1,[COLOR orange]SOMOY TV LQ[/COLOR]
-
+#EXTINF:-1,[COLOR orange]DBC NEWS[/COLOR]
+http://220.247.129.58:8081/live/DBC_News/chunks.m3u8?nimblesessionid=2367
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",INDEPENDENT TV HQ
 http://118.179.35.11/hls/ITV2434BuAait/04.m3u8
 
@@ -351,7 +351,7 @@ http://80.243.182.106:8080/Sk/SpooS2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 5 HD
 #EXTINF:-1,HBO IND
-
+http://my2.videodb.in:8081/EN-HBO/stream/chunks.m3u8?
 #EXTINF:-1,HBO ComedyHD
 
 
