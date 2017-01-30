@@ -238,7 +238,7 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1371.m3u8
 #EXTINF:-1,AMC
 
 #EXTINF:-1,NBC
-http://167.114.102.27/live/zPgFKiSfqwu6BuasZK56Ig/1485318062/3baf7db0d8f1d400816fb6166b297f46.m3u8
+
 #EXTINF:-1 tvg-logo="",CNBC
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/f25uv7.jpg",H2
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
@@ -270,7 +270,7 @@ http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN
 http://186.179.169.35/edge/smil:cnn_iptv.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN USA
-http://184.173.179.163:1935/livenewson/livenewson/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
 http://live.softiptv.com:9900/live/525/525/18035.m3u8
 #EXTINF:-1 tvg-logo="",CNN 4
@@ -419,11 +419,11 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/152c7yf.jpg",Weather Channel
 http://klive-a.akamaihd.net/dc-1/m/ny-live-publish2/live/legacy/p/931702/e/1_oorxcge2/t/xPdzPRHeTzuJBzgAqe4T3A/chunklist.m3u8
 #EXTINF:-1, TEST
-http://185.2.83.63:8080/MiddAaOye/enbeecYehD/index.m3u8
+
 #EXTINF:-1, TEST2
-http://hls.megadash.xyz/s/fx157/oe69e.m3u8?h=HLJBFNVN5TrMgdrhkgyVsg
+
 #EXTINF:-1, TEST3
-http://hls.megadash.xyz/s/cnn915/oe69e.m3u8?h=IKoxTDFJrenncFtQYjWdAg
+
 #EXTINF:-1, TEST4 CNN USA
 http://5.79.66.2:8000/StreamSmart/verysoon123/46.ch
 #EXTINF:-1, TEST5 CNN USA
