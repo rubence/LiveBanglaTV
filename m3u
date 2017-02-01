@@ -282,8 +282,8 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index207
 
 #EXTINF:-1 tvg-logo="",WGN NEWS
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="",USA
-
+#EXTINF:-1 tvg-logo="",HGTV
+http://smartiptvspain.mine.nu:980/live/pedro/pedro/29549.m3u8
 #EXTINF:-1 tvg-logo="",COMEDY CENTRAL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1410.m3u8
 #EXTINF:-1 tvg-logo="",UNIVERSAL
