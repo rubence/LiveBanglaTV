@@ -270,7 +270,7 @@ http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN
 http://186.179.169.35/edge/smil:cnn_iptv.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN USA
-
+http://81.230.200.187:1967/live/mustafa/mustafa1/180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
 http://live.softiptv.com:9900/live/525/525/18035.m3u8
 #EXTINF:-1 tvg-logo="",CNN 4
