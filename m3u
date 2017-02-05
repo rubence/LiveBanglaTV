@@ -300,8 +300,8 @@ http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="",TEN 2
-
+#EXTINF:-1 tvg-logo="",OSN 2 HD
+http://9896.akamai.live.selevision.com/live/9896/98966/master.m3u8
 #EXTINF:-1,TEN 3
 
 #EXTINF:-1,STAR SPORTS HD1
