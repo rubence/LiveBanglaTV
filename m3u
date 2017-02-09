@@ -273,7 +273,8 @@ http://186.179.169.35/edge/smil:cnn_iptv.smil/playlist.m3u8?
 http://81.230.200.187:1967/live/mustafa/mustafa1/180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
 http://live.softiptv.com:9900/live/525/525/18035.m3u8
-#EXTINF:-1 tvg-logo="",CNN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN 4
+http://149.202.92.133:8000/live/brett/brett/2469.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1372.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/14xjry1.png",Al Jazeera English
