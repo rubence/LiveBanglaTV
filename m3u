@@ -426,6 +426,6 @@ http://klive-a.akamaihd.net/dc-1/m/ny-live-publish2/live/legacy/p/931702/e/1_oor
 #EXTINF:-1, TEST3
 
 #EXTINF:-1, TEST4 CNN USA
-http://5.79.66.2:8000/StreamSmart/verysoon123/46.ch
+http://213.171.204.52/live/usa/chunklist/6321608bb238fcf4eee2ee40e9315a2a.m3u8
 #EXTINF:-1, TEST5 CNN USA
 http://209.58.163.83:5000/nl.m3u8?id=CNN&nn_ak=018960d48783eed7be398658eeeaf8f789&ngs=588dafe40004ea6e68d0d46a6032c2b2&nn_user_id=Q8KKQBBQF&ndi=9A-7A-92-1E-61-29&nal=01e4af8d580607fcd907614ab5957f2066abcb36827e4a
