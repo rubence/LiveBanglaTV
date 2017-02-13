@@ -128,7 +128,7 @@ http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
 #EXTINF:-1 tvg-logo="",[COLOR orange] BANGLA TV USA [/COLOR]
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/banglatvusaup.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="",CD CHOICE
-http://103.244.13.158:80/mobile/test/index.m3u8
+
 #EXTINF:-1 tvg-logo="",ZEE BANGLA
 
 #EXTINF:-1 tvg-logo="",SANGEET BANGLA
@@ -170,13 +170,13 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist_w35157504_b1328000.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD IND
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3546.m3u8
+
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
 #EXTINF:-1,VH1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.m3u8
 #EXTINF:-1 tvg-logo="",MTV 
-http://186.179.169.35/edge/smil:mtv_iptv.smil/chunklist_w225603594_b1300000.m3u8
+
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
@@ -226,7 +226,6 @@ http://103.240.232.92/hls/b4umoviesstb/01.m3u8
 #EXTINF:0,STAR PLUS UK
 #EXTINF:-1,UTV Movies International
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/14kz4uq.png",NATGEO USA
-http://186.179.169.35/edge/smil:ngc_mobile.smil/chunklist_w524478502_b200000.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/14kz4uq.png",Nat Geo Wild
 
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/14kz4uq.png",NATGEO
@@ -250,7 +249,7 @@ http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/dz6lc8.jpg",ANIMAL PLANET UK
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY IND
-http://186.179.169.35/edge/smil:discovery_iptv.smil/chunklist_w181541917_b1300000.m3u8
+
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1,SPIKE
@@ -268,13 +267,13 @@ http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 #EXTINF:-1,CNN UK
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN
-http://186.179.169.35/edge/smil:cnn_iptv.smil/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN USA
 http://81.230.200.187:1967/live/mustafa/mustafa1/180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
-http://live.softiptv.com:9900/live/525/525/18035.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN 4
-http://149.202.92.133:8000/live/brett/brett/2469.m3u8?
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1372.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/14xjry1.png",Al Jazeera English
@@ -345,14 +344,14 @@ http://37.59.32.55:8081/apkland_live/willow/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 1 HD
 http://80.243.182.106:8080/Sk/SkoS1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 2 HD
-http://80.243.182.106:8080/Sk/SpooS2/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 3 HD
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 4 HD
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 5 HD
 #EXTINF:-1,HBO IND
-http://my2.videodb.in:8081/EN-HBO/stream/chunks.m3u8?
+
 #EXTINF:-1,HBO ComedyHD
 
 
@@ -384,7 +383,7 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1584.m3u8
 
 #EXTINF:-1,ZEE WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/500px-Warner_Bros_logo.svg.png",WB INDIA
-http://186.179.169.35/edge/smil:wb_iptv.smil/chunklist_w455813231_b1300000.m3u8
+
 #EXTINF:-1,STAR MOVIES
 #EXTINF:-1,HBO INDIA
 
@@ -418,7 +417,7 @@ http://www.djing.com/tv/u-05.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/152c7yf.jpg",Weather Channel
-http://klive-a.akamaihd.net/dc-1/m/ny-live-publish2/live/legacy/p/931702/e/1_oorxcge2/t/xPdzPRHeTzuJBzgAqe4T3A/chunklist.m3u8
+
 #EXTINF:-1, TEST
 
 #EXTINF:-1, TEST2
@@ -426,6 +425,6 @@ http://klive-a.akamaihd.net/dc-1/m/ny-live-publish2/live/legacy/p/931702/e/1_oor
 #EXTINF:-1, TEST3
 
 #EXTINF:-1, TEST4 CNN USA
-http://213.171.204.52/live/usa/chunklist/6321608bb238fcf4eee2ee40e9315a2a.m3u8
+
 #EXTINF:-1, TEST5 CNN USA
-http://209.58.163.83:5000/nl.m3u8?id=CNN&nn_ak=018960d48783eed7be398658eeeaf8f789&ngs=588dafe40004ea6e68d0d46a6032c2b2&nn_user_id=Q8KKQBBQF&ndi=9A-7A-92-1E-61-29&nal=01e4af8d580607fcd907614ab5957f2066abcb36827e4a
+
