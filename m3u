@@ -279,7 +279,7 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1372.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/14xjry1.png",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="",ABC NEWS
-
+http://65.202.58.24/i/abc_live1@136327/index_400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="",WGN NEWS
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="",HGTV
