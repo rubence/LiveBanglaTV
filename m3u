@@ -46,7 +46,7 @@ http://180.211.172.230:1935/mas/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR red]GAZI TV[/COLOR]
 http://180.211.172.230:1935/gtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR orange]GAZI TV[/COLOR]
-rtmp://220.247.129.60/gazitv/livestream
+http://iptv.amrbd.com:2017/live/BD_Gazi_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9ait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I LQ
@@ -422,7 +422,7 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/152c7yf.jpg",Weather Channel
 
 #EXTINF:-1, TEST
-
+rtmp://fs.amrbd.com/live/starsportshd1
 #EXTINF:-1, TEST2
 
 #EXTINF:-1, TEST3
