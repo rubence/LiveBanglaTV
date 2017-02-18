@@ -191,6 +191,8 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1580.m3u8
 http://iptv.amrbd.com:2017/live/Zee_Cinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/vqjhwy.jpg",SET MAX UK
 http://103.240.232.92/hls/setmaxstb/01.m3u8
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/vqjhwy.jpg",SET MAX
+http://iptv.amrbd.com:2017/live/Sony_Max/playlist.m3u8
 #EXTINF:-1 tvg-logo="",ZING
 
 #EXTINF:-1 tvg-logo="",ZING 2
@@ -249,8 +251,8 @@ http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/dz6lc8.jpg",ANIMAL PLANET
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/dz6lc8.jpg",ANIMAL PLANET UK
-#EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY IND
-
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY BANGLA
+http://iptv.amrbd.com:2017/live/Discovery_Bangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1,SPIKE
@@ -351,8 +353,8 @@ http://80.243.182.106:8080/Sk/SkoS1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 4 HD
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 5 HD
-#EXTINF:-1,HBO IND
-
+#EXTINF:-1,HBO 
+http://iptv.amrbd.com:2017/live/HBO_Movies/playlist.m3u8
 #EXTINF:-1,HBO ComedyHD
 
 
