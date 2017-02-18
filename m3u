@@ -10,7 +10,7 @@ http://31.24.226.142:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2yw6a6b.png",ASIAN TV
 http://118.179.35.11/hls/AsianTV56UtYait/06.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2yw6a6b.png",ASIAN TV
-
+http://iptv.amrbd.com:2017/live/BD_Asian_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2yw6a6b.png",[COLOR orange] ASIAN TV LQ [/COLOR]
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/bangla-vison.png",BANGLAVISION HQ
@@ -28,15 +28,16 @@ http://31.24.226.142:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/f1ci86.png",NTV HQ
 http://118.179.35.11/hls/nTVKeQBRait/05.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/f1ci86.png",[COLOR orange]NTV LQ[/COLOR]
+http://iptv.amrbd.com:2017/live/BD_NTV_Bangla/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-9.png",CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVuait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-9.png",[COLOR orange]CHANNEL 9[/COLOR]
-http://180.211.172.230:1935/channel-9/myStream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-9.png",CHANNEL 9 LQ
-http://185.101.107.47:8080/cHeekNe3Yyy/chneil9ine/index.m3u8
+http://iptv.amrbd.com:2017/live/BD_Channel_9/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",MAASRANGA HQ
 http://118.179.35.11/hls/MaasrangaSetxBQz5ait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",[COLOR orange]MAASRANGA LQ[/COLOR]
@@ -57,7 +58,7 @@ http://109.123.116.246:1935/chlSVydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",DEEPTO TV HQ
 http://180.211.172.230:1935/dipto/myStream/media.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",DEEPTO TV
-
+http://iptv.amrbd.com:2017/live/BD_Deepto_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ETV.png",EKUSHEY TV HQ
 http://118.179.35.11/hls/ETVFQ46sait/05.m3u8
 #EXTINF:-1,EKUSHEY TV LQ
@@ -91,8 +92,8 @@ http://118.179.35.11/hls/SomoyTV43N5qait/05.m3u8
 http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/mytv-sg-8.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",NEWS24
 http://118.179.35.11/hls/abcnews24wxait/05.m3u8
-#EXTINF:-1,[COLOR orange]DBC NEWS[/COLOR]
-http://220.247.129.58:8081/live/DBC_News/chunks.m3u8?nimblesessionid=2367
+#EXTINF:-1 tvg-logo="http://fs.amrbd.com/amrtv/dbcnews.jpg",[COLOR orange]DBC NEWS[/COLOR]
+http://iptv.amrbd.com:2017/live/BD_DBC_News/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",INDEPENDENT TV HQ
 http://118.179.35.11/hls/ITV2434BuAait/04.m3u8
 
@@ -165,12 +166,12 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/
 
 #EXTINF:-1 tvg-logo="",&TV
 
-#EXTINF:-1 tvg-logo="",MBC BOLLYWOOD
-
+#EXTINF:-1 tvg-logo="",UTV MOVIES
+http://iptv.amrbd.com:2017/live/UTV_Movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist_w35157504_b1328000.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD IND
-
+http://iptv.amrbd.com:2017/live/Star_Gold/playlist.m3u8
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
 #EXTINF:-1,VH1
@@ -178,7 +179,7 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.m3u8
 #EXTINF:-1 tvg-logo="",MTV 
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
-
+http://iptv.amrbd.com:2017/live/MTV_india/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
 http://103.240.232.92/hls/mtvstb/01.m3u8
 
@@ -187,7 +188,7 @@ http://103.240.232.92/hls/zeecinemastb/01.m3u8
 #EXTINF:-1,ZEE CINEMA IN
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1580.m3u8
 #EXTINF:-1,ZEE CINEMA UK
-
+http://iptv.amrbd.com:2017/live/Zee_Cinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/vqjhwy.jpg",SET MAX UK
 http://103.240.232.92/hls/setmaxstb/01.m3u8
 #EXTINF:-1 tvg-logo="",ZING
@@ -374,7 +375,7 @@ http://80.243.182.106:8080/Sk/SkoS1/index.m3u8
 
 #EXTINF:0,PREMIER SPORTS 
 #EXTINF:-1,ZEE ACTION
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1584.m3u8
+http://iptv.amrbd.com:2017/live/Zee_Action/playlist.m3u8
 #EXTINF:-1,ZEE LIVING AND FOOD
 
 #EXTINF:-1,NASA TV
