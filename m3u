@@ -42,7 +42,8 @@ http://iptv.amrbd.com:2017/live/BD_Channel_9/playlist_dvr.m3u8
 http://118.179.35.11/hls/MaasrangaSetxBQz5ait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",[COLOR orange]MAASRANGA LQ[/COLOR]
 http://180.211.172.230:1935/mas/myStream/playlist.m3u8
-#EXTINF:-1,MAASRANGA LQ 1
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",MAASRANGA LQ 
+http://iptv.amrbd.com:2017/live/BD_Massranga_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR red]GAZI TV[/COLOR]
 http://180.211.172.230:1935/gtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR orange]GAZI TV[/COLOR]
