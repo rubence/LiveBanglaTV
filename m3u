@@ -162,7 +162,7 @@ http://103.240.232.92/hls/zoomstb/01.m3u8
 #EXTINF:-1 tvg-logo="", V INDIA
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist_w994586332_b1328000.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/9tn3tw.png",MTUNES 
-
+http://iptv.amrbd.com:2017/live/MTunes_HD/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/9tn3tw.png",MTUNES 2
 
 #EXTINF:-1 tvg-logo="",&TV
