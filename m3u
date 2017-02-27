@@ -70,13 +70,13 @@ http://118.179.35.11/hls/SATVhfnbMait/05.m3u8
 #EXTINF:-1,SA TV LQ
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/satv.png",[COLOR orange] SA TV LQ [/COLOR]
-http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/satv-off-app.stream/chunklist.m3u8?
+
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/boishakhi-tv.png",BOISHAKHI HQ
 http://118.179.35.11/hls/BoishakhiTVr5MY4ait/04.m3u8
 #EXTINF:-1,[COLOR orange]BOISHAKHI LQ[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/boishakhi-tv.png",[COLOR orange] BOISHAKHI LQ [/COLOR]
-http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/boishakhi-org-app.stream/chunklist.m3u8?
+
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/DESH-TV.png",DESH TV HQ
 http://118.179.35.11/hls/Desh_TVYCjrzait/05.m3u8
 #EXTINF:-1,[COLOR orange]DESH TV LQ[/COLOR]
@@ -86,11 +86,11 @@ http://118.179.35.11/hls/EkattorHDV5U46ait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",EKATTOR LQ
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",[COLOR orange] EKATTOR lq [/COLOR]
-http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekattor-8-orgd.stream/chunklist.m3u8?
+
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/shomoy.png",SOMOY TV HQ
 http://118.179.35.11/hls/SomoyTV43N5qait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/shomoy.png",SOMOY TV 
-http://109.123.116.246:1935/chl2VydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/mytv-sg-8.stream/chunklist.m3u8?
+
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",NEWS24
 http://118.179.35.11/hls/abcnews24wxait/05.m3u8
 #EXTINF:-1 tvg-logo="http://fs.amrbd.com/amrtv/dbcnews.jpg",[COLOR orange]DBC NEWS[/COLOR]
