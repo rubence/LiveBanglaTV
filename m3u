@@ -421,11 +421,12 @@ http://www.djing.com/tv/u-05.m3u8
 
 #EXTINF:-1, ABC 
 http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-p.m3u8?
-#EXTINF:-1, TEST2
-
-#EXTINF:-1, TEST3
-
-#EXTINF:-1, TEST4 CNN USA
-
-#EXTINF:-1, TEST5 CNN USA
+#EXTINF:-1, TEN 1
+http://iptv.amrbd.com:2017/live/SP_Ten_Sports1/playlist.m3u8
+#EXTINF:-1, TEN 2
+http://iptv.amrbd.com:2017/live/SP_Ten_Sports2/playlist.m3u8
+#EXTINF:-1, TEN 3
+http://iptv.amrbd.com:2017/live/SP_Ten_Sports3/playlist.m3u8
+#EXTINF:-1, TEN CRICKET
+http://iptv.amrbd.com:2017/live/SP_Ten_Cricket/playlist.m3u8
 
