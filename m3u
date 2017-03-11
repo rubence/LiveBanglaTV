@@ -266,16 +266,16 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&r
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2hgfpjq.png",FOX NEWS
 http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",FXX
+#EXTINF:-1 tvg-logo="",CBS NEWS
 
 #EXTINF:-1,CNN UK
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN
-
+http://plu10.stariptv.co:8888/16008_CNN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN USA
 http://81.230.200.187:1967/live/mustafa/mustafa1/180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
-
+http://199.21.149.125:8888/US_CNN_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN 4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
@@ -297,8 +297,8 @@ http://103.240.232.92/hls/sonysixstb/01.m3u8
 #EXTINF:-1,TRU
 
 #EXTINF:-1 tvg-logo="",HUNTING
-#EXTINF:-1 tvg-logo="",TEN 1 
-
+#EXTINF:-1 tvg-logo="",BEIN USA
+http://199.21.149.125:8888/US_BEIN_SPORT_USA/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="",OSN 2 HD
@@ -325,7 +325,7 @@ http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:S
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-
+http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/index.m3u8
 #EXTINF:-1,WILLOW HD 
 http://37.59.32.55:8081/apkland_live/willow/chunks.m3u8?
 #EXTINF:-1,FOX SPORTS 1
