@@ -253,9 +253,7 @@ http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/dz6lc8.jpg",ANIMAL PLANET UK
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY BANGLA
-http://iptv.amrbd.com:2017/live/Discovery_Bangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY
-http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1,SPIKE
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/105qqz8.png",[COLOR orange]CBSN NEWS [/COLOR]
@@ -275,11 +273,9 @@ http://plu10.stariptv.co:8888/16008_CNN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN USA
 http://81.230.200.187:1967/live/mustafa/mustafa1/180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
-http://199.21.149.125:8888/US_CNN_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN 4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1372.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/14xjry1.png",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="",ABC NEWS
@@ -298,11 +294,9 @@ http://103.240.232.92/hls/sonysixstb/01.m3u8
 
 #EXTINF:-1 tvg-logo="",HUNTING
 #EXTINF:-1 tvg-logo="",BEIN USA
-http://199.21.149.125:8888/US_BEIN_SPORT_USA/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="",OSN 2 HD
-http://9896.akamai.live.selevision.com/live/9896/98966/master.m3u8
 #EXTINF:-1,TEN 3
 
 #EXTINF:-1,STAR SPORTS HD1
@@ -325,9 +319,7 @@ http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:S
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/index.m3u8
 #EXTINF:-1,WILLOW HD 
-http://37.59.32.55:8081/apkland_live/willow/chunks.m3u8?
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
 #EXTINF:-1,BT SPORTS 1
@@ -352,7 +344,7 @@ http://37.59.32.55:8081/apkland_live/willow/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/5w0d8y.png",Sky Sports 5 HD
 #EXTINF:-1,HBO 
-http://iptv.amrbd.com:2017/live/HBO_Movies/playlist.m3u8
+
 #EXTINF:-1,HBO ComedyHD
 
 
@@ -375,7 +367,7 @@ http://iptv.amrbd.com:2017/live/HBO_Movies/playlist.m3u8
 
 #EXTINF:0,PREMIER SPORTS 
 #EXTINF:-1,ZEE ACTION
-http://iptv.amrbd.com:2017/live/Zee_Action/playlist.m3u8
+
 #EXTINF:-1,ZEE LIVING AND FOOD
 
 #EXTINF:-1,NASA TV
@@ -423,11 +415,11 @@ http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1, ABC 
 http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-p.m3u8?
 #EXTINF:-1, TEN 1
-http://iptv.amrbd.com:2017/live/SP_Ten_Sports1/playlist.m3u8
+
 #EXTINF:-1, TEN 2
-http://iptv.amrbd.com:2017/live/SP_Ten_Sports2/playlist.m3u8
+
 #EXTINF:-1, TEN 3
-http://iptv.amrbd.com:2017/live/SP_Ten_Sports3/playlist.m3u8
+
 #EXTINF:-1, TEN CRICKET
-http://iptv.amrbd.com:2017/live/SP_Ten_Cricket/playlist.m3u8
+
 
