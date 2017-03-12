@@ -390,7 +390,8 @@ http://iptv.amrbd.com:2017/live/Zee_Action/playlist.m3u8
 
 #EXTINF:-1,SHOWTIME
 
-#EXTINF:-1,ABC
+#EXTINF:-1,WEATHER NATION
+http://klive-a.akamaihd.net/dc-1/m/ny-live-publish3/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/UIIriVy8O6NbZg_SEhV4oA/chunklist.m3u8
 #EXTINF:-1, TLC
 
 #EXTINF:-1, TNT
