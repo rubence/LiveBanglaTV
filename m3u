@@ -235,7 +235,7 @@ http://103.240.232.92/hls/b4umoviesstb/01.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/i74ky0.png",RT NEWS
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/i6cidc.png",BBC WORLD NEWS
-
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1,AMC
 
 #EXTINF:-1,NBC
@@ -271,9 +271,12 @@ http://plu10.stariptv.co:8888/16008_CNN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN USA
 http://81.230.200.187:1967/live/mustafa/mustafa1/180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
+http://cableking-iptv.com:8000/live/mobi/mobi/18417.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN 4
+http://cableking-iptv.com:8000/live/mobi/mobi/16069.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
+http://cableking-iptv.com:8000/live/mobi/mobi/18416.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/14xjry1.png",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="",ABC NEWS
@@ -282,6 +285,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=1
 #EXTINF:-1 tvg-logo="",HGTV
 
 #EXTINF:-1 tvg-logo="",COMEDY CENTRAL
+http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/15.m3u8
 #EXTINF:-1 tvg-logo="",UNIVERSAL
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX
