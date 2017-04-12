@@ -94,6 +94,8 @@ http://118.179.35.11/hls/SomoyTV43N5qait/05.m3u8
 http://51.15.57.159:8081/cdn90/somoy/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",NEWS24
 http://118.179.35.11/hls/abcnews24wxait/05.m3u8
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",[COLOR green]NEWS24[/COLOR]
+http://88.202.231.153:1935/chl6VydmVkX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/news24-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fs.amrbd.com/amrtv/dbcnews.jpg",[COLOR orange]DBC NEWS[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",INDEPENDENT TV HQ
@@ -424,7 +426,7 @@ http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-p.m3u8?
 #EXTINF:-1, TEN 2
 
 #EXTINF:-1, TEST Swift
-http://51.15.47.194:8081/cdn90/deeptotv/chunks.m3u8?
+http://cdn.bd-cast.net/origin/173.199.116.219/hls/ninechannel.m3u8?st=9hSUhQx8PqQbw0ZCdMUTtA&e=1492044000
 
 #EXTINF:-1, TEN CRICKET
 
