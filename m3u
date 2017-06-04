@@ -46,7 +46,7 @@ http://118.179.35.11/hls/MaasrangaSetxBQz5ait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",[COLOR green]MAASRANGA LQ[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR red]GAZI TV[/COLOR]
-
+http://cdn.bd-cast.net/origin/173.199.116.219/hls/gtv.m3u8?st=NR87uwvNbCfL0vRuqCRccg&e=1496623200
 #EXTINF:-1 tvg-logo="http://52.88.183.217/JS/bdtv/img/gtv_180.png",[COLOR green]GAZI TV[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I HQ
@@ -310,7 +310,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index207
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-
+http://cdn.bd-cast.net/hls/willow.m3u8?st=8hcUzgO57gI04ahuegiRBA&e=1496623200
 #EXTINF:-1,WILLOW HD 
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
