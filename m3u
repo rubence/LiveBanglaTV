@@ -56,7 +56,7 @@ http://118.179.35.11/hls/ChannelI4sZk9ait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",RTV HQ
 http://118.179.35.11/hls/RTVBHp5Yait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",[COLOR green]RTV [/COLOR]
-
+http://109.123.116.246:1935/chlSVydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/rtv-sg.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",DEEPTO TV HQ
 http://180.211.172.230:1935/dipto/myStream/media.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",[COLOR green]DEEPTO TV[/COLOR]
@@ -65,6 +65,7 @@ http://180.211.172.230:1935/dipto/myStream/media.m3u8
 http://118.179.35.11/hls/ETVFQ46sait/05.m3u8
 #EXTINF:-1,EKUSHEY TV LQ
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/ETV.png",[COLOR green]EKUSHEY TV[/COLOR]
+http://109.123.116.246:1935/c2VydmVyX3RpbWU9OS8yNi8yMDE1IDExOjQ5OjE5IEFNJmhhc2hfdmFsdWU9dmVZS3JkajdpV09lcnZwYkZKOEYrUT09JnZhbGlkbWludXRlcz0yMDE/ekusheytv-8-org.stream/chunklist_w806143737_tka2V5ZW5kdGltZT0xNDk2NjExMDgwJmtleXN0YXJ0dGltZT0wJmtleWhhc2g9bmZYbnh4SUwtYnVhX3A3bTVuRWhGRVgyVDFwbXFXb3gzSndNMEFDQktpYz0=.m3u8
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/satv.png",SA TV HQ
 http://118.179.35.11/hls/SATVhfnbMait/05.m3u8
@@ -94,8 +95,8 @@ http://118.179.35.11/hls/SomoyTV43N5qait/05.m3u8
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",NEWS24
 http://118.179.35.11/hls/abcnews24wxait/05.m3u8
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",[COLOR green]NEWS24[/COLOR]
-
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",[COLOR green]NEWS24 OS[/COLOR]
+http://109.123.116.246:1935/chlSVydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/news24-off.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://fs.amrbd.com/amrtv/dbcnews.jpg",[COLOR orange]DBC NEWS[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",INDEPENDENT TV HQ
@@ -109,8 +110,8 @@ http://118.179.35.11/hls/ITV2434BuAait/04.m3u8
 http://118.179.35.11/hls/JamunaTVNs4MEait/04.m3u8
 #EXTINF:-1,JAMUNA TV LQ
 
-#EXTINF:-1 tvg-logo="http://i67.tinypic.com/fjlzya.jpg",[COLOR green] JAMUNA TV LQ[/COLOR]
-
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/fjlzya.jpg",[COLOR green] JAMUNA TV OS[/COLOR]
+http://109.123.116.246:1935/chlSVydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/jamuna-test-sample-ok.stream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/246oo5s.jpg",GAAN BANGLA HQ
 http://118.179.35.11/hls/GRAMBANGLAait/06.m3u8
@@ -265,6 +266,7 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&r
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN USA
+http://109.123.114.178:1935/Livenewson/Livenewson/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN 4
 
@@ -308,7 +310,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index207
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://51.15.137.107:8081/cdn90/willowhd/chunks.m3u8?
+
 #EXTINF:-1,WILLOW HD 
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
