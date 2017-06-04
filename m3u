@@ -22,7 +22,7 @@ http://118.179.35.11/hls/Channel24mStU9ait/05.m3u8
 #EXTINF:-1,CHANNEL 24 LQ
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-24.png",[COLOR green] CHANNEL 24 [/COLOR]
-
+http://88.202.231.153:1935/chl6VydmVkX3epbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/channel24-sg-e8e.stream/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/20hratt.png",[COLOR green]BTV[/COLOR]
 http://162.254.149.187:1935/live/btv/media_w510264447_1873.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/f1ci86.png",NTV HQ
@@ -72,13 +72,13 @@ http://118.179.35.11/hls/SATVhfnbMait/05.m3u8
 #EXTINF:-1,SA TV LQ
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/satv.png",[COLOR green]SA TV[/COLOR]
-
+http://88.202.231.153:1935/chl6VydmVkX3epbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/satv-off-app.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/boishakhi-tv.png",BOISHAKHI HQ
 http://118.179.35.11/hls/BoishakhiTVr5MY4ait/04.m3u8
 #EXTINF:-1,[COLOR orange]BOISHAKHI LQ[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/boishakhi-tv.png",[COLOR green] BOISHAKHI[/COLOR]
-
+http://88.202.231.153:1935/chl6VydmVkX3epbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/boishakhitv-org.stream/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/DESH-TV.png",DESH TV HQ
 http://118.179.35.11/hls/Desh_TVYCjrzait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/DESH-TV.png",[COLOR green]DESH TV LQ[/COLOR]
@@ -88,7 +88,7 @@ http://118.179.35.11/hls/EkattorHDV5U46ait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",EKATTOR LQ
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/71-TV.png",[COLOR green] EKATTOR[/COLOR]
-
+http://88.202.231.153:1935/chl6VydmVkX3epbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/ekattor-8-orgd.stream/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/shomoy.png",SOMOY TV HQ
 http://118.179.35.11/hls/SomoyTV43N5qait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/shomoy.png",[COLOR green]SOMOY TV[/COLOR]
@@ -105,7 +105,7 @@ http://118.179.35.11/hls/ITV2434BuAait/04.m3u8
 #EXTINF:-1,INDEPENDENT TV LQ
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",[COLOR green] INDEPENDENT[/COLOR]
-
+http://88.202.231.153:1935/chl6VydmVkX3epbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/independent-8-org.stream/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/fjlzya.jpg",JAMUNA TV HQ
 http://118.179.35.11/hls/JamunaTVNs4MEait/04.m3u8
 #EXTINF:-1,JAMUNA TV LQ
@@ -118,7 +118,7 @@ http://118.179.35.11/hls/GRAMBANGLAait/06.m3u8
 #EXTINF:-1,GAAN BANGLA LQ
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/246oo5s.jpg",[COLOR green] GAAN BANGLA LQ[/COLOR]
-
+http://31.24.226.142:1935/chl6VydmVkX3epbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/gaanbangla-8-org.stream/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/6zuikj.jpg",MUSIC BANGLA HQ
 http://118.179.35.11/hls/MusicBangla2Q375ait/05.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/28k7r74.jpg",RTV MUSIC 
