@@ -213,7 +213,7 @@ http://118.179.35.11/hls/b4umusic97w86ait/04.m3u8
 
 
 #EXTINF:-1 tvg-logo="",B4U MOVIE
-http://103.240.232.92/hls/b4umoviesstb/01.m3u8
+http://my2.videodb.in:8081/hindi/b4umovies-b7/chunks.m3u8?
 #EXTINF:-1,MOVIEs OK
 
 
@@ -246,7 +246,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="",CNBC
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/f25uv7.jpg",H2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY SCI
 
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/23uq7u1.png",DISCOVERY INVESTIGATION
@@ -264,36 +263,27 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1 tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/msnbc-logo-1024x674.jpg",[COLOR orange]MSNBC NEWS [/COLOR]
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2hgfpjq.png",FOX NEWS
-http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="",CBS NEWS
 
 #EXTINF:-1,CNN UK
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN
-http://plu10.stariptv.co:8888/16008_CNN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN USA
-http://81.230.200.187:1967/live/mustafa/mustafa1/180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
-http://cableking-iptv.com:8000/live/mobi/mobi/18417.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN 4
-http://cableking-iptv.com:8000/live/mobi/mobi/16069.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN INTERNATIONAL
-http://cableking-iptv.com:8000/live/mobi/mobi/18416.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/14xjry1.png",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="",ABC NEWS
 #EXTINF:-1 tvg-logo="",WGN NEWS
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="",HGTV
 
 #EXTINF:-1 tvg-logo="",COMEDY CENTRAL
-http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/15.m3u8
 #EXTINF:-1 tvg-logo="",UNIVERSAL
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX
-http://103.240.232.92/hls/sonysixstb/01.m3u8
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/zn0tjk.png",SONY SIX HD
 
 #EXTINF:-1,TRU
@@ -315,11 +305,9 @@ http://103.240.232.92/hls/sonysixstb/01.m3u8
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 3
-http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_3_hs.smil/chunklist_b1328000.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 4
-http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_4_hs.smil/chunklist_b728000.m3u8
 #EXTINF:-1,STAR SPORTS 4HD
 
 #EXTINF:-1,STAR SPORTS 2
@@ -429,5 +417,5 @@ http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-p.m3u8?
 
 #EXTINF:-1, TEN CRICKET
 #EXTINF:-1,TEST
-http://etheriptv.mywire.org:8000/live/transportstream01/wYmlAAPn4o/16.ts
+
 
