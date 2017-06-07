@@ -172,7 +172,7 @@ http://118.179.35.11/hls/9XM2Pg3fait/05.m3u8
 
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD IND
-
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist.m3u8
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
 #EXTINF:-1,VH1
@@ -180,7 +180,7 @@ http://118.179.35.11/hls/9XM2Pg3fait/05.m3u8
 #EXTINF:-1 tvg-logo="",MTV 
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
-
+http://sknwz08-us.skandha.tv/live/smil:MTVJugni.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
 
 
