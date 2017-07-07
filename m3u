@@ -168,7 +168,7 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/
 #EXTINF:-1 tvg-logo="",MTV 
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
-http://sknwz08-us.skandha.tv/live/smil:MTVJugni.smil/chunklist.m3u8
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_600.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
 
 
@@ -283,13 +283,14 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index207
 #EXTINF:-1,STAR SPORTS HD1
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 1
-
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_HD_1/Star_Sports_HD_1_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 2
-
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_HD_2/Star_Sports_HD_2_800.m3u8
 #EXTINF:-1,STAR SPORTS HD2
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 3
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_800.m3u8
 #EXTINF:-1,STAR SPORTS 3HD
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 4
@@ -298,7 +299,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index207
 #EXTINF:-1,STAR SPORTS 2
 
 #EXTINF:-1,WILLOW HD
-http://cdn.bd-cast.net/hls/willow.m3u8?st=8hcUzgO57gI04ahuegiRBA&e=1496623200
+https://live9.userapi.com/639914/live/rR5fnBtWaQfwyqom/playlist.m3u8
 #EXTINF:-1,WILLOW HD 
 #EXTINF:-1,FOX SPORTS 1
 #EXTINF:-1,FOX SPORTS 2
@@ -397,7 +398,7 @@ http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-p.m3u8?
 #EXTINF:-1, TEN 1
 
 #EXTINF:-1, TEN 2
-
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_2/Ten_2_600.m3u8
 #EXTINF:-1, TEST Swift
 
 #EXTINF:-1, TEN CRICKET
