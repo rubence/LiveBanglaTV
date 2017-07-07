@@ -254,7 +254,7 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&r
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN USA
-http://109.123.114.178:1935/Livenewson/Livenewson/chunklist.m3u8
+http://109.123.114.178:1935/Livenewson/Livenewson2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",[COLOR orange]CNN[/COLOR]
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/500px-Cnn.svg.png",CNN 4
 
