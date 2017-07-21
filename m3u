@@ -145,7 +145,7 @@ http://118.179.35.11/hls/9XM2Pg3fait/05.m3u8
 #EXTINF:-1 tvg-logo="",SONY WAH
 
 #EXTINF:-1 tvg-logo="",SONY MIX
-http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_600.m3u8
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_600.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/9az2hv.jpg",SONY
 
 #EXTINF:-1 tvg-logo="",ZOOM
@@ -168,8 +168,10 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/
 
 #EXTINF:-1 tvg-logo="",MTV 
 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN(USA)
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_600.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
-http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_600.m3u8
+http://fliue.vyrnnppgampvi.click/live/smil:qhdrtuweqwp.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV BEATS
 http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8
 
