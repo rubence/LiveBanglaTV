@@ -161,7 +161,7 @@ http://87.98.150.108:1935/live/channelv_fr.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wme4w6.png",STAR GOLD IND
-http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist.m3u8
+http://smumcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist.m3u8
 #EXTINF:-1, ENJOY NOW
 #EXTINF:-1,ZEE CLASSIC
 #EXTINF:-1,VH1
@@ -173,7 +173,7 @@ http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_600.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
 http://fliue.vyrnnppgampvi.click/live/smil:qhdrtuweqwp.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV BEATS
-http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/33y3zfp.png",ZEE CINEMA
 
