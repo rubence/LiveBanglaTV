@@ -44,8 +44,8 @@ http://118.179.35.11/hls/MaasrangaSetxBQz5ait/05.m3u8
 http://130.185.144.63:8081/bang/MASRANGATV/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",[COLOR green]MAASRANGA LQ[/COLOR]
 
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/10psmes.png",[COLOR red]GAZI TV[/COLOR]
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/10psmes.png",[COLOR green]GAZI TV[/COLOR]
+#EXTINF:-1 tvg-logo="https://ibb.co/gQH2P5",[COLOR red]GAZI TV[/COLOR]
+#EXTINF:-1 tvg-logo="https://ibb.co/gQH2P5",[COLOR green]GAZI TV[/COLOR]
 http://130.185.144.63:8081/bang/GTV/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I HQ
 http://118.179.35.11/hls/ChannelI4sZk9ait/05.m3u8
