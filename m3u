@@ -96,7 +96,7 @@ http://130.185.144.63:8081/bang/SOMOY/chunks.m3u8?
 http://118.179.35.11/hls/abcnews24wxait/05.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/rhinvr.jpg",[COLOR green]NEWS24 OS[/COLOR]
 http://130.185.144.63:8081/bang/NEWS24HD/chunks.m3u8?
-#EXTINF:-1 tvg-logo="http://fs.amrbd.com/amrtv/dbcnews.jpg",[COLOR orange]DBC NEWS[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg",[COLOR orange]DBC NEWS[/COLOR]
 http://130.185.144.63:8081/bang/DBCNEWS/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",INDEPENDENT TV HQ
 http://118.179.35.11/hls/ITV2434BuAait/04.m3u8
