@@ -162,6 +162,7 @@ http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_600.
 #EXTINF:-1 tvg-logo="", V INDIA
 http://87.98.150.108:1935/live/channelv_fr.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/9tn3tw.png",MTUNES 
+http://indiao.freeddns.org:8080/Startv_Hindi_Music_Live/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/9tn3tw.png",MTUNES 2
 
 #EXTINF:-1 tvg-logo="",&TV
@@ -178,11 +179,11 @@ http://smumcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/
 #EXTINF:-1 tvg-logo="",MTV 
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN(USA)
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_600.m3u8
+http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_600.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN
 http://fliue.vyrnnppgampvi.click/live/smil:hvcavjhncahbjhgds.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV BEATS
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV
+http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/33y3zfp.png",ZEE CINEMA
 
