@@ -45,6 +45,7 @@ http://130.185.144.63:8081/bang/MASRANGATV/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",[COLOR green]MAASRANGA LQ[/COLOR]
 
 #EXTINF:-1 tvg-logo="https://ibb.co/gQH2P5",[COLOR red]GAZI TV[/COLOR]
+http://192.243.101.159:8081/livetv/gazitv/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://www.use.com/Mnx4Y",[COLOR green]GAZI TV[/COLOR]
 http://130.185.144.63:8081/bang/GTV/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-i.png",CHANNEL I HQ
