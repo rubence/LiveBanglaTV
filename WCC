@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 1
+http://45.64.137.210:8081/live/starsports1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1zqvbie.jpg",STAR SPORTS 2
+http://45.64.137.210:8081/live/starsports2/chunks.m3u8?
+#EXTINF:-1,STAR SPORTS SELECT
+http://45.64.137.210:8081/live/select2/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://ibb.co/gQH2P5",[COLOR red]GAZI TV[/COLOR]
+http://45.64.137.210:8081/live/gazi/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",MAASRANGA HQ
+http://45.64.137.210:8081/live/maasranga/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",DEEPTO TV HQ
+http://45.64.137.210:8081/live/deeptotv/chunks.m3u8?
